@@ -1,7 +1,8 @@
 package com.automatic.android;
 
 import com.automatic.android.controller.ApiController;
-import com.fedorvlasov.lazylist.ImageLoader;
+import com.nostra13.universalimageloader.core.ImageLoader;
+import com.nostra13.universalimageloader.core.ImageLoaderConfiguration;
 
 import android.app.Application;
 
@@ -31,8 +32,11 @@ public class BaseApplication extends Application {
 	public static ImageLoader getImageLoader() {
 
 		if(_imageloader == null) {
-			_imageloader = new ImageLoader(_instance.getApplicationContext());
+            ImageLoaderConfiguration config = new ImageLoaderConfiguration.Builder(_instance.getApplicationContext()).build();
+			ImageLoader.getInstance().init(config);
+            _imageloader = ImageLoader.getInstance();
 		}
+
 		return _imageloader;
 	}
 }

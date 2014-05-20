@@ -81,7 +81,7 @@ public class TripsAdapter extends ArrayAdapter<Trip> {
 		//map
 		String url = "http://maps.googleapis.com/maps/api/staticmap?size=350x250&path=weight:5%7Ccolor:0x2fc0df%7Cenc:"+trip.getPath();
 		try {
-			BaseApplication.getImageLoader().DisplayImage(url, holder.mapImage);
+			BaseApplication.getImageLoader().displayImage(url, holder.mapImage);
 		}catch(Exception e){}
 		
 		return rowView;
