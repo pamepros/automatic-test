@@ -3,4 +3,4 @@ android:
   components:
     - build-tools-19.0.0
 
-script: ./gradlew build connectedCheck
+script: ./gradlew --no-color build connectedCheck
