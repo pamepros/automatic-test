@@ -1,4 +1,3 @@
-Rainforest Connection Client for Android 
+Automatic Android Test
 ============
 
-Visit https://rfcx.org/ for more info
