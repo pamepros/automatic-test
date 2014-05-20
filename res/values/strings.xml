@@ -1,0 +1,3 @@
+<resources>
+    <string name="no_connection">Error connecting to the server!</string>
+</resources>

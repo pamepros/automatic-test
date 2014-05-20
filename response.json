@@ -1,0 +1,4360 @@
+[
+    {
+        "uri": "https://api.automatic.com/v1/trips/5367a0f4e4b07d729e39a171",
+        "id": "5367a0f4e4b07d729e39a171",
+        "user": {
+            "id": "e1028edc1f8bd41386c7"
+        },
+        "vehicle": {
+            "uri": "https://api.automatic.com/v1/vehicles/519965e4e4b0c01e0964fde5",
+            "id": "519965e4e4b0c01e0964fde5",
+            "year": 2006,
+            "make": "Scion",
+            "model": "xA",
+            "display_name": "Scion",
+            "color": "#404347"
+        },
+        "start_time": 1399299830361,
+        "start_time_zone": "America/Los_Angeles",
+        "end_time": 1399300194525,
+        "end_time_zone": "America/Los_Angeles",
+        "distance_m": 1354.6666666666677,
+        "fuel_cost_usd": 0.14106404147562113,
+        "fuel_volume_gal": 0.03458299619407235,
+        "average_mpg": 24.34002065717838,
+        "start_location": {
+            "name": "466 Bush Street, San Francisco, CA 94104, USA",
+            "display_name": "Bush St, SF, CA",
+            "lat": 37.7907233,
+            "lon": -122.4052107,
+            "accuracy_m": 30
+        },
+        "end_location": {
+            "name": "165 Jessie Street, San Francisco, CA 94105, USA",
+            "display_name": "Jessie St, SF, CA",
+            "lat": 37.787036,
+            "lon": -122.401837,
+            "accuracy_m": 45
+        },
+        "path": "i~seFjgbjV]}E_@{FKkA`BSjC]fC[x@IXHLAlCyDjCjD",
+        "hard_accels": 0,
+        "hard_brakes": 0,
+        "duration_over_80_s": 0,
+        "duration_over_75_s": 0,
+        "duration_over_70_s": 0
+    },
+    {
+        "uri": "https://api.automatic.com/v1/trips/5363275fe4b0e392c669fa7d",
+        "id": "5363275fe4b0e392c669fa7d",
+        "user": {
+            "id": "e1028edc1f8bd41386c7"
+        },
+        "vehicle": {
+            "uri": "https://api.automatic.com/v1/vehicles/519965e4e4b0c01e0964fde5",
+            "id": "519965e4e4b0c01e0964fde5",
+            "year": 2006,
+            "make": "Scion",
+            "model": "xA",
+            "display_name": "Scion",
+            "color": "#404347"
+        },
+        "start_time": 1399005347278,
+        "start_time_zone": "America/Los_Angeles",
+        "end_time": 1399006899153,
+        "end_time_zone": "America/Los_Angeles",
+        "distance_m": 20103.36111111106,
+        "fuel_cost_usd": 1.2476235396278383,
+        "fuel_volume_gal": 0.3058650501661776,
+        "average_mpg": 40.8403949872729,
+        "start_location": {
+            "name": "1350 Sutter Street, San Francisco, CA 94109, USA",
+            "display_name": "Sutter St, SF, CA",
+            "lat": 37.787692,
+            "lon": -122.422693,
+            "accuracy_m": 20
+        },
+        "end_location": {
+            "name": "780 South Airport Boulevard, South San Francisco, CA 94128, USA",
+            "display_name": "S Airport Blvd, South San Francisco, CA",
+            "lat": 37.6361826,
+            "lon": -122.3999448,
+            "accuracy_m": 20.784000396728516
+        },
+        "path": "ujseFptejVn@nJNrBxDg@xDa@zDe@fFm@jCa@tJiAb[uDtH{@vGw@f@hH@NpBU\\In@Wd@UjBcA`@Yn@m@^e@d@y@Xo@\\eAJm@RyAH}C@oAFmBToCn@iHLuEJ{LFsID}AHaB`@sETiCLWXqBLyBDs@HeAVsAb@}AJSXm@t@kAHGVQj@ShAQ~AIZCHEJOd@AzBGlEYbACx@?nAJz@LxA`@r@X~@f@fCtAr@Vp@Pv@JdABnAGxAYpAi@jAy@v@y@dBgC|A}BhAkAd@[d@WfA_@z@SnAKjPo@bEHx@HhBXtDv@rBh@JBh@J|Bh@`ATbGlAjA\\bARzE`AfAZ~An@~Az@tGfFbBhA|BhAbBd@|AXbCZnBHbDG`BO`Di@bAUdAa@zBaA~Ay@TIXKxBeArCwAxGiDjDaBbI_DjFgBzDmAnCaAjHuBrDcAjEqArH}B|C}@bDs@vGqApF}@zDw@`EoAXMr@]`B}@vH}FnA}@|Aw@`C_AlBi@~Cg@jFu@lBWbZwDxK}Aly@eLr[oEjEm@bWmDlLcBzIuAhCW|BIz@AxBDrAJhC^^D|A`@bEpAVJnElBjEzBjC~AhCdBlEfDbGvF|RfRdClCjB~BdBhCPZVd@n@lAzLpTnAjBZ^jApA~@|@nA`A`BdAbAj@hHdDhFhBdCr@|B^bAJpAJxBDvCGtKi@lDMx_@yAnQu@lAIrC]hCi@~Cy@rFoB|AYxBq@vBm@bAUdAU`Iu@b@EDDH@jDEh@DnBXv@Jz@D|@Ep@E]eCMi@kBoHg@}Ac@eAgB{D}@mDm@sBe@iBeIhDmFfCOHFTXz@BXALGL}@`@",
+        "hard_accels": 0,
+        "hard_brakes": 1,
+        "duration_over_80_s": 0,
+        "duration_over_75_s": 0,
+        "duration_over_70_s": 0
+    },
+    {
+        "uri": "https://api.automatic.com/v1/trips/536116bae4b06401e2c4f221",
+        "id": "536116bae4b06401e2c4f221",
+        "user": {
+            "id": "e1028edc1f8bd41386c7"
+        },
+        "vehicle": {
+            "uri": "https://api.automatic.com/v1/vehicles/519965e4e4b0c01e0964fde5",
+            "id": "519965e4e4b0c01e0964fde5",
+            "year": 2006,
+            "make": "Scion",
+            "model": "xA",
+            "display_name": "Scion",
+            "color": "#404347"
+        },
+        "start_time": 1398871531135,
+        "start_time_zone": "America/Los_Angeles",
+        "end_time": 1398871708405,
+        "end_time_zone": "America/Los_Angeles",
+        "distance_m": 307,
+        "fuel_cost_usd": 0.07270409450380792,
+        "fuel_volume_gal": 0.017823999633196353,
+        "average_mpg": 10.702477555126196,
+        "start_location": {
+            "name": "1650 Octavia Street, San Francisco, CA 94123, USA",
+            "display_name": "Octavia St, SF, CA",
+            "lat": 37.78755659999999,
+            "lon": -122.4267069,
+            "accuracy_m": 16.101999282836914
+        },
+        "end_location": {
+            "name": "1901-1949 Sutter Street, San Francisco, CA 94115, USA",
+            "display_name": "Sutter St, SF, CA",
+            "lat": 37.786204,
+            "lon": -122.4321088,
+            "accuracy_m": 21.37299919128418
+        },
+        "path": "ckseFvnfjVvBWLvAj@lI\\~Eh@lIJ`B",
+        "hard_accels": 0,
+        "hard_brakes": 0,
+        "duration_over_80_s": 0,
+        "duration_over_75_s": 0,
+        "duration_over_70_s": 0
+    },
+    {
+        "uri": "https://api.automatic.com/v1/trips/536017ace4b051ee92228a8e",
+        "id": "536017ace4b051ee92228a8e",
+        "user": {
+            "id": "e1028edc1f8bd41386c7"
+        },
+        "vehicle": {
+            "uri": "https://api.automatic.com/v1/vehicles/519965e4e4b0c01e0964fde5",
+            "id": "519965e4e4b0c01e0964fde5",
+            "year": 2006,
+            "make": "Scion",
+            "model": "xA",
+            "display_name": "Scion",
+            "color": "#404347"
+        },
+        "start_time": 1398806255713,
+        "start_time_zone": "America/Los_Angeles",
+        "end_time": 1398806416926,
+        "end_time_zone": "America/Los_Angeles",
+        "distance_m": 382.7777777777778,
+        "fuel_cost_usd": 0.08432058314297383,
+        "fuel_volume_gal": 0.02067187623019707,
+        "average_mpg": 11.50582953821544,
+        "start_location": {
+            "name": "1380 Sutter Street, San Francisco, CA 94109, USA",
+            "display_name": "Sutter St, SF, CA",
+            "lat": 37.7875163,
+            "lon": -122.4228817,
+            "accuracy_m": 26.516000747680664
+        },
+        "end_location": {
+            "name": "1650 Octavia Street, San Francisco, CA 94123, USA",
+            "display_name": "Octavia St, SF, CA",
+            "lat": 37.7870946,
+            "lon": -122.4266945,
+            "accuracy_m": 16.101999282836914
+        },
+        "path": "ojseF|uejVbB`WwBV",
+        "hard_accels": 1,
+        "hard_brakes": 0,
+        "duration_over_80_s": 0,
+        "duration_over_75_s": 0,
+        "duration_over_70_s": 0
+    },
+    {
+        "uri": "https://api.automatic.com/v1/trips/536017ace4b051ee92228a89",
+        "id": "536017ace4b051ee92228a89",
+        "user": {
+            "id": "e1028edc1f8bd41386c7"
+        },
+        "vehicle": {
+            "uri": "https://api.automatic.com/v1/vehicles/519965e4e4b0c01e0964fde5",
+            "id": "519965e4e4b0c01e0964fde5",
+            "year": 2006,
+            "make": "Scion",
+            "model": "xA",
+            "display_name": "Scion",
+            "color": "#404347"
+        },
+        "start_time": 1398803859800,
+        "start_time_zone": "America/Los_Angeles",
+        "end_time": 1398803968800,
+        "end_time_zone": "America/Los_Angeles",
+        "distance_m": 360.4444444444444,
+        "fuel_cost_usd": 0.04638046636128516,
+        "fuel_volume_gal": 0.011370548262143947,
+        "average_mpg": 19.6973610257152,
+        "start_location": {
+            "name": "Unknown",
+            "display_name": "Unknown",
+            "lat": 37.7893566,
+            "lon": -122.4239229,
+            "accuracy_m": 30
+        },
+        "end_location": {
+            "name": "Unknown",
+            "display_name": "Sutter St, SF, CA",
+            "lat": 37.7874685,
+            "lon": -122.422771,
+            "accuracy_m": 26.516000747680664
+        },
+        "path": "qvseF~{ejVaD^e@wHvG_AvGw@XlE",
+        "hard_accels": 0,
+        "hard_brakes": 0,
+        "duration_over_80_s": 0,
+        "duration_over_75_s": 0,
+        "duration_over_70_s": 0
+    },
+    {
+        "uri": "https://api.automatic.com/v1/trips/53600bafe4b051ee922247c1",
+        "id": "53600bafe4b051ee922247c1",
+        "user": {
+            "id": "e1028edc1f8bd41386c7"
+        },
+        "vehicle": {
+            "uri": "https://api.automatic.com/v1/vehicles/519965e4e4b0c01e0964fde5",
+            "id": "519965e4e4b0c01e0964fde5",
+            "year": 2006,
+            "make": "Scion",
+            "model": "xA",
+            "display_name": "Scion",
+            "color": "#404347"
+        },
+        "start_time": 1398802365371,
+        "start_time_zone": "America/Los_Angeles",
+        "end_time": 1398803278762,
+        "end_time_zone": "America/Los_Angeles",
+        "distance_m": 4630.8333333333285,
+        "fuel_cost_usd": 0.515414570671942,
+        "fuel_volume_gal": 0.1263580707702726,
+        "average_mpg": 22.772320057158385,
+        "start_location": {
+            "name": "301 Main Street, San Francisco, CA 94105, USA",
+            "display_name": "Main St, SF, CA",
+            "lat": 37.7892416,
+            "lon": -122.3914127,
+            "accuracy_m": 34.5
+        },
+        "end_location": {
+            "name": "1601 Franklin Street, San Francisco, CA 94109, USA",
+            "display_name": "Franklin St, SF, CA",
+            "lat": 37.7893566,
+            "lon": -122.4239229,
+            "accuracy_m": 30
+        },
+        "path": "cuseFbr_jVs@`A{@mAwC_E{@gAnCyDvAmBNOn@z@zE~GgDpEkA~AiCoDoCoDYc@mA`Ae@T}Aj@m@Vc@Xk@b@e@f@wDvEoCxCyA~AqBfByCpCuBfBkD|CcEhDaCvBn@tAXx@BRvAvTlBnZbAjPXvDChAl@fEx@jMnAvRpAdSH`DX~DH^`@vGB\\hBQ~Fq@nDe@nDg@|Fq@hBOzDk@j@|He@F",
+        "hard_accels": 0,
+        "hard_brakes": 1,
+        "duration_over_80_s": 0,
+        "duration_over_75_s": 0,
+        "duration_over_70_s": 0
+    },
+    {
+        "uri": "https://api.automatic.com/v1/trips/535e8164e4b0f407c28de80d",
+        "id": "535e8164e4b0f407c28de80d",
+        "user": {
+            "id": "e1028edc1f8bd41386c7"
+        },
+        "vehicle": {
+            "uri": "https://api.automatic.com/v1/vehicles/519965e4e4b0c01e0964fde5",
+            "id": "519965e4e4b0c01e0964fde5",
+            "year": 2006,
+            "make": "Scion",
+            "model": "xA",
+            "display_name": "Scion",
+            "color": "#404347"
+        },
+        "start_time": 1398701060004,
+        "start_time_zone": "America/Los_Angeles",
+        "end_time": 1398702283581,
+        "end_time_zone": "America/Los_Angeles",
+        "distance_m": 3589.5277777777856,
+        "fuel_cost_usd": 0.432543621655462,
+        "fuel_volume_gal": 0.10604158412735033,
+        "average_mpg": 21.0335329597508,
+        "start_location": {
+            "name": "1570 Sutter Street, San Francisco, CA 94109, USA",
+            "display_name": "Sutter St, SF, CA",
+            "lat": 37.78722700000001,
+            "lon": -122.4263445,
+            "accuracy_m": 20.868999481201172
+        },
+        "end_location": {
+            "name": "50-98 Folsom Street, San Francisco, CA 94105, USA",
+            "display_name": "Folsom St, SF, CA",
+            "lat": 37.7904033,
+            "lon": -122.3907338,
+            "accuracy_m": 58.5
+        },
+        "path": "ugseFjkfjV_@uFxDg@i@gIgIdAk@Fi@_Ik@sIaBaWaEgo@uAiUoAcR[mEUgEMiB|@uAtFuHjNcRyDkF{AoBqAqBqBqCaCcD",
+        "hard_accels": 1,
+        "hard_brakes": 0,
+        "duration_over_80_s": 0,
+        "duration_over_75_s": 0,
+        "duration_over_70_s": 0
+    },
+    {
+        "uri": "https://api.automatic.com/v1/trips/535bca71e4b02821ab0cb19d",
+        "id": "535bca71e4b02821ab0cb19d",
+        "user": {
+            "id": "e1028edc1f8bd41386c7"
+        },
+        "vehicle": {
+            "uri": "https://api.automatic.com/v1/vehicles/519965e4e4b0c01e0964fde5",
+            "id": "519965e4e4b0c01e0964fde5",
+            "year": 2006,
+            "make": "Scion",
+            "model": "xA",
+            "display_name": "Scion",
+            "color": "#404347"
+        },
+        "start_time": 1398523859372,
+        "start_time_zone": "America/Los_Angeles",
+        "end_time": 1398524400802,
+        "end_time_zone": "America/Los_Angeles",
+        "distance_m": 1682.75,
+        "fuel_cost_usd": 0.2756606978992771,
+        "fuel_volume_gal": 0.06758046038226946,
+        "average_mpg": 15.472110841252904,
+        "start_location": {
+            "name": "1380 Sutter Street, San Francisco, CA 94109, USA",
+            "display_name": "Sutter St, SF, CA",
+            "lat": 37.7874711,
+            "lon": -122.4229492,
+            "accuracy_m": 15.178999900817871
+        },
+        "end_location": {
+            "name": "1570 Sutter Street, San Francisco, CA 94109, USA",
+            "display_name": "Sutter St, SF, CA",
+            "lat": 37.7870045,
+            "lon": -122.4261869,
+            "accuracy_m": 20.868999481201172
+        },
+        "path": "mjseFjvejVvA~S",
+        "hard_accels": 0,
+        "hard_brakes": 0,
+        "duration_over_80_s": 0,
+        "duration_over_75_s": 0,
+        "duration_over_70_s": 0
+    },
+    {
+        "uri": "https://api.automatic.com/v1/trips/535b1bd1e4b0854f06be6ea1",
+        "id": "535b1bd1e4b0854f06be6ea1",
+        "user": {
+            "id": "e1028edc1f8bd41386c7"
+        },
+        "vehicle": {
+            "uri": "https://api.automatic.com/v1/vehicles/519965e4e4b0c01e0964fde5",
+            "id": "519965e4e4b0c01e0964fde5",
+            "year": 2006,
+            "make": "Scion",
+            "model": "xA",
+            "display_name": "Scion",
+            "color": "#404347"
+        },
+        "start_time": 1398479131930,
+        "start_time_zone": "America/Los_Angeles",
+        "end_time": 1398479796416,
+        "end_time_zone": "America/Los_Angeles",
+        "distance_m": 2950.6944444444425,
+        "fuel_cost_usd": 0.36152105915228216,
+        "fuel_volume_gal": 0.08862982572990492,
+        "average_mpg": 20.686902064548242,
+        "start_location": {
+            "name": "875 Battery Street, San Francisco, CA 94111, USA",
+            "display_name": "Battery St, SF, CA",
+            "lat": 37.7992697,
+            "lon": -122.4014011,
+            "accuracy_m": 30
+        },
+        "end_location": {
+            "name": "1380 Sutter Street, San Francisco, CA 94109, USA",
+            "display_name": "Sutter St, SF, CA",
+            "lat": 37.7874794,
+            "lon": -122.4231169,
+            "accuracy_m": 15.178999900817871
+        },
+        "path": "qtueFrnajVjC]JtANtCj@hI|Bb_@XvDChAl@fEx@jMnAvRZdFv@xLH|CF|@NjBH^d@tHzDa@rLyAdGy@zD]vG_A|ASxDc@ZzE",
+        "hard_accels": 0,
+        "hard_brakes": 0,
+        "duration_over_80_s": 0,
+        "duration_over_75_s": 0,
+        "duration_over_70_s": 0
+    },
+    {
+        "uri": "https://api.automatic.com/v1/trips/535b16b8e4b047b644f1fe93",
+        "id": "535b16b8e4b047b644f1fe93",
+        "user": {
+            "id": "e1028edc1f8bd41386c7"
+        },
+        "vehicle": {
+            "uri": "https://api.automatic.com/v1/vehicles/519965e4e4b0c01e0964fde5",
+            "id": "519965e4e4b0c01e0964fde5",
+            "year": 2006,
+            "make": "Scion",
+            "model": "xA",
+            "display_name": "Scion",
+            "color": "#404347"
+        },
+        "start_time": 1398477978535,
+        "start_time_zone": "America/Los_Angeles",
+        "end_time": 1398478491986,
+        "end_time_zone": "America/Los_Angeles",
+        "distance_m": 2211.6111111111118,
+        "fuel_cost_usd": 0.29951824420641404,
+        "fuel_volume_gal": 0.07342933174954991,
+        "average_mpg": 18.71502028050078,
+        "start_location": {
+            "name": "276-298 Spear Street, San Francisco, CA 94105, USA",
+            "display_name": "Spear St, SF, CA",
+            "lat": 37.7902533,
+            "lon": -122.3912135,
+            "accuracy_m": 5
+        },
+        "end_location": {
+            "name": "875 Battery Street, San Francisco, CA 94111, USA",
+            "display_name": "Battery St, SF, CA",
+            "lat": 37.7993452,
+            "lon": -122.4015321,
+            "accuracy_m": 30
+        },
+        "path": "c|seF~o_jV`@i@iA}A{@gAY_@IMYVe@^a@VkA`@_A^_@R}@n@}BrCwDjEyBbCkBbBqCfCwG|FiCvB{EdEkC~BoC`CaAx@FPLVR`@FPBTl@lJjFm@",
+        "hard_accels": 0,
+        "hard_brakes": 0,
+        "duration_over_80_s": 0,
+        "duration_over_75_s": 0,
+        "duration_over_70_s": 0
+    },
+    {
+        "uri": "https://api.automatic.com/v1/trips/535a86a4e4b097231d7f179e",
+        "id": "535a86a4e4b097231d7f179e",
+        "user": {
+            "id": "e1028edc1f8bd41386c7"
+        },
+        "vehicle": {
+            "uri": "https://api.automatic.com/v1/vehicles/519965e4e4b0c01e0964fde5",
+            "id": "519965e4e4b0c01e0964fde5",
+            "year": 2006,
+            "make": "Scion",
+            "model": "xA",
+            "display_name": "Scion",
+            "color": "#404347"
+        },
+        "start_time": 1398440007099,
+        "start_time_zone": "America/Los_Angeles",
+        "end_time": 1398441491816,
+        "end_time_zone": "America/Los_Angeles",
+        "distance_m": 4899.694444444444,
+        "fuel_cost_usd": 0.5986302461309687,
+        "fuel_volume_gal": 0.14675906990217424,
+        "average_mpg": 20.745082266959646,
+        "start_location": {
+            "name": "1405 San Francisco Bicycle Route 16, San Francisco, CA 94109, USA",
+            "display_name": "San Francisco Bicycle Rte 16, SF, CA",
+            "lat": 37.78722399999999,
+            "lon": -122.4236931,
+            "accuracy_m": 10
+        },
+        "end_location": {
+            "name": "276-298 Spear Street, San Francisco, CA 94105, USA",
+            "display_name": "Spear St, SF, CA",
+            "lat": 37.7901985,
+            "lon": -122.3912418,
+            "accuracy_m": 5
+        },
+        "path": "yiseFf{ejVb@lGxDg@a@oGGw@_BRqDd@yGx@gHv@_Gt@_JhAoD\\wDh@m@{Ia@wG?a@QoCAa@IuC_Fcv@c@oEQ_AYwDq@mKu@qMm@aJqBa[Im@Uo@Wi@~@w@jAeAzCcCxBgBrAmA|CyBhB}@\\Sx@q@v@eAXc@d@kAR_@x@oAn@q@nBcCfAsA\\YXQXMhAxAhClDxB}CvAmB",
+        "hard_accels": 0,
+        "hard_brakes": 0,
+        "duration_over_80_s": 0,
+        "duration_over_75_s": 0,
+        "duration_over_70_s": 0
+    },
+    {
+        "uri": "https://api.automatic.com/v1/trips/5359bab4e4b03ecf4531493f",
+        "id": "5359bab4e4b03ecf4531493f",
+        "user": {
+            "id": "e1028edc1f8bd41386c7"
+        },
+        "vehicle": {
+            "uri": "https://api.automatic.com/v1/vehicles/519965e4e4b0c01e0964fde5",
+            "id": "519965e4e4b0c01e0964fde5",
+            "year": 2006,
+            "make": "Scion",
+            "model": "xA",
+            "display_name": "Scion",
+            "color": "#404347"
+        },
+        "start_time": 1398387712028,
+        "start_time_zone": "America/Los_Angeles",
+        "end_time": 1398389291798,
+        "end_time_zone": "America/Los_Angeles",
+        "distance_m": 4822.555555555556,
+        "fuel_cost_usd": 0.6363088463010718,
+        "fuel_volume_gal": 0.15599628494755377,
+        "average_mpg": 19.209413199768157,
+        "start_location": {
+            "name": "140-170 Howard Street, San Francisco, CA 94105, USA",
+            "display_name": "Howard St, SF, CA",
+            "lat": 37.7909963,
+            "lon": -122.3929616,
+            "accuracy_m": 21.21299934387207
+        },
+        "end_location": {
+            "name": "1405 San Francisco Bicycle Route 16, San Francisco, CA 94109, USA",
+            "display_name": "San Francisco Bicycle Rte 16, SF, CA",
+            "lat": 37.7872494,
+            "lon": -122.423715,
+            "accuracy_m": 30
+        },
+        "path": "u`teF|z_jV_AqArFuHoCoDYc@mA`Ae@T}Aj@m@Vc@Xk@b@yBnCwDjEyBbCkBbBqCfCwG|FiCvB{EdESRJTJTd@fAHTBTpArRd@zHTbDQ?P?f@fIjAjR\\vEDn@Ch@?^PnAZvBZdFp@~Jd@zHf@tH~@pN@XOBsD^l@jIxCa@zAOzXcDtEo@zIgAzDc@^~FHrAn@vJ",
+        "hard_accels": 0,
+        "hard_brakes": 0,
+        "duration_over_80_s": 0,
+        "duration_over_75_s": 0,
+        "duration_over_70_s": 0
+    },
+    {
+        "uri": "https://api.automatic.com/v1/trips/535876d4e4b07a8988149618",
+        "id": "535876d4e4b07a8988149618",
+        "user": {
+            "id": "e1028edc1f8bd41386c7"
+        },
+        "vehicle": {
+            "uri": "https://api.automatic.com/v1/vehicles/519965e4e4b0c01e0964fde5",
+            "id": "519965e4e4b0c01e0964fde5",
+            "year": 2006,
+            "make": "Scion",
+            "model": "xA",
+            "display_name": "Scion",
+            "color": "#404347"
+        },
+        "start_time": 1398305457214,
+        "start_time_zone": "America/Los_Angeles",
+        "end_time": 1398306510012,
+        "end_time_zone": "America/Los_Angeles",
+        "distance_m": 2941.6944444444457,
+        "fuel_cost_usd": 0.36187787083218,
+        "fuel_volume_gal": 0.08871730101303751,
+        "average_mpg": 20.60346925876125,
+        "start_location": {
+            "name": "1699 Sacramento Street, San Francisco, CA 94109, USA",
+            "display_name": "Sacramento St, SF, CA",
+            "lat": 37.7915128,
+            "lon": -122.420904,
+            "accuracy_m": 21.21299934387207
+        },
+        "end_location": {
+            "name": "1301 Post Street, San Francisco, CA 94109, USA",
+            "display_name": "Post St, SF, CA",
+            "lat": 37.7865168,
+            "lon": -122.4232707,
+            "accuracy_m": 5
+        },
+        "path": "adteFviejVtEo@`Da@h@fIxAtSvG{@pGy@YgE",
+        "hard_accels": 0,
+        "hard_brakes": 0,
+        "duration_over_80_s": 0,
+        "duration_over_75_s": 0,
+        "duration_over_70_s": 0
+    },
+    {
+        "uri": "https://api.automatic.com/v1/trips/535870d9e4b07a89881481a9",
+        "id": "535870d9e4b07a89881481a9",
+        "user": {
+            "id": "e1028edc1f8bd41386c7"
+        },
+        "vehicle": {
+            "uri": "https://api.automatic.com/v1/vehicles/519965e4e4b0c01e0964fde5",
+            "id": "519965e4e4b0c01e0964fde5",
+            "year": 2006,
+            "make": "Scion",
+            "model": "xA",
+            "display_name": "Scion",
+            "color": "#404347"
+        },
+        "start_time": 1398303817606,
+        "start_time_zone": "America/Los_Angeles",
+        "end_time": 1398304955491,
+        "end_time_zone": "America/Los_Angeles",
+        "distance_m": 3499.916666666673,
+        "fuel_cost_usd": 0.4762517646717703,
+        "fuel_volume_gal": 0.116756990603523,
+        "average_mpg": 18.62627137490101,
+        "start_location": {
+            "name": "4-5700 Washington Street, San Francisco, CA 94133, USA",
+            "display_name": "Washington St, SF, CA",
+            "lat": 37.7964937,
+            "lon": -122.3971432,
+            "accuracy_m": 5
+        },
+        "end_location": {
+            "name": "1699 Sacramento Street, San Francisco, CA 94109, USA",
+            "display_name": "Sacramento St, SF, CA",
+            "lat": 37.7915196,
+            "lon": -122.4209053,
+            "accuracy_m": 21.21299934387207
+        },
+        "path": "ecueFnt`jVTCFTl@dHnAjRcJfAgCZs@HRjCLtB^jFn@pKjAtQDn@Ch@?^PnAZvBZdFp@~J~@~Nf@pHd@pH@XOBsD^l@jI`Ei@rDa@nOiBjD_@",
+        "hard_accels": 0,
+        "hard_brakes": 0,
+        "duration_over_80_s": 0,
+        "duration_over_75_s": 0,
+        "duration_over_70_s": 0
+    },
+    {
+        "uri": "https://api.automatic.com/v1/trips/53585ff0e4b0b52a517b087e",
+        "id": "53585ff0e4b0b52a517b087e",
+        "user": {
+            "id": "e1028edc1f8bd41386c7"
+        },
+        "vehicle": {
+            "uri": "https://api.automatic.com/v1/vehicles/519965e4e4b0c01e0964fde5",
+            "id": "519965e4e4b0c01e0964fde5",
+            "year": 2006,
+            "make": "Scion",
+            "model": "xA",
+            "display_name": "Scion",
+            "color": "#404347"
+        },
+        "start_time": 1398300125534,
+        "start_time_zone": "America/Los_Angeles",
+        "end_time": 1398300638903,
+        "end_time_zone": "America/Los_Angeles",
+        "distance_m": 1477.8055555555538,
+        "fuel_cost_usd": 0.22976799964232708,
+        "fuel_volume_gal": 0.056329492434990705,
+        "average_mpg": 16.301687806086154,
+        "start_location": {
+            "name": "140-170 Howard Street, San Francisco, CA 94105, USA",
+            "display_name": "Howard St, SF, CA",
+            "lat": 37.7908363,
+            "lon": -122.393162,
+            "accuracy_m": 30
+        },
+        "end_location": {
+            "name": "4-5700 Washington Street, San Francisco, CA 94133, USA",
+            "display_name": "Washington St, SF, CA",
+            "lat": 37.7964767,
+            "lon": -122.3966564,
+            "accuracy_m": 5
+        },
+        "path": "u_teFd|_jV_ByBrFuHoCoDYc@mA`Ae@T}Aj@m@Vc@Xk@b@e@f@wDvEoCxCyA~AqBfByCpCuBfBkD|CcEhDaCvBn@tAXx@BR@NBt@`D_@bAO`C[YgF@E~B[HBB?",
+        "hard_accels": 1,
+        "hard_brakes": 0,
+        "duration_over_80_s": 0,
+        "duration_over_75_s": 0,
+        "duration_over_70_s": 0
+    },
+    {
+        "uri": "https://api.automatic.com/v1/trips/53585ff0e4b0b52a517b086f",
+        "id": "53585ff0e4b0b52a517b086f",
+        "user": {
+            "id": "e1028edc1f8bd41386c7"
+        },
+        "vehicle": {
+            "uri": "https://api.automatic.com/v1/vehicles/51f9ade8e4b0d23a69b57c53",
+            "id": "51f9ade8e4b0d23a69b57c53",
+            "year": 1993,
+            "make": "Ford",
+            "model": "Mustang",
+            "display_name": "Simulator",
+            "color": "#ffffff"
+        },
+        "start_time": 1398208686274,
+        "start_time_zone": "America/Los_Angeles",
+        "end_time": 1398209073900,
+        "end_time_zone": "America/Los_Angeles",
+        "distance_m": 6929.777777777725,
+        "fuel_cost_usd": 4.414063713091207,
+        "fuel_volume_gal": 1.1037918762418621,
+        "average_mpg": 3.9009650717569464,
+        "start_location": {
+            "name": "200 Folsom Street, San Francisco, CA 94105, USA",
+            "display_name": "Folsom St, SF, CA",
+            "lat": 37.7892649,
+            "lon": -122.3922864,
+            "accuracy_m": 23.615999221801758
+        },
+        "end_location": {
+            "name": "140-170 Howard Street, San Francisco, CA 94105, USA",
+            "display_name": "Howard St, SF, CA",
+            "lat": 37.7909602,
+            "lon": -122.392936,
+            "accuracy_m": 30
+        },
+        "path": "iuseF`v_jVm@{@sFrHiA{A",
+        "hard_accels": 0,
+        "hard_brakes": 0,
+        "duration_over_80_s": 0,
+        "duration_over_75_s": 0,
+        "duration_over_70_s": 0
+    },
+    {
+        "uri": "https://api.automatic.com/v1/trips/535697b6e4b0ffb0ddd21b13",
+        "id": "535697b6e4b0ffb0ddd21b13",
+        "user": {
+            "id": "e1028edc1f8bd41386c7"
+        },
+        "vehicle": {
+            "uri": "https://api.automatic.com/v1/vehicles/519965e4e4b0c01e0964fde5",
+            "id": "519965e4e4b0c01e0964fde5",
+            "year": 2006,
+            "make": "Scion",
+            "model": "xA",
+            "display_name": "Scion",
+            "color": "#404347"
+        },
+        "start_time": 1398182466318,
+        "start_time_zone": "America/Los_Angeles",
+        "end_time": 1398183735089,
+        "end_time_zone": "America/Los_Angeles",
+        "distance_m": 3446.2777777777846,
+        "fuel_cost_usd": 0.455320926049971,
+        "fuel_volume_gal": 0.11162562541063276,
+        "average_mpg": 19.183925946047456,
+        "start_location": {
+            "name": "1380 Sutter Street, San Francisco, CA 94109, USA",
+            "display_name": "Sutter St, SF, CA",
+            "lat": 37.7874711,
+            "lon": -122.4229492,
+            "accuracy_m": 15.72700023651123
+        },
+        "end_location": {
+            "name": "200 Folsom Street, San Francisco, CA 94105, USA",
+            "display_name": "Folsom St, SF, CA",
+            "lat": 37.7892586,
+            "lon": -122.3925265,
+            "accuracy_m": 23.615999221801758
+        },
+        "path": "mjseFjvejVJ~AuARaBR_Cy]qAuS{Bq]{A_Vq@{K[qEw@qLm@}J?Mt@gAxAqBtFyHtGyIp@}@nAaBsAeB}@oAcCeDgCuDiCoDiA}AhA|AhCnDl@z@",
+        "hard_accels": 0,
+        "hard_brakes": 0,
+        "duration_over_80_s": 0,
+        "duration_over_75_s": 0,
+        "duration_over_70_s": 0
+    },
+    {
+        "uri": "https://api.automatic.com/v1/trips/5355d93de4b084c60a0b0a6c",
+        "id": "5355d93de4b084c60a0b0a6c",
+        "user": {
+            "id": "e1028edc1f8bd41386c7"
+        },
+        "vehicle": {
+            "uri": "https://api.automatic.com/v1/vehicles/519965e4e4b0c01e0964fde5",
+            "id": "519965e4e4b0c01e0964fde5",
+            "year": 2006,
+            "make": "Scion",
+            "model": "xA",
+            "display_name": "Scion",
+            "color": "#404347"
+        },
+        "start_time": 1398134500548,
+        "start_time_zone": "America/Los_Angeles",
+        "end_time": 1398135076390,
+        "end_time_zone": "America/Los_Angeles",
+        "distance_m": 3428.250000000001,
+        "fuel_cost_usd": 0.3475692469835235,
+        "fuel_volume_gal": 0.08520942559046911,
+        "average_mpg": 24.99369014287767,
+        "start_location": {
+            "name": "370 Drumm Street, San Francisco, CA 94111, USA",
+            "display_name": "Drumm St, SF, CA",
+            "lat": 37.796914,
+            "lon": -122.396651,
+            "accuracy_m": 10
+        },
+        "end_location": {
+            "name": "1380 Sutter Street, San Francisco, CA 94109, USA",
+            "display_name": "Sutter St, SF, CA",
+            "lat": 37.7874373,
+            "lon": -122.4228601,
+            "accuracy_m": 15.72700023651123
+        },
+        "path": "keueFvt`jVgANADXfFaCZcANaD^^hF\\hFvDe@^jFoANkBTj@hIdAtPjAtQDn@Ch@?^PnAZvBZdFp@~J~@~Nf@pHd@pHFzBFvARlCH^`@xGD\\fBSdD_@~IiAdGy@zD]vG_A|ASxDc@ZzE",
+        "hard_accels": 0,
+        "hard_brakes": 0,
+        "duration_over_80_s": 0,
+        "duration_over_75_s": 0,
+        "duration_over_70_s": 0
+    },
+    {
+        "uri": "https://api.automatic.com/v1/trips/5355c6efe4b084c60a0acf5e",
+        "id": "5355c6efe4b084c60a0acf5e",
+        "user": {
+            "id": "e1028edc1f8bd41386c7"
+        },
+        "vehicle": {
+            "uri": "https://api.automatic.com/v1/vehicles/519965e4e4b0c01e0964fde5",
+            "id": "519965e4e4b0c01e0964fde5",
+            "year": 2006,
+            "make": "Scion",
+            "model": "xA",
+            "display_name": "Scion",
+            "color": "#404347"
+        },
+        "start_time": 1398129926306,
+        "start_time_zone": "America/Los_Angeles",
+        "end_time": 1398130401032,
+        "end_time_zone": "America/Los_Angeles",
+        "distance_m": 1493.972222222221,
+        "fuel_cost_usd": 0.22222403787266895,
+        "fuel_volume_gal": 0.054480028897442745,
+        "average_mpg": 17.039478863698896,
+        "start_location": {
+            "name": "300-320 Main Street, San Francisco, CA 94105, USA",
+            "display_name": "Main St, SF, CA",
+            "lat": 37.7892914,
+            "lon": -122.3917607,
+            "accuracy_m": 21.34600067138672
+        },
+        "end_location": {
+            "name": "370 Drumm Street, San Francisco, CA 94111, USA",
+            "display_name": "Drumm St, SF, CA",
+            "lat": 37.7966816,
+            "lon": -122.3970024,
+            "accuracy_m": 10
+        },
+        "path": "cvseFls_jVSV{@mAmAaBbCiDp@}@|@oAeAyA{@kAQWIMsA~AkDnEmA`Ae@T}Aj@m@Vc@Xk@b@e@f@wDvEoCxCyA~AqBfByCpCuBfBP`@Tr@FbAD|@Hd@N|@WLA@CFw@J",
+        "hard_accels": 0,
+        "hard_brakes": 0,
+        "duration_over_80_s": 0,
+        "duration_over_75_s": 0,
+        "duration_over_70_s": 0
+    },
+    {
+        "uri": "https://api.automatic.com/v1/trips/535532fae4b05c5f70037f3d",
+        "id": "535532fae4b05c5f70037f3d",
+        "user": {
+            "id": "e1028edc1f8bd41386c7"
+        },
+        "vehicle": {
+            "uri": "https://api.automatic.com/v1/vehicles/519965e4e4b0c01e0964fde5",
+            "id": "519965e4e4b0c01e0964fde5",
+            "year": 2006,
+            "make": "Scion",
+            "model": "xA",
+            "display_name": "Scion",
+            "color": "#404347"
+        },
+        "start_time": 1398091524113,
+        "start_time_zone": "America/Los_Angeles",
+        "end_time": 1398092410588,
+        "end_time_zone": "America/Los_Angeles",
+        "distance_m": 4670.083333333328,
+        "fuel_cost_usd": 0.4230136195275918,
+        "fuel_volume_gal": 0.10370522665545277,
+        "average_mpg": 27.981764683105816,
+        "start_location": {
+            "name": "1380 Sutter Street, San Francisco, CA 94109, USA",
+            "display_name": "Sutter St, SF, CA",
+            "lat": 37.7874711,
+            "lon": -122.4229492,
+            "accuracy_m": 14.130999565124512
+        },
+        "end_location": {
+            "name": "300-320 Main Street, San Francisco, CA 94105, USA",
+            "display_name": "Main St, SF, CA",
+            "lat": 37.7892433,
+            "lon": -122.3918202,
+            "accuracy_m": 21.34600067138672
+        },
+        "path": "mjseFjvejVJ~AuARaBR_N|A_Gt@i@yIuGz@uLtAa@yG?a@QoCEaBEuAc@gHmDaj@MyAc@oEQ_AYwDcAkPmBoZq@gK_@iFdAMeALCu@AOAIESUo@Wi@~@w@jAeAzCcCxBgBrAmArCqBtAw@l@WZSj@g@f@m@Va@\\w@b@_AVc@z@iA|AiBbAsAbAiAbAk@|Bo@h@Sf@Wd@c@jAsArEfGz@lARW",
+        "hard_accels": 0,
+        "hard_brakes": 0,
+        "duration_over_80_s": 0,
+        "duration_over_75_s": 0,
+        "duration_over_70_s": 0
+    },
+    {
+        "uri": "https://api.automatic.com/v1/trips/5354499ae4b056c5699f169b",
+        "id": "5354499ae4b056c5699f169b",
+        "user": {
+            "id": "e1028edc1f8bd41386c7"
+        },
+        "vehicle": {
+            "uri": "https://api.automatic.com/v1/vehicles/519965e4e4b0c01e0964fde5",
+            "id": "519965e4e4b0c01e0964fde5",
+            "year": 2006,
+            "make": "Scion",
+            "model": "xA",
+            "display_name": "Scion",
+            "color": "#404347"
+        },
+        "start_time": 1398025700577,
+        "start_time_zone": "America/Los_Angeles",
+        "end_time": 1398032761569,
+        "end_time_zone": "America/Los_Angeles",
+        "distance_m": 163530.02777777804,
+        "fuel_cost_usd": 10.213947314622425,
+        "fuel_volume_gal": 2.5040321928468807,
+        "average_mpg": 40.579689277619366,
+        "start_location": {
+            "name": "431 East Market Street, Salinas, CA 93901, USA",
+            "display_name": "E Market St, Salinas, CA",
+            "lat": 36.6775094,
+            "lon": -121.6398449,
+            "accuracy_m": 29.802000045776367
+        },
+        "end_location": {
+            "name": "1380 Sutter Street, San Francisco, CA 94109, USA",
+            "display_name": "Sutter St, SF, CA",
+            "lat": 37.7874478,
+            "lon": -122.4229607,
+            "accuracy_m": 14.130999565124512
+        },
+        "path": "opz~EdxleVwH~\\LxI~AjTsBf@yK~AuE_Aoa@mUmEgClEfC|L`HtOzI|GtCnCEj@j@gB`Qs@h@yEe@oI{BoG{@iJi@iEbAkCtMyO~VoPnT_WrKmZzIcNi@it@kWkpAoUeb@uHkXMoGhAcf@|PeKtEuf@~MiJbCa`@jIkw@hP}k@xB{R`@kReAce@}Fst@yJwMsFgLgOqN_r@sHaSiJcNoY_[iKeJuJsMsY{q@sGcEoJoBsNyGuKuBqHx@}L|F}LrAoOTmGrAch@fR__@fM}LUqNcGoO}OmHaN}EcPwIc]oGcOkF}KUqHtBsRbDiHzDmHtAwIrD{dAeMolAHuOwAcL{CgHqGgGyb@yWqXwIaIyF{GkJ{NgXqFgFmKuF}c@}SsQcIaFs@}e@\\qi@f@wQsA_OeJmSgZaPaK_IeBi^kAwXq@_EbAoSvOmOrJcMxB}~@bAga@}B_o@oFsOjA{q@|M}_@fJge@zOqI~@qMs@goA}M_Sx@oKbCouApm@w|@n`@{z@n_@qsBtr@ipAhb@cu@r[osAlm@il@hYgQzPin@h{@wPfUiLrKc]zQgTfKmfAni@kWzP}RjR{ZbZqQ|Ps~@`~@qVx]kg@zb@g^ba@eZf^ub@n^qJ`KsLpQk^vk@ke@vv@yr@hyAqL|R}K~Km[vZml@dw@aU`\\aRx^ymAhiCuc@f`Aqq@vzAwLzNeNdJoO`FklAnX}^vRoI|Cq_AbD_It@wLvEom@dk@ehAveAszAvvAm`Af_Ags@|o@oj@tm@}M|TwFvOqD`QcEvj@{Dvy@kDnk@gB`H_IjOuRrXiGjTcFzY}C~`@iWpnBuKv_AiTrnAaVrnAwa@dxBgLvl@iMty@}VrlBaQtqAsRzpAcMr_AcWx~@iH`VaKzSwc@xq@cX|`@qk@fn@wgBvlBcOtPsHvM_y@`bBkzAnzCeb@j|@sIz[wCdR}PngC{DfYcWjz@_H~T{Oxx@iJjWmlB`|BsuAv`Bi}@py@_{BzqBudCxoCo[x_@yDfReCz`CeB~M_HxSqkAdtByt@hqAoRtY}O|Jip@|OwUvFeVhBmUvBuGfBcThI{OvBq{@vDgNBeHcAwOcGaJ_GmT}^k]g_@{K{J}U_NkJ_DcK_Aus@lIqjCp^gSfDsRfMsJhD}RnDmj@jO{ObGe`@vQcN|EyNA}JiDeP_Kk[iHiK}B}QA}MxAkKrLuFfCuHy@gFmCgGeAoTjAyDtDeJnMmA`@iBUmJfLiP|ToJ`Np@lNz@bM{Db@oSdCiVrCiSfCi@_IzAQ|AQZzE",
+        "hard_accels": 0,
+        "hard_brakes": 0,
+        "duration_over_80_s": 0,
+        "duration_over_75_s": 0,
+        "duration_over_70_s": 3
+    },
+    {
+        "uri": "https://api.automatic.com/v1/trips/5354499ae4b056c5699f1696",
+        "id": "5354499ae4b056c5699f1696",
+        "user": {
+            "id": "e1028edc1f8bd41386c7"
+        },
+        "vehicle": {
+            "uri": "https://api.automatic.com/v1/vehicles/519965e4e4b0c01e0964fde5",
+            "id": "519965e4e4b0c01e0964fde5",
+            "year": 2006,
+            "make": "Scion",
+            "model": "xA",
+            "display_name": "Scion",
+            "color": "#404347"
+        },
+        "start_time": 1398024717700,
+        "start_time_zone": "America/Los_Angeles",
+        "end_time": 1398024936900,
+        "end_time_zone": "America/Los_Angeles",
+        "distance_m": 1005.8333333333329,
+        "fuel_cost_usd": 0.10308281507506571,
+        "fuel_volume_gal": 0.025271589868856515,
+        "average_mpg": 24.731164947227935,
+        "start_location": {
+            "name": "Unknown",
+            "display_name": "Unknown",
+            "lat": 36.6739737,
+            "lon": -121.633115,
+            "accuracy_m": 40.8129997253418
+        },
+        "end_location": {
+            "name": "Unknown",
+            "display_name": "E Market St, Salinas, CA",
+            "lat": 36.677552,
+            "lon": -121.639787,
+            "accuracy_m": 29.802000045776367
+        },
+        "path": "s{y~E`qkeVoHk@eFc@ShEY`GY`G}@dR",
+        "hard_accels": 0,
+        "hard_brakes": 0,
+        "duration_over_80_s": 0,
+        "duration_over_75_s": 0,
+        "duration_over_70_s": 0
+    },
+    {
+        "uri": "https://api.automatic.com/v1/trips/53542270e4b056c5699e7423",
+        "id": "53542270e4b056c5699e7423",
+        "user": {
+            "id": "e1028edc1f8bd41386c7"
+        },
+        "vehicle": {
+            "uri": "https://api.automatic.com/v1/vehicles/519965e4e4b0c01e0964fde5",
+            "id": "519965e4e4b0c01e0964fde5",
+            "year": 2006,
+            "make": "Scion",
+            "model": "xA",
+            "display_name": "Scion",
+            "color": "#404347"
+        },
+        "start_time": 1398022269316,
+        "start_time_zone": "America/Los_Angeles",
+        "end_time": 1398022709059,
+        "end_time_zone": "America/Los_Angeles",
+        "distance_m": 1802.722222222224,
+        "fuel_cost_usd": 0.19459906740954125,
+        "fuel_volume_gal": 0.04770754288049553,
+        "average_mpg": 23.479718066824162,
+        "start_location": {
+            "name": "151 Kern Street, Salinas, CA 93905, USA",
+            "display_name": "Kern St, Salinas, CA",
+            "lat": 36.6799346,
+            "lon": -121.6408637,
+            "accuracy_m": 10
+        },
+        "end_location": {
+            "name": "649 East Alisal Street, Salinas, CA 93905, USA",
+            "display_name": "E Alisal St, Salinas, CA",
+            "lat": 36.6739737,
+            "lon": -121.633115,
+            "accuracy_m": 40.8129997253418
+        },
+        "path": "{`{~Ez{leVdBS|Ea@dDO\\A~AJpCZfAHRqEjCVkCWz@aRVuEhE^bBRYhGUjFKfBmHo@yHm@ToFXaGXaGn@iNhKz@~Eb@QhD",
+        "hard_accels": 0,
+        "hard_brakes": 0,
+        "duration_over_80_s": 0,
+        "duration_over_75_s": 0,
+        "duration_over_70_s": 0
+    },
+    {
+        "uri": "https://api.automatic.com/v1/trips/5354204fe4b0f8598a7cb6c5",
+        "id": "5354204fe4b0f8598a7cb6c5",
+        "user": {
+            "id": "e1028edc1f8bd41386c7"
+        },
+        "vehicle": {
+            "uri": "https://api.automatic.com/v1/vehicles/519965e4e4b0c01e0964fde5",
+            "id": "519965e4e4b0c01e0964fde5",
+            "year": 2006,
+            "make": "Scion",
+            "model": "xA",
+            "display_name": "Scion",
+            "color": "#404347"
+        },
+        "start_time": 1398017135100,
+        "start_time_zone": "America/Los_Angeles",
+        "end_time": 1398022201581,
+        "end_time_zone": "America/Los_Angeles",
+        "distance_m": 140758.8611111106,
+        "fuel_cost_usd": 9.010151086376196,
+        "fuel_volume_gal": 2.2089117642501095,
+        "average_mpg": 39.59574246564464,
+        "start_location": {
+            "name": "77 Wellsona Road, Paso Robles, CA 93446, USA",
+            "display_name": "Wellsona Rd, Paso Robles, CA",
+            "lat": 35.695836,
+            "lon": -120.6976785,
+            "accuracy_m": 10
+        },
+        "end_location": {
+            "name": "151 Kern Street, Salinas, CA 93905, USA",
+            "display_name": "Kern St, Salinas, CA",
+            "lat": 36.6801172,
+            "lon": -121.6409273,
+            "accuracy_m": 10
+        },
+        "path": "azzxEnwt_V@wD?o@_FAyBAcECqNQkFa@yPgCkS{CwUkCmHDsJlAiP`GwOzGq\\rJkNdFcL|CiN|@eLPoKkBsOwDiIsAeGB}Df@yPxBoMMg`AeIiGDsH|@{K|D_Y~RePjMqFnHaMtTwNfWmHnN}JbWqGrOeDdFuEtEoI|Fya@bYaMbKaOfVe[rj@aErFiEvDuZfRq\\bRiZjOqg@hWkJdDsJv@sN{@ap@}FeQ_AgKfAkJxDeG~EiHfIwUjXoG`KeChHsArGaFld@yNltAwB|Wj@fNtAnQe@~LiCpJwG`JcMnIgGdI_F`O_Ib[o^v~@}Oja@aIrPkH`JcKdHcf@jToHfBoWRin@_@}SXiKrAsLlDuLxGwLfI}OfL_GhI}b@tz@ql@xp@kJdIkI~CkbAfS_o@rPgS~J}_Axg@aXhWyZrd@cK`Jqi@h]{H`DyGtAaYpD_ItBcIpDif@bZ}}At`Aev@jl@aJdKwp@t|@ua@ri@m\\tc@qbCvaD_|@~`AsPlRgRjYio@lbA{eAbbByFtHkJvGqFhB{JdAwMeAaTyIgd@cSeLgBiHDqIzAoDrAuVdOue@pYoiCt~Amo@la@}j@xe@kd@r_@_^tNkYfM{GrFs]x^{FzHgGfLaGxPm~@nfE{DnReA`M_F|bAiFfr@gBhZd@dGpAbFpB`EhGfGbOpMlC`DdBvDzAtKIbF_A~FyA|DwC|Dac@n[yUfNa\\hUwWhRwXhKql@n[kKhC{nBbKyU`BaSpGyQxC_z@jLiI`BwFdCiU`Nc[`RqP|Jg_@l\\w]h[}GbJ_FjLgXbjAsCjJiDnHoq@haAcPrTsDbDsG~DcG~BmI`B}QlBiHfBuEvBm`@r[qu@f_AokA|hA_vAfqAyXpWySrVcOhQac@dj@s_@ze@m[l^cEjD{r@td@{d@lY{PpI}PjEa`@|IgM`DcIpD}UxQiMtMeJdNwPd\\eG`HeIlDeK`DyFvEcFfJkEnQoE~LwT~`@y^hp@wGpJoNpRoMhUsRt]wGvOqPb\\{RlYyHrNqNf\\c_AzbBmRd]_Ypd@gZ~_@mK~KyHtEgWpK}vArl@eXbL}JhFcJ~J_JvQcGlOuBlNkFj_AyC|\\_B`GaDfHqOrS}cB~xBau@j`AgYh\\ma@tb@yNrMoHjGii@|j@qJrMse@dg@mlBdpBoVzXse@rs@guAbuBmOdS}FhGuI|PmM~SgoA~lBw_@jj@cGhEkz@la@wWlMkF`DmGrGcC|DeDfIgMtn@qD|I{HtHsH~B}PjBwPfA}@i@MiAEkAeBR",
+        "hard_accels": 0,
+        "hard_brakes": 0,
+        "duration_over_80_s": 0,
+        "duration_over_75_s": 0,
+        "duration_over_70_s": 165
+    },
+    {
+        "uri": "https://api.automatic.com/v1/trips/53540b47e4b056c5699e0f5f",
+        "id": "53540b47e4b056c5699e0f5f",
+        "user": {
+            "id": "e1028edc1f8bd41386c7"
+        },
+        "vehicle": {
+            "uri": "https://api.automatic.com/v1/vehicles/519965e4e4b0c01e0964fde5",
+            "id": "519965e4e4b0c01e0964fde5",
+            "year": 2006,
+            "make": "Scion",
+            "model": "xA",
+            "display_name": "Scion",
+            "color": "#404347"
+        },
+        "start_time": 1398014007943,
+        "start_time_zone": "America/Los_Angeles",
+        "end_time": 1398016759362,
+        "end_time_zone": "America/Los_Angeles",
+        "distance_m": 53751.41666666647,
+        "fuel_cost_usd": 3.6786405541289366,
+        "fuel_volume_gal": 0.9018486281267313,
+        "average_mpg": 37.0345763323807,
+        "start_location": {
+            "name": "923 Suffolk Street, Cambria, CA 93428, USA",
+            "display_name": "Suffolk St, Cambria, CA",
+            "lat": 35.567891,
+            "lon": -121.096074,
+            "accuracy_m": 14.618000030517578
+        },
+        "end_location": {
+            "name": "77 Wellsona Road, Paso Robles, CA 93446, USA",
+            "display_name": "Wellsona Rd, Paso Robles, CA",
+            "lat": 35.6956084,
+            "lon": -120.697382,
+            "accuracy_m": 96
+        },
+        "path": "yxaxE|qbbVR}Ad@aARzA_@nEw@~A?l@Lj@@`@Qb@Wd@?Rf@fBi@Zc@dBa@x@Kn@TvBX|@Ij@]bA]dBk@lBo@lAeAjC|@l@xBuGxC{FvGaJnHsJfDeDnBwAfMaHhPsI~CgB~AqA`DaEhB{DzAcGl@wF?oHuBe\\y@cLCiBFuA\\_E^_Cv@uCz@{B~AyCdEcFjS{TtJmLjO_QjEeFpB{CtHqPlCeGfCaE|Xa_@tCgChFiD|EcCfGsDdIiH`LaLlEaEbCyBmB_DuIqOmK}QwBmD{F}JqP_YqHkMm@qAcBeGw@_H@wH|@gXVoIDqEQuDe@cEeAeEoCsI{B_HuAcFq@qFMiEZwHbB_TDgBG{GWuJgA_RK{IbCar@d@kG`BoNPsFKcEq@_G{@aD{AyDoH{Qs@qCc@qC{AaW}Cki@w@qFmAiEoAmCkDyEqKgJyAwAaBgCcBmDqAeEm@oDw@gJcDgc@EgCHsCnB}SfAqJ`A_FrBmHtAkG\\oDN_MRyG~@kFp@aCbAgCvEsJdCaHb@eCToDIsFs@yGo@}FeB}UKaHL{CbAqGtJic@xDeQbAmFz@{G`BkOnAmGx@iCzAgDxB}D|EeK|EkJxCkGdAsDfBcQZwD`AmGfCuHhC_G|AkE~@sC^cB`@aC\\oEDuB[gGu@{I[cDSaFFkE^wDnCiO`@iFBuDI}Bg@uEmAgFiIcS_B{H]}DKoC?sCV}G|AsWFaGYyHUuBgAkGcFyTmFqUS}CEoGrAe\\tAg]\\cGF_EMeG[eEqFm]a@mDOwD?qFh@}Hr@eLG_Ho@kFu@wCgA{CgAsBaAyAiBoBkI_HwBeC_DmEiMkR}DiGsAcDiAqEg@kEg@}LW{D_A}FwFgXsGg[w@yEYwDBsHpB{h@HkGUmDs@wDyCsHqCoGcM_YoEwHkFeIyA{AsB{A_LgHqGmEuCgD}FaK{Qg\\qRc]mEaIyAiDwHoRgKgWoLcZuO_`@}B_E{K{NaDcGgAsCoC{KqOas@qBeIoDaK{CuI{@_De@aE?yCf@iKuEJmFNE@ULm@?}BAoIAkHKkDk@cE{AwP{GcEyAcB[aGYeLQcHW_Gs@}GaA_F}@sDoAyBaAeTaMgP_JaCw@eEu@yDQoJXaYfAuMd@uFDsDMeFm@mEcAeDkAkH}CgDiAwCm@qD]iGAcCRiF`AmDlAwBbAk[bOsQpImB`AwB|A}CxD_BfD}CrKuAjEqAhCqCnD{BfByCxAkCr@yCZmC?qCY_JyAqZeFeHw@eFKsINcL^k^lA_LZuJH}VMy[K_^OiDAaBA?n@AvB",
+        "hard_accels": 0,
+        "hard_brakes": 0,
+        "duration_over_80_s": 0,
+        "duration_over_75_s": 0,
+        "duration_over_70_s": 0
+    },
+    {
+        "uri": "https://api.automatic.com/v1/trips/5353f7c4e4b056c5699dba30",
+        "id": "5353f7c4e4b056c5699dba30",
+        "user": {
+            "id": "e1028edc1f8bd41386c7"
+        },
+        "vehicle": {
+            "uri": "https://api.automatic.com/v1/vehicles/519965e4e4b0c01e0964fde5",
+            "id": "519965e4e4b0c01e0964fde5",
+            "year": 2006,
+            "make": "Scion",
+            "model": "xA",
+            "display_name": "Scion",
+            "color": "#404347"
+        },
+        "start_time": 1398011701117,
+        "start_time_zone": "America/Los_Angeles",
+        "end_time": 1398011827857,
+        "end_time_zone": "America/Los_Angeles",
+        "distance_m": 610.9444444444447,
+        "fuel_cost_usd": 0.11000468429898318,
+        "fuel_volume_gal": 0.026968542363075065,
+        "average_mpg": 14.076521924113884,
+        "start_location": {
+            "name": "923 Suffolk Street, Cambria, CA 93428, USA",
+            "display_name": "Suffolk St, Cambria, CA",
+            "lat": 35.567891,
+            "lon": -121.096074,
+            "accuracy_m": 27.458999633789062
+        },
+        "end_location": {
+            "name": "923 Suffolk Street, Cambria, CA 93428, USA",
+            "display_name": "Suffolk St, Cambria, CA",
+            "lat": 35.5677525,
+            "lon": -121.0960374,
+            "accuracy_m": 14.618000030517578
+        },
+        "path": "yxaxE|qbbV",
+        "hard_accels": 0,
+        "hard_brakes": 0,
+        "duration_over_80_s": 0,
+        "duration_over_75_s": 0,
+        "duration_over_70_s": 0
+    },
+    {
+        "uri": "https://api.automatic.com/v1/trips/5353f7c4e4b056c5699dba2f",
+        "id": "5353f7c4e4b056c5699dba2f",
+        "user": {
+            "id": "e1028edc1f8bd41386c7"
+        },
+        "vehicle": {
+            "uri": "https://api.automatic.com/v1/vehicles/519965e4e4b0c01e0964fde5",
+            "id": "519965e4e4b0c01e0964fde5",
+            "year": 2006,
+            "make": "Scion",
+            "model": "xA",
+            "display_name": "Scion",
+            "color": "#404347"
+        },
+        "start_time": 1398011287463,
+        "start_time_zone": "America/Los_Angeles",
+        "end_time": 1398011434779,
+        "end_time_zone": "America/Los_Angeles",
+        "distance_m": 645.0833333333338,
+        "fuel_cost_usd": 0.07722744035033238,
+        "fuel_volume_gal": 0.018932934628666926,
+        "average_mpg": 21.17137188647179,
+        "start_location": {
+            "name": "923 Suffolk Street, Cambria, CA 93428, USA",
+            "display_name": "Suffolk St, Cambria, CA",
+            "lat": 35.567891,
+            "lon": -121.096074,
+            "accuracy_m": 27
+        },
+        "end_location": {
+            "name": "923 Suffolk Street, Cambria, CA 93428, USA",
+            "display_name": "Suffolk St, Cambria, CA",
+            "lat": 35.5677245,
+            "lon": -121.0960904,
+            "accuracy_m": 27.458999633789062
+        },
+        "path": "yxaxE|qbbV",
+        "hard_accels": 0,
+        "hard_brakes": 0,
+        "duration_over_80_s": 0,
+        "duration_over_75_s": 0,
+        "duration_over_70_s": 0
+    },
+    {
+        "uri": "https://api.automatic.com/v1/trips/53531720e4b0f8598a7a4034",
+        "id": "53531720e4b0f8598a7a4034",
+        "user": {
+            "id": "e1028edc1f8bd41386c7"
+        },
+        "vehicle": {
+            "uri": "https://api.automatic.com/v1/vehicles/519965e4e4b0c01e0964fde5",
+            "id": "519965e4e4b0c01e0964fde5",
+            "year": 2006,
+            "make": "Scion",
+            "model": "xA",
+            "display_name": "Scion",
+            "color": "#404347"
+        },
+        "start_time": 1397953843544,
+        "start_time_zone": "America/Los_Angeles",
+        "end_time": 1397953908302,
+        "end_time_zone": "America/Los_Angeles",
+        "distance_m": 159.77777777777774,
+        "fuel_cost_usd": 0.019260995621233092,
+        "fuel_volume_gal": 0.004721989610500881,
+        "average_mpg": 21.025312730469643,
+        "start_location": {
+            "name": "972 Suffolk Street, Cambria, CA 93428, USA",
+            "display_name": "Suffolk St, Cambria, CA",
+            "lat": 35.567439,
+            "lon": -121.095742,
+            "accuracy_m": 61.5
+        },
+        "end_location": {
+            "name": "972 Suffolk Street, Cambria, CA 93428, USA",
+            "display_name": "Suffolk St, Cambria, CA",
+            "lat": 35.5674903,
+            "lon": -121.0957227,
+            "accuracy_m": 61.5
+        },
+        "path": "exaxEbobbV",
+        "hard_accels": 0,
+        "hard_brakes": 0,
+        "duration_over_80_s": 0,
+        "duration_over_75_s": 0,
+        "duration_over_70_s": 0
+    },
+    {
+        "uri": "https://api.automatic.com/v1/trips/5353127be4b056c5699be6e9",
+        "id": "5353127be4b056c5699be6e9",
+        "user": {
+            "id": "e1028edc1f8bd41386c7"
+        },
+        "vehicle": {
+            "uri": "https://api.automatic.com/v1/vehicles/519965e4e4b0c01e0964fde5",
+            "id": "519965e4e4b0c01e0964fde5",
+            "year": 2006,
+            "make": "Scion",
+            "model": "xA",
+            "display_name": "Scion",
+            "color": "#404347"
+        },
+        "start_time": 1397952780488,
+        "start_time_zone": "America/Los_Angeles",
+        "end_time": 1397953087789,
+        "end_time_zone": "America/Los_Angeles",
+        "distance_m": 2210.416666666667,
+        "fuel_cost_usd": 0.18734505227704562,
+        "fuel_volume_gal": 0.04592916211744193,
+        "average_mpg": 29.904513302374134,
+        "start_location": {
+            "name": "2301-2399 Main Street, Cambria, CA 93428, USA",
+            "display_name": "Main St, Cambria, CA",
+            "lat": 35.5642763,
+            "lon": -121.0817087,
+            "accuracy_m": 40.5
+        },
+        "end_location": {
+            "name": "923 Suffolk Street, Cambria, CA 93428, USA",
+            "display_name": "Suffolk St, Cambria, CA",
+            "lat": 35.5677609,
+            "lon": -121.0960425,
+            "accuracy_m": 15.086999893188477
+        },
+        "path": "scaxErw_bVx@bEb@xCjAzJb@vE|@nHRfBFfALjD@dBCvBOvCKpAe@jDwAtFGd@Qf@_@fAoAfCoBfDqBlDkCbEo@hAk@~@]WMEu@LeC\\c@qACUAIFYPULYB]E]I[CYHc@h@y@FUDk@XmC?UGm@Km@]n@GPS|A",
+        "hard_accels": 0,
+        "hard_brakes": 0,
+        "duration_over_80_s": 0,
+        "duration_over_75_s": 0,
+        "duration_over_70_s": 0
+    },
+    {
+        "uri": "https://api.automatic.com/v1/trips/53530df4e4b04d9d367affae",
+        "id": "53530df4e4b04d9d367affae",
+        "user": {
+            "id": "e1028edc1f8bd41386c7"
+        },
+        "vehicle": {
+            "uri": "https://api.automatic.com/v1/vehicles/519965e4e4b0c01e0964fde5",
+            "id": "519965e4e4b0c01e0964fde5",
+            "year": 2006,
+            "make": "Scion",
+            "model": "xA",
+            "display_name": "Scion",
+            "color": "#404347"
+        },
+        "start_time": 1397951175890,
+        "start_time_zone": "America/Los_Angeles",
+        "end_time": 1397951884761,
+        "end_time_zone": "America/Los_Angeles",
+        "distance_m": 4850.555555555547,
+        "fuel_cost_usd": 0.3473069378973576,
+        "fuel_volume_gal": 0.08514511838621172,
+        "average_mpg": 35.39833575540669,
+        "start_location": {
+            "name": "State Park, Cambria, CA 93428, USA",
+            "display_name": "State Park, Cambria, CA",
+            "lat": 35.5818161,
+            "lon": -121.1201288,
+            "accuracy_m": 10
+        },
+        "end_location": {
+            "name": "2301-2399 Main Street, Cambria, CA 93428, USA",
+            "display_name": "Main St, Cambria, CA",
+            "lat": 35.5643313,
+            "lon": -121.0817345,
+            "accuracy_m": 40.5
+        },
+        "path": "kqdxExggbVK_Ay@qAaDtCmCnBaAj@eBv@{Ah@_@HQ?KEKK[u@bAaAlCgCxGkGjJ}IxQcQt@k@|DuDx@s@~AiArAq@pAg@vBk@`ASNIb@KzBe@hBi@lAi@pBiAr@m@~@{@^]j@q@fA_Bp@mAfAqCn@}Bv@_ElA_G\\aBf@kB`AcDj@{At@aBdAyBzA_CdF_HtAkBXYbB{BbB{BlAmAxAwAGMUe@y@aA}@eAb@s@d@{@b@{@b@cAh@}AP[`@uAb@mBAUHe@PeAReBJqANwCBwBAeBMkDGgASgB}@oHc@wEkA{Jc@yCy@cE",
+        "hard_accels": 0,
+        "hard_brakes": 0,
+        "duration_over_80_s": 0,
+        "duration_over_75_s": 0,
+        "duration_over_70_s": 0
+    },
+    {
+        "uri": "https://api.automatic.com/v1/trips/53530df4e4b04d9d367affad",
+        "id": "53530df4e4b04d9d367affad",
+        "user": {
+            "id": "e1028edc1f8bd41386c7"
+        },
+        "vehicle": {
+            "uri": "https://api.automatic.com/v1/vehicles/519965e4e4b0c01e0964fde5",
+            "id": "519965e4e4b0c01e0964fde5",
+            "year": 2006,
+            "make": "Scion",
+            "model": "xA",
+            "display_name": "Scion",
+            "color": "#404347"
+        },
+        "start_time": 1397947656749,
+        "start_time_zone": "America/Los_Angeles",
+        "end_time": 1397948169783,
+        "end_time_zone": "America/Los_Angeles",
+        "distance_m": 3184.0277777777833,
+        "fuel_cost_usd": 0.22192369000663623,
+        "fuel_volume_gal": 0.05440639617716015,
+        "average_mpg": 36.36453202951036,
+        "start_location": {
+            "name": "967 Suffolk Street, Cambria, CA 93428, USA",
+            "display_name": "Suffolk St, Cambria, CA",
+            "lat": 35.567734,
+            "lon": -121.095502,
+            "accuracy_m": 20.1299991607666
+        },
+        "end_location": {
+            "name": "State Park, Cambria, CA 93428, USA",
+            "display_name": "State Park, Cambria, CA",
+            "lat": 35.5820475,
+            "lon": -121.1204501,
+            "accuracy_m": 10
+        },
+        "path": "_xaxErnbbV^u@Jl@Fl@?TYlCEj@GTi@x@Ib@BXHZD\\C\\MXQTGX@HBTb@pA_@LILQf@Q|@a@x@Kn@JrALdATZBNMZ]bAI^SdAk@lBo@lAk@hAY`Al@`@GT_AnEcAdGw@~Do@|BgApCq@lAgA~Ak@p@_@\\_Az@s@l@w@d@iB~@w@XoA\\{Bd@c@JO?cAPyA\\_AX_A\\eAj@cBjAy@v@yDvDq@r@wHlHaHtGkJ|IyGjGmCfCcA`AZt@JJJDP?^IzAi@dBw@`Ak@lCoB`DuCx@pAJ~@",
+        "hard_accels": 0,
+        "hard_brakes": 0,
+        "duration_over_80_s": 0,
+        "duration_over_75_s": 0,
+        "duration_over_70_s": 0
+    },
+    {
+        "uri": "https://api.automatic.com/v1/trips/5352c524e4b04d9d36796e25",
+        "id": "5352c524e4b04d9d36796e25",
+        "user": {
+            "id": "e1028edc1f8bd41386c7"
+        },
+        "vehicle": {
+            "uri": "https://api.automatic.com/v1/vehicles/519965e4e4b0c01e0964fde5",
+            "id": "519965e4e4b0c01e0964fde5",
+            "year": 2006,
+            "make": "Scion",
+            "model": "xA",
+            "display_name": "Scion",
+            "color": "#404347"
+        },
+        "start_time": 1397933197590,
+        "start_time_zone": "America/Los_Angeles",
+        "end_time": 1397933343620,
+        "end_time_zone": "America/Los_Angeles",
+        "distance_m": 180.55555555555554,
+        "fuel_cost_usd": 0.025442990764873476,
+        "fuel_volume_gal": 0.006237555960988839,
+        "average_mpg": 17.98653535492192,
+        "start_location": {
+            "name": "501-599 Main Street, Cambria, CA 93428, USA",
+            "display_name": "Main St, Cambria, CA",
+            "lat": 35.5676335,
+            "lon": -121.1005415,
+            "accuracy_m": 5
+        },
+        "end_location": {
+            "name": "923 Suffolk Street, Cambria, CA 93428, USA",
+            "display_name": "Suffolk St, Cambria, CA",
+            "lat": 35.5679086,
+            "lon": -121.095974,
+            "accuracy_m": 10
+        },
+        "path": "sxaxElmcbVs@jAUb@COU[Ca@Ic@KsAJo@`@y@P}@Pg@HM^Mc@qACUAI@IDOPUPc@Aa@Mk@CYBSP_@\\i@FUDk@N_BHcAS{A]n@GPS|A",
+        "hard_accels": 0,
+        "hard_brakes": 0,
+        "duration_over_80_s": 0,
+        "duration_over_75_s": 0,
+        "duration_over_70_s": 0
+    },
+    {
+        "uri": "https://api.automatic.com/v1/trips/5352c524e4b04d9d36796e24",
+        "id": "5352c524e4b04d9d36796e24",
+        "user": {
+            "id": "e1028edc1f8bd41386c7"
+        },
+        "vehicle": {
+            "uri": "https://api.automatic.com/v1/vehicles/519965e4e4b0c01e0964fde5",
+            "id": "519965e4e4b0c01e0964fde5",
+            "year": 2006,
+            "make": "Scion",
+            "model": "xA",
+            "display_name": "Scion",
+            "color": "#404347"
+        },
+        "start_time": 1397932382578,
+        "start_time_zone": "America/Los_Angeles",
+        "end_time": 1397932620365,
+        "end_time_zone": "America/Los_Angeles",
+        "distance_m": 1051.8611111111113,
+        "fuel_cost_usd": 0.12572678562139475,
+        "fuel_volume_gal": 0.030822943275654515,
+        "average_mpg": 21.20485986149936,
+        "start_location": {
+            "name": "923 Suffolk Street, Cambria, CA 93428, USA",
+            "display_name": "Suffolk St, Cambria, CA",
+            "lat": 35.567891,
+            "lon": -121.096074,
+            "accuracy_m": 41.7599983215332
+        },
+        "end_location": {
+            "name": "501-599 Main Street, Cambria, CA 93428, USA",
+            "display_name": "Main St, Cambria, CA",
+            "lat": 35.5676556,
+            "lon": -121.1005185,
+            "accuracy_m": 5
+        },
+        "path": "yxaxE|qbbVR}AFQ\\o@Jl@Fl@IbAO~AEj@GT]h@Q^CRBXLj@@`@Qb@QTEN?RBTb@pA_@LILQf@Q|@a@x@Kn@JrAHb@B`@TZBNTc@r@kA",
+        "hard_accels": 0,
+        "hard_brakes": 0,
+        "duration_over_80_s": 0,
+        "duration_over_75_s": 0,
+        "duration_over_70_s": 0
+    },
+    {
+        "uri": "https://api.automatic.com/v1/trips/5351ce68e4b070a22b480042",
+        "id": "5351ce68e4b070a22b480042",
+        "user": {
+            "id": "e1028edc1f8bd41386c7"
+        },
+        "vehicle": {
+            "uri": "https://api.automatic.com/v1/vehicles/519965e4e4b0c01e0964fde5",
+            "id": "519965e4e4b0c01e0964fde5",
+            "year": 2006,
+            "make": "Scion",
+            "model": "xA",
+            "display_name": "Scion",
+            "color": "#404347"
+        },
+        "start_time": 1397869918365,
+        "start_time_zone": "America/Los_Angeles",
+        "end_time": 1397870150551,
+        "end_time_zone": "America/Los_Angeles",
+        "distance_m": 1468.194444444444,
+        "fuel_cost_usd": 0.15305220069307035,
+        "fuel_volume_gal": 0.03752199085390301,
+        "average_mpg": 24.31357482956633,
+        "start_location": {
+            "name": "1241-1299 Knollwood Circle, Cambria, CA 93428, USA",
+            "display_name": "Knollwood Cir, Cambria, CA",
+            "lat": 35.5634844,
+            "lon": -121.09205,
+            "accuracy_m": 15
+        },
+        "end_location": {
+            "name": "923 Suffolk Street, Cambria, CA 93428, USA",
+            "display_name": "Suffolk St, Cambria, CA",
+            "lat": 35.5677968,
+            "lon": -121.0960946,
+            "accuracy_m": 15
+        },
+        "path": "u~`xEhxabVFm@Nu@\\ThAR[rCYfBO^s@tCQ~@i@|Ac@bAc@z@{BxDa@t@wCzEcDpF]WMEwARcBVc@qAE[BUFMXc@DYA]Oo@?YBOHQX_@N[Da@D{@R}A?q@Mw@CQ]n@Kf@OfA",
+        "hard_accels": 0,
+        "hard_brakes": 0,
+        "duration_over_80_s": 0,
+        "duration_over_75_s": 0,
+        "duration_over_70_s": 0
+    },
+    {
+        "uri": "https://api.automatic.com/v1/trips/5351ce68e4b04d9d3676c4a1",
+        "id": "5351ce68e4b04d9d3676c4a1",
+        "user": {
+            "id": "e1028edc1f8bd41386c7"
+        },
+        "vehicle": {
+            "uri": "https://api.automatic.com/v1/vehicles/519965e4e4b0c01e0964fde5",
+            "id": "519965e4e4b0c01e0964fde5",
+            "year": 2006,
+            "make": "Scion",
+            "model": "xA",
+            "display_name": "Scion",
+            "color": "#404347"
+        },
+        "start_time": 1397869272051,
+        "start_time_zone": "America/Los_Angeles",
+        "end_time": 1397869448686,
+        "end_time_zone": "America/Los_Angeles",
+        "distance_m": 1217.6111111111104,
+        "fuel_cost_usd": 0.12322088193833575,
+        "fuel_volume_gal": 0.03020860062229364,
+        "average_mpg": 25.045465602739007,
+        "start_location": {
+            "name": "604 Main Street, Cambria, CA 93428, USA",
+            "display_name": "Main St, Cambria, CA",
+            "lat": 35.5679471,
+            "lon": -121.1015619,
+            "accuracy_m": 10
+        },
+        "end_location": {
+            "name": "1241-1299 Knollwood Circle, Cambria, CA 93428, USA",
+            "display_name": "Knollwood Cir, Cambria, CA",
+            "lat": 35.5633936,
+            "lon": -121.0920804,
+            "accuracy_m": 15
+        },
+        "path": "}{axE~rcbVPe@b@_A|FsJvBqDjCcEpBmDnBgDnAgC^gA\\y@r@eCVgAAUXgBZsCiAS]UOt@Gl@",
+        "hard_accels": 0,
+        "hard_brakes": 0,
+        "duration_over_80_s": 0,
+        "duration_over_75_s": 0,
+        "duration_over_70_s": 0
+    },
+    {
+        "uri": "https://api.automatic.com/v1/trips/5351ce68e4b04d9d3676c4a0",
+        "id": "5351ce68e4b04d9d3676c4a0",
+        "user": {
+            "id": "e1028edc1f8bd41386c7"
+        },
+        "vehicle": {
+            "uri": "https://api.automatic.com/v1/vehicles/519965e4e4b0c01e0964fde5",
+            "id": "519965e4e4b0c01e0964fde5",
+            "year": 2006,
+            "make": "Scion",
+            "model": "xA",
+            "display_name": "Scion",
+            "color": "#404347"
+        },
+        "start_time": 1397864561348,
+        "start_time_zone": "America/Los_Angeles",
+        "end_time": 1397866554907,
+        "end_time_zone": "America/Los_Angeles",
+        "distance_m": 39230.138888888796,
+        "fuel_cost_usd": 2.50101490737162,
+        "fuel_volume_gal": 0.6131441302700712,
+        "average_mpg": 39.75652211216299,
+        "start_location": {
+            "name": "1500-1732 Eric Seastrand Memorial Highway, Paso Robles, CA 93446, USA",
+            "display_name": "Green Valley Rd, Paso Robles, CA",
+            "lat": 35.578728,
+            "lon": -120.722409,
+            "accuracy_m": 10
+        },
+        "end_location": {
+            "name": "604 Main Street, Cambria, CA 93428, USA",
+            "display_name": "Main St, Cambria, CA",
+            "lat": 35.567853,
+            "lon": -121.1015806,
+            "accuracy_m": 10
+        },
+        "path": "_~cxE~qy_V`Qvb@|EbMnFvM|HzRjFlMlE`IpKfRhKbRfRx\\fAfBvAjBbCvBpLtHxDbCrBzAxAzAh@r@xIlNv@zA|GjOxFtMtDlI`@rA`@hB^lDHpDcApYy@pSGlCBdDXvDv@xEdCrLlGvZvBbK~@|FVzDf@|Lf@jEhApErAbDt@tAfCrDhMjR~ClEvBdC`EfDhCvBhBnB`AxAfArBfAzCt@vCZpBRxBHzBAbDYpFYrD_@lEInB?pFNvD`@lD|BrNrBxMZdELdGG~D]bGQ~Fs@xOg@lNo@hNKzBAnCLpE\\dCzC~L`AvEnBrIrBdJfAjG`@bFLjEA|C_@`IcAtPW|G?rCJnC\\|Dn@rDn@fCj@bB`GbNbAhDd@xB\\vCRzDCtDO|BQjBqAfH}@`F_@vDGjEBbBN|BZbDNjCd@nETdDD`BEtB]nEa@`C_@bBcCbHaBdEaAtBaB`Fe@rASz@m@pESvBm@pGk@vGUxAc@fBa@jAi@jAoB~DaBrC{BvEq@jAkDxHyB|D{AfDy@hC[pAs@zDy@lHaAfJa@pCcAlFkHd\\cGhXq@vDQxAMzC?hDbAtOz@xKfAjJT`D@bDGrAMzAc@dCc@~AaB`E{CjG_CnFq@`Ci@lCa@bDGrEGnIQbESzAe@~Bo@jCcAbDiAzEkAhHmBdSe@lFIrCDfCNbCvBlXp@bJ`@xEVdBz@pDtAhDx@`B~@|Az@dA~CtCbEhDvClC`CnDn@nAbArCh@rBn@xDXrEzChi@~@tO\\`Dl@pChAjDjHjQlAnDZpAZvBTfCHdB@zCIdCi@bFsAlLQxC{@bU}@pVIxGJlFf@zIl@jLPfKAlC[hFkApNUtDClEJ|BPpB^~Br@vC`@jAzB~Gt@|BfClIh@vC^`FBfEo@fTi@fPGlDDhCX`D\\|Bn@jCr@xBl@pApSr]pIzNrFfJxC|ErF~JdDbGL^nCpFj@dAv@tAq@t@{@v@cBdBaB`BwCxCsEtEaEzDcDpCwD`CcCvAeCfAcCxAeC`B}CjCuBdCwT`ZkC~DyBpE{I|ReBpCmDhEuNfPqGdH{FzGkNxOuAbBk@n@qB~BwAxBmAnC{@hCm@vCWnBUnDE`E\\fGbCxZRxCDrBEzDUlCWhBq@~Ci@bBw@jBsBhD_BfB_BpA_DfBwE`CyFxCwAv@iIdEM@aCnAeBrAcB`BeDbEwB~CuAjBeF~G{A~BiAhB{@jBm@xA}@lCQM`@X~@_D`CwFVe@",
+        "hard_accels": 1,
+        "hard_brakes": 0,
+        "duration_over_80_s": 0,
+        "duration_over_75_s": 0,
+        "duration_over_70_s": 0
+    },
+    {
+        "uri": "https://api.automatic.com/v1/trips/5351ab01e4b0c11972e2905d",
+        "id": "5351ab01e4b0c11972e2905d",
+        "user": {
+            "id": "e1028edc1f8bd41386c7"
+        },
+        "vehicle": {
+            "uri": "https://api.automatic.com/v1/vehicles/519965e4e4b0c01e0964fde5",
+            "id": "519965e4e4b0c01e0964fde5",
+            "year": 2006,
+            "make": "Scion",
+            "model": "xA",
+            "display_name": "Scion",
+            "color": "#404347"
+        },
+        "start_time": 1397860772996,
+        "start_time_zone": "America/Los_Angeles",
+        "end_time": 1397861091010,
+        "end_time_zone": "America/Los_Angeles",
+        "distance_m": 3586.472222222221,
+        "fuel_cost_usd": 0.2803739404671686,
+        "fuel_volume_gal": 0.06873595010227228,
+        "average_mpg": 32.421615142184976,
+        "start_location": {
+            "name": "1550 North Green Valley Road, Zenaida Cellars, Cambria, CA 93428, USA",
+            "display_name": "N Green Valley Rd, Cambria, CA",
+            "lat": 35.5819247,
+            "lon": -120.7194934,
+            "accuracy_m": 5
+        },
+        "end_location": {
+            "name": "1500-1732 Eric Seastrand Memorial Highway, Paso Robles, CA 93446, USA",
+            "display_name": "Green Valley Rd, Paso Robles, CA",
+            "lat": 35.5779883,
+            "lon": -120.7229858,
+            "accuracy_m": 10
+        },
+        "path": "{pdxEl`y_Vj@e@J]^s@h@_Av@bA~ArBl@|@fAjBn@rA`IzRvCnHzApDrDdJhCzG|CrHrBhFHRISsBiFuAeD}EaMqE_LiBmEeGiO",
+        "hard_accels": 0,
+        "hard_brakes": 0,
+        "duration_over_80_s": 0,
+        "duration_over_75_s": 0,
+        "duration_over_70_s": 0
+    },
+    {
+        "uri": "https://api.automatic.com/v1/trips/5351ab00e4b018ba7551d774",
+        "id": "5351ab00e4b018ba7551d774",
+        "user": {
+            "id": "e1028edc1f8bd41386c7"
+        },
+        "vehicle": {
+            "uri": "https://api.automatic.com/v1/vehicles/519965e4e4b0c01e0964fde5",
+            "id": "519965e4e4b0c01e0964fde5",
+            "year": 2006,
+            "make": "Scion",
+            "model": "xA",
+            "display_name": "Scion",
+            "color": "#404347"
+        },
+        "start_time": 1397858750433,
+        "start_time_zone": "America/Los_Angeles",
+        "end_time": 1397859590891,
+        "end_time_zone": "America/Los_Angeles",
+        "distance_m": 5739.277777777783,
+        "fuel_cost_usd": 0.3470845497181876,
+        "fuel_volume_gal": 0.08509059811674126,
+        "average_mpg": 41.91088033564282,
+        "start_location": {
+            "name": "2900 Vineyard Drive, Templeton, CA 93465, USA",
+            "display_name": "Vineyard Dr, Templeton, CA",
+            "lat": 35.5534115,
+            "lon": -120.7511105,
+            "accuracy_m": 10
+        },
+        "end_location": {
+            "name": "1550 North Green Valley Road, Zenaida Cellars, Cambria, CA 93428, USA",
+            "display_name": "N Green Valley Rd, Cambria, CA",
+            "lat": 35.5815636,
+            "lon": -120.7194915,
+            "accuracy_m": 5
+        },
+        "path": "a__xEfd_`V}A}Aq@y@eCoCo@e@{@a@UC_ADoAR[NaFfDKFI?MEs@uB}@_Cu@cBa@q@eAgBm@qA[qAc@gEEu@Be@R_B`@eDBqAMwH@gABa@ZqBb@yBlAgHb@kBp@wB`DyIb@uAr@_Dh@gCx@oEpFeZtA{H`@kBoM_EeNqE}@OgAGsCR{BFy@IYISIy@g@sBsAmCmAyBe@qHeAaCg@_Ea@mCe@eLeBuV}DmAOo@OcKyAoOmCqASu@C]Fm@^g@`@]i@_BsBw@cAi@~@_@r@K\\k@d@",
+        "hard_accels": 1,
+        "hard_brakes": 0,
+        "duration_over_80_s": 0,
+        "duration_over_75_s": 0,
+        "duration_over_70_s": 0
+    },
+    {
+        "uri": "https://api.automatic.com/v1/trips/5351aafbe4b018ba7551d741",
+        "id": "5351aafbe4b018ba7551d741",
+        "user": {
+            "id": "e1028edc1f8bd41386c7"
+        },
+        "vehicle": {
+            "uri": "https://api.automatic.com/v1/vehicles/519965e4e4b0c01e0964fde5",
+            "id": "519965e4e4b0c01e0964fde5",
+            "year": 2006,
+            "make": "Scion",
+            "model": "xA",
+            "display_name": "Scion",
+            "color": "#404347"
+        },
+        "start_time": 1397854935674,
+        "start_time_zone": "America/Los_Angeles",
+        "end_time": 1397856682736,
+        "end_time_zone": "America/Los_Angeles",
+        "distance_m": 35602.94444444442,
+        "fuel_cost_usd": 2.510990478332416,
+        "fuel_volume_gal": 0.6155897225624948,
+        "average_mpg": 35.937318681206705,
+        "start_location": {
+            "name": "923 Suffolk Street, Cambria, CA 93428, USA",
+            "display_name": "Suffolk St, Cambria, CA",
+            "lat": 35.567891,
+            "lon": -121.096074,
+            "accuracy_m": 16.466999053955078
+        },
+        "end_location": {
+            "name": "2900 Vineyard Drive, Templeton, CA 93465, USA",
+            "display_name": "Vineyard Dr, Templeton, CA",
+            "lat": 35.5535685,
+            "lon": -120.7509764,
+            "accuracy_m": 10
+        },
+        "path": "yxaxE|qbbVR}Ad@aARzA_@nEGT]h@Q^?l@Lj@@`@Qb@Wd@?Rf@fB_@LILQf@Q|@a@x@Kn@TvBB`@TZBNMZ]bA]dBk@lBo@lAk@hAY`A|@l@~@_Dx@uBfAaCpAyBvGaJrAgBp@w@hDsEfDeDnBwApBoAtIqEfCsA`L_G~CgB~AqA~AgB`AyAp@oAv@kBh@cBp@_DViBTmCD{DEsB[yFyAkTi@iGOyCCiBFuA\\_E^_Cv@uCz@{B~AyCfAwA|BkCpKgLxFsGhDiEjEcFjO_QjEeFpB{CvAyC|EwKlCeGfCaEzF{H`QeUtCgCbCcBdBeAjAs@pCoAfGsD`CmBbE{DhEmEvEsEVMtDsDbCyBmB_DuIqOsF_KyC}EwBmD{F}JqP_YqHkMm@qAs@yBo@kC]}BYaDEiCFmD|@gXVoIDqEQuDe@cEWmAm@wBoCsI{B_Ha@kAs@wC_@_CQqBK}BAkADaCTuDbB_TDgBG{GImEMgDgA_RKmF?mB\\wKdBie@d@kG`BoNJgBDkCKcEUgC[wB{@aD{AyDcF{LkA_Ds@qCc@qC{AaW}Cki@Gw@o@yDmAiEoAmCaCoDi@i@wE}DyDiDyAwAaBgCcBmDqAeEm@oDw@gJ_BqScAuNEgCHsCnB}Sb@uEb@{C`A_Fn@iCbAcDn@kCd@_CR{AHsAFoBFoIFsEJeA~@kFp@aCbAgCvEsJ`BaEb@_Bb@eCToDAcDGoAs@yGo@}FeB}UKwB?iDL{CPyAp@wDbGiXpB_JxDeQbAmFz@{G`BkOr@{DZqAx@iCzAgDxB}DjDyHp@kAzBwE`BsCxCkG`@kAb@gBTyATsCz@uIZwDl@qER{@fCuHhC_G|AkE~@sC^cB`@aC\\oEDuBEaBUeDe@oEOkC[cDO}BCcBFkE^wDnCiO`@iFBuDI}Bg@uEe@yBg@mBmCmGoCqGk@cBo@gCo@sD]}DKoC?sCV}G|AsWDcB@}CMkEKmBUuBgAkGcFyTaAwEs@qCwBgJS}CG_C@oCd@sJl@qPh@}Lj@iO\\cGF_EMeG[eEsByM}BsNa@mDOwD?qFHoB^mEXsDXqF@cDI{BSyB[qBu@wCgA{CgAsBaAyAiBoBkI_HwBeC_DmEiMkRgCsDu@uAsAcDiAqEg@kEg@}LW{D_A}FwFgXsGg[w@yEYwDCeDFmCpB{h@JgDAcBUmDQmAa@iBa@sAwB_FqCoGyB_FWi@P[LYFSFk@@_AwFc\\UcCAuBN{B^kC`B_E`@kAnAgESUKI",
+        "hard_accels": 0,
+        "hard_brakes": 1,
+        "duration_over_80_s": 0,
+        "duration_over_75_s": 0,
+        "duration_over_70_s": 0
+    },
+    {
+        "uri": "https://api.automatic.com/v1/trips/535164c0e4b020c6ba076cf2",
+        "id": "535164c0e4b020c6ba076cf2",
+        "user": {
+            "id": "e1028edc1f8bd41386c7"
+        },
+        "vehicle": {
+            "uri": "https://api.automatic.com/v1/vehicles/519965e4e4b0c01e0964fde5",
+            "id": "519965e4e4b0c01e0964fde5",
+            "year": 2006,
+            "make": "Scion",
+            "model": "xA",
+            "display_name": "Scion",
+            "color": "#404347"
+        },
+        "start_time": 1397842800692,
+        "start_time_zone": "America/Los_Angeles",
+        "end_time": 1397843115809,
+        "end_time_zone": "America/Los_Angeles",
+        "distance_m": 603.2777777777778,
+        "fuel_cost_usd": 0.10423150697959015,
+        "fuel_volume_gal": 0.025553201024660493,
+        "average_mpg": 14.669764138993921,
+        "start_location": {
+            "name": "601-699 Main Street, Cambria, CA 93428, USA",
+            "display_name": "Main St, Cambria, CA",
+            "lat": 35.5671324,
+            "lon": -121.0998139,
+            "accuracy_m": 5
+        },
+        "end_location": {
+            "name": "923 Suffolk Street, Cambria, CA 93428, USA",
+            "display_name": "Suffolk St, Cambria, CA",
+            "lat": 35.5677028,
+            "lon": -121.0960588,
+            "accuracy_m": 16.466999053955078
+        },
+        "path": "ouaxE|hcbVlD_Gn@iAv@oAw@nAo@hAk@~@]WMEu@LeC\\c@qACUAIFYPULYB]E]I[CYHc@h@y@FUDk@XmC?UGm@Km@]n@GPS|A",
+        "hard_accels": 0,
+        "hard_brakes": 0,
+        "duration_over_80_s": 0,
+        "duration_over_75_s": 0,
+        "duration_over_70_s": 0
+    },
+    {
+        "uri": "https://api.automatic.com/v1/trips/535164bfe4b05d59141143af",
+        "id": "535164bfe4b05d59141143af",
+        "user": {
+            "id": "e1028edc1f8bd41386c7"
+        },
+        "vehicle": {
+            "uri": "https://api.automatic.com/v1/vehicles/519965e4e4b0c01e0964fde5",
+            "id": "519965e4e4b0c01e0964fde5",
+            "year": 2006,
+            "make": "Scion",
+            "model": "xA",
+            "display_name": "Scion",
+            "color": "#404347"
+        },
+        "start_time": 1397842583731,
+        "start_time_zone": "America/Los_Angeles",
+        "end_time": 1397842800627,
+        "end_time_zone": "America/Los_Angeles",
+        "distance_m": 1702.6666666666663,
+        "fuel_cost_usd": 0.1200645547432804,
+        "fuel_volume_gal": 0.02943480135898024,
+        "average_mpg": 35.94344000309188,
+        "start_location": {
+            "name": "4100-4198 Burton Drive, Cambria, CA 93428, USA",
+            "display_name": "Burton Dr, Cambria, CA",
+            "lat": 35.5638571,
+            "lon": -121.0826184,
+            "accuracy_m": 10
+        },
+        "end_location": {
+            "name": "601-699 Main Street, Cambria, CA 93428, USA",
+            "display_name": "Main St, Cambria, CA",
+            "lat": 35.5671489,
+            "lon": -121.0997967,
+            "accuracy_m": 5
+        },
+        "path": "aaaxEn}_bVWFRtAd@hDt@tGb@vEpAvKTzE@t@AjCKzC[rDe@~CO^YlAYfAQ~@i@|Ac@bAiAvBwBrDyFjJcE`H",
+        "hard_accels": 0,
+        "hard_brakes": 0,
+        "duration_over_80_s": 0,
+        "duration_over_75_s": 0,
+        "duration_over_70_s": 0
+    },
+    {
+        "uri": "https://api.automatic.com/v1/trips/535161dae4b05d5914111f3b",
+        "id": "535161dae4b05d5914111f3b",
+        "user": {
+            "id": "e1028edc1f8bd41386c7"
+        },
+        "vehicle": {
+            "uri": "https://api.automatic.com/v1/vehicles/519965e4e4b0c01e0964fde5",
+            "id": "519965e4e4b0c01e0964fde5",
+            "year": 2006,
+            "make": "Scion",
+            "model": "xA",
+            "display_name": "Scion",
+            "color": "#404347"
+        },
+        "start_time": 1397842006069,
+        "start_time_zone": "America/Los_Angeles",
+        "end_time": 1397842384083,
+        "end_time_zone": "America/Los_Angeles",
+        "distance_m": 2323.6111111111154,
+        "fuel_cost_usd": 0.22771370741086586,
+        "fuel_volume_gal": 0.055825865999231644,
+        "average_mpg": 25.863011357977,
+        "start_location": {
+            "name": "923 Suffolk Street, Cambria, CA 93428, USA",
+            "display_name": "Suffolk St, Cambria, CA",
+            "lat": 35.567891,
+            "lon": -121.096074,
+            "accuracy_m": 13.604999542236328
+        },
+        "end_location": {
+            "name": "4100-4198 Burton Drive, Cambria, CA 93428, USA",
+            "display_name": "Burton Dr, Cambria, CA",
+            "lat": 35.5638877,
+            "lon": -121.0824941,
+            "accuracy_m": 10
+        },
+        "path": "yxaxE|qbbVR}AFQ\\o@Jl@Fl@IbAO~AEj@GT]h@Q^CRBXLj@@`@Qb@QTEN?RBTb@pAdC]t@MLD\\Vj@_An@iAjCcEfD_Gx@uAn@mA~@aC\\y@Vy@ZkAVgAAUXgBJw@ZsDJ{C@kCAu@U{EqAwKc@wEu@uGe@iDSuAVG",
+        "hard_accels": 0,
+        "hard_brakes": 0,
+        "duration_over_80_s": 0,
+        "duration_over_75_s": 0,
+        "duration_over_70_s": 0
+    },
+    {
+        "uri": "https://api.automatic.com/v1/trips/5350977de4b081f331253eed",
+        "id": "5350977de4b081f331253eed",
+        "user": {
+            "id": "e1028edc1f8bd41386c7"
+        },
+        "vehicle": {
+            "uri": "https://api.automatic.com/v1/vehicles/519965e4e4b0c01e0964fde5",
+            "id": "519965e4e4b0c01e0964fde5",
+            "year": 2006,
+            "make": "Scion",
+            "model": "xA",
+            "display_name": "Scion",
+            "color": "#404347"
+        },
+        "start_time": 1397790274755,
+        "start_time_zone": "America/Los_Angeles",
+        "end_time": 1397790572438,
+        "end_time_zone": "America/Los_Angeles",
+        "distance_m": 2301.416666666668,
+        "fuel_cost_usd": 0.20481109297330624,
+        "fuel_volume_gal": 0.050211103940501656,
+        "average_mpg": 28.480433724302838,
+        "start_location": {
+            "name": "2380 Main Street, Cambria, CA 93428, USA",
+            "display_name": "Main St, Cambria, CA",
+            "lat": 35.5647248,
+            "lon": -121.0806599,
+            "accuracy_m": 5
+        },
+        "end_location": {
+            "name": "923 Suffolk Street, Cambria, CA 93428, USA",
+            "display_name": "Suffolk St, Cambria, CA",
+            "lat": 35.567728,
+            "lon": -121.0961028,
+            "accuracy_m": 13.604999542236328
+        },
+        "path": "cgaxEhr_bVr@j@n@zAdAdFb@xCjAzJb@vE|@nHRfBFfALjD@dBCvBOvCKpAe@jDg@lBo@fCGd@Qf@_@fAoAfCoBfDqBlDkCbEo@hAk@~@]WMEu@LeC\\c@qACUAIFYPULYB]E]I[CYHc@h@y@FUDk@XmC?UGm@Km@]n@GPS|A",
+        "hard_accels": 0,
+        "hard_brakes": 0,
+        "duration_over_80_s": 0,
+        "duration_over_75_s": 0,
+        "duration_over_70_s": 0
+    },
+    {
+        "uri": "https://api.automatic.com/v1/trips/535093afe4b081f3312534c6",
+        "id": "535093afe4b081f3312534c6",
+        "user": {
+            "id": "e1028edc1f8bd41386c7"
+        },
+        "vehicle": {
+            "uri": "https://api.automatic.com/v1/vehicles/519965e4e4b0c01e0964fde5",
+            "id": "519965e4e4b0c01e0964fde5",
+            "year": 2006,
+            "make": "Scion",
+            "model": "xA",
+            "display_name": "Scion",
+            "color": "#404347"
+        },
+        "start_time": 1397788880356,
+        "start_time_zone": "America/Los_Angeles",
+        "end_time": 1397789600942,
+        "end_time_zone": "America/Los_Angeles",
+        "distance_m": 5777.277777777772,
+        "fuel_cost_usd": 0.4288357321523351,
+        "fuel_volume_gal": 0.10513256488167079,
+        "average_mpg": 34.14578522558137,
+        "start_location": {
+            "name": "5885 Moonstone Beach Drive, Cambria, CA 93428, USA",
+            "display_name": "Moonstone Beach Dr, Cambria, CA",
+            "lat": 35.569538,
+            "lon": -121.11027,
+            "accuracy_m": 5
+        },
+        "end_location": {
+            "name": "2380 Main Street, Cambria, CA 93428, USA",
+            "display_name": "Main St, Cambria, CA",
+            "lat": 35.5648327,
+            "lon": -121.0806156,
+            "accuracy_m": 5
+        },
+        "path": "}ebxEfiebV\\eAXgBN_Cr@_NR_DXqAd@iARi@Lm@_Ak@~@_Dx@uBfAaCpAyBhCoDvDcFh@u@p@w@hDsEfDeD]s@wBgCx@uAn@mA~@aC\\y@Vy@ZkAVgAAUXgBJw@ZsDJ{C@kCAu@U{EqAwKc@wEu@uGe@iDSuAi@mC[wAYy@Ua@e@_@MK",
+        "hard_accels": 0,
+        "hard_brakes": 0,
+        "duration_over_80_s": 0,
+        "duration_over_75_s": 0,
+        "duration_over_70_s": 0
+    },
+    {
+        "uri": "https://api.automatic.com/v1/trips/535093ade4b0dfe4b894b458",
+        "id": "535093ade4b0dfe4b894b458",
+        "user": {
+            "id": "e1028edc1f8bd41386c7"
+        },
+        "vehicle": {
+            "uri": "https://api.automatic.com/v1/vehicles/519965e4e4b0c01e0964fde5",
+            "id": "519965e4e4b0c01e0964fde5",
+            "year": 2006,
+            "make": "Scion",
+            "model": "xA",
+            "display_name": "Scion",
+            "color": "#404347"
+        },
+        "start_time": 1397788139125,
+        "start_time_zone": "America/Los_Angeles",
+        "end_time": 1397788460268,
+        "end_time_zone": "America/Los_Angeles",
+        "distance_m": 2095.2500000000005,
+        "fuel_cost_usd": 0.19019231438568188,
+        "fuel_volume_gal": 0.04662719156305023,
+        "average_mpg": 27.92207608675682,
+        "start_location": {
+            "name": "836-866 Cornwall Street, Cambria, CA 93428, USA",
+            "display_name": "Cornwall St, Cambria, CA",
+            "lat": 35.5674782,
+            "lon": -121.0989211,
+            "accuracy_m": 5
+        },
+        "end_location": {
+            "name": "836-866 Cornwall Street, Cambria, CA 93428, USA",
+            "display_name": "Cornwall St, Cambria, CA",
+            "lat": 35.5674695,
+            "lon": -121.0989746,
+            "accuracy_m": 5
+        },
+        "path": "wwaxEbccbV",
+        "hard_accels": 0,
+        "hard_brakes": 0,
+        "duration_over_80_s": 0,
+        "duration_over_75_s": 0,
+        "duration_over_70_s": 0
+    },
+    {
+        "uri": "https://api.automatic.com/v1/trips/535093ace4b0dfe4b894b447",
+        "id": "535093ace4b0dfe4b894b447",
+        "user": {
+            "id": "e1028edc1f8bd41386c7"
+        },
+        "vehicle": {
+            "uri": "https://api.automatic.com/v1/vehicles/519965e4e4b0c01e0964fde5",
+            "id": "519965e4e4b0c01e0964fde5",
+            "year": 2006,
+            "make": "Scion",
+            "model": "xA",
+            "display_name": "Scion",
+            "color": "#404347"
+        },
+        "start_time": 1397783568575,
+        "start_time_zone": "America/Los_Angeles",
+        "end_time": 1397783696054,
+        "end_time_zone": "America/Los_Angeles",
+        "distance_m": 113.33333333333334,
+        "fuel_cost_usd": 0.01796470532607905,
+        "fuel_volume_gal": 0.004404193509703126,
+        "average_mpg": 15.989776175459527,
+        "start_location": {
+            "name": "923 Suffolk Street, Cambria, CA 93428, USA",
+            "display_name": "Suffolk St, Cambria, CA",
+            "lat": 35.567891,
+            "lon": -121.096074,
+            "accuracy_m": 21.538999557495117
+        },
+        "end_location": {
+            "name": "836-866 Cornwall Street, Cambria, CA 93428, USA",
+            "display_name": "Cornwall St, Cambria, CA",
+            "lat": 35.5674695,
+            "lon": -121.0989746,
+            "accuracy_m": 5
+        },
+        "path": "yxaxE|qbbVR}AFQ\\o@Jl@Fl@IbAO~AEj@GT]h@Q^CRBXLj@@`@Qb@QTEN?RBTb@pA\\G",
+        "hard_accels": 0,
+        "hard_brakes": 0,
+        "duration_over_80_s": 0,
+        "duration_over_75_s": 0,
+        "duration_over_70_s": 0
+    },
+    {
+        "uri": "https://api.automatic.com/v1/trips/5350725fe4b0dfe4b8941ea9",
+        "id": "5350725fe4b0dfe4b8941ea9",
+        "user": {
+            "id": "e1028edc1f8bd41386c7"
+        },
+        "vehicle": {
+            "uri": "https://api.automatic.com/v1/vehicles/519965e4e4b0c01e0964fde5",
+            "id": "519965e4e4b0c01e0964fde5",
+            "year": 2006,
+            "make": "Scion",
+            "model": "xA",
+            "display_name": "Scion",
+            "color": "#404347"
+        },
+        "start_time": 1397779055591,
+        "start_time_zone": "America/Los_Angeles",
+        "end_time": 1397781031462,
+        "end_time_zone": "America/Los_Angeles",
+        "distance_m": 35079.99999999978,
+        "fuel_cost_usd": 2.3808225661022315,
+        "fuel_volume_gal": 0.5836780010056954,
+        "average_mpg": 37.3454222809964,
+        "start_location": {
+            "name": "Coleman Drive, Morro Bay, CA 93442, USA",
+            "display_name": "Coleman Dr, Morro Bay, CA",
+            "lat": 35.3688053,
+            "lon": -120.8649012,
+            "accuracy_m": 10
+        },
+        "end_location": {
+            "name": "923 Suffolk Street, Cambria, CA 93428, USA",
+            "display_name": "Suffolk St, Cambria, CA",
+            "lat": 35.567759,
+            "lon": -121.0960387,
+            "accuracy_m": 21.538999557495117
+        },
+        "path": "a~zvErlu`Vt@PRL^Xz@hA`A|CaA}C{@iA_@YSMeAWaBW_@@sAP_@CUEq@a@]a@y@uBcBkEUYmAiAe@kA_AwBq@oBIo@Am@Fg@Ne@j@mA~@sCJSJG~IcQh@kAXi@\\_@tD{CXUMq@B}AGwEEoMiJ?aBVu@Pg@Ts@`@oAlAe@j@_@XaA\\oFHs@Ju@`@cCfCs@v@QPLPDL@JA\\Wl@]f@YT]XER]PuAn@}DxAeDz@aI`ByOfDaVtG}i@fO_VtGqDfAmChAmCpA_CvAmCnBqDdD}DnEsF|GsAvAeC~BqSnQaBfAaBt@o@TeCj@iKfB{Cr@_DdAqD~A_\\hO_EdBgIrCuFtBa\\rOaAl@yCzBsHlGsInHyAhAy@h@gBz@aAXwNnEiGlBkBj@mBr@{C|AqRhMmD~BcFpDeBbB_AtAcBxCwCxGwB|DqAfBaDzCkMfLsDhDeBrBqApBcA`Cm@fBg@nB]lBShBO~BC`EHfCJ`ALrAZdBl@dCr@tBt@bB`AfBbBzC`ApBf@tAl@tBZdB`@vCf@|IpB~]t@dQTtJ?pAB\\CzAKnCU`FUfFcBr`@{Bxg@QjC]fD_@hCe@lCyF`UmMhg@}AnFe@zAw@lB_F`Kcf@laAoIvPmChF{CpEoBtCgH`KwCrEwChFiK|QqAhCq@nBw@bDYpBgA|JYzA_@xA}@fCg@fA{@vAoA~AcBzAuBtAqE~B{A~@kB|As@v@uAlB}CtEsAtB}B|CuAxAyBnBuBzAcAh@_EfB}DpBaGrCeCnAoAv@}CzBeJhImGvFoAz@kAn@oFrBuCrAkAt@_At@sAtA_CbD_MvQkEdGqN`PiE`FgBzBqBxCwAbC{EfJiGrLY`@cGbLwJ~QM^wExIqApB_BzBiD|D{DrDeP~NsLrKcCdCeArAwA`CeK`SuDdHuArBmBrB{B`BqAn@iEdB_@JoCdAcCvAkAz@oHpH{G~GwFrFkDzCkCfBiDpBqCnAkC~A{A~@sB|AiAbAsAtAgUtZoCvD_AbB{@jBeFjLcClFaBrCyCrDoJxKkLpMmBpBeBvBiNrO}BnCi@p@}BhCoAlBqAhC}@dCq@vC]xBYtDCdBA`BP|DbAvMbAbM^lG?tCO|Ds@zEw@vCg@rAy@fB{@tAiAzAaB|AcCbBwE`CcIdEgL`Gw@X}CnB_@ZUe@wBgCgD~F{DlGk@~@]WMEu@LeC\\g@gB?SVe@Pc@Aa@Mk@CYBSP_@\\i@FUTkCHcAS{Ae@`AS|A",
+        "hard_accels": 1,
+        "hard_brakes": 0,
+        "duration_over_80_s": 0,
+        "duration_over_75_s": 0,
+        "duration_over_70_s": 0
+    },
+    {
+        "uri": "https://api.automatic.com/v1/trips/535068dee4b0dfe4b893e6a0",
+        "id": "535068dee4b0dfe4b893e6a0",
+        "user": {
+            "id": "e1028edc1f8bd41386c7"
+        },
+        "vehicle": {
+            "uri": "https://api.automatic.com/v1/vehicles/519965e4e4b0c01e0964fde5",
+            "id": "519965e4e4b0c01e0964fde5",
+            "year": 2006,
+            "make": "Scion",
+            "model": "xA",
+            "display_name": "Scion",
+            "color": "#404347"
+        },
+        "start_time": 1397778109298,
+        "start_time_zone": "America/Los_Angeles",
+        "end_time": 1397778646747,
+        "end_time_zone": "America/Los_Angeles",
+        "distance_m": 4500.3055555555575,
+        "fuel_cost_usd": 0.3245116047061412,
+        "fuel_volume_gal": 0.0795566571968966,
+        "average_mpg": 35.14929268039855,
+        "start_location": {
+            "name": "1700 Embarcadero, Morro Bay, CA 93442, USA",
+            "display_name": "Embarcadero, Morro Bay, CA",
+            "lat": 35.3788221,
+            "lon": -120.8618843,
+            "accuracy_m": 27.0310001373291
+        },
+        "end_location": {
+            "name": "Coleman Drive, Morro Bay, CA 93442, USA",
+            "display_name": "Coleman Dr, Morro Bay, CA",
+            "lat": 35.3672309,
+            "lon": -120.8669087,
+            "accuracy_m": 10
+        },
+        "path": "s||vEh{t`Vo@GKCa@Qe@WUWOSSk@K]WuCg@{H?yAb@qJ@_BEs@o@yElAE`BGd@GnDy@|C{@~Bs@n@_@hCgC|BaCpAwAp@o@\\UVKr@KrBCzBE`A]^Yd@k@r@u@ZWr@a@f@Ut@Q`BWdBAbG@FdFAhFFvEC|AGh@IFaDpCi@f@Yb@o@dAuGvMqAbC?Rc@fA{@dCWf@Od@Gf@@l@Hn@p@nBdBbElAhATX|C`Id@d@\\VRFZFb@ArAQj@BrAX",
+        "hard_accels": 0,
+        "hard_brakes": 0,
+        "duration_over_80_s": 0,
+        "duration_over_75_s": 0,
+        "duration_over_70_s": 0
+    },
+    {
+        "uri": "https://api.automatic.com/v1/trips/5350654ae4b0dfe4b893cf4f",
+        "id": "5350654ae4b0dfe4b893cf4f",
+        "user": {
+            "id": "e1028edc1f8bd41386c7"
+        },
+        "vehicle": {
+            "uri": "https://api.automatic.com/v1/vehicles/519965e4e4b0c01e0964fde5",
+            "id": "519965e4e4b0c01e0964fde5",
+            "year": 2006,
+            "make": "Scion",
+            "model": "xA",
+            "display_name": "Scion",
+            "color": "#404347"
+        },
+        "start_time": 1397777090260,
+        "start_time_zone": "America/Los_Angeles",
+        "end_time": 1397777708945,
+        "end_time_zone": "America/Los_Angeles",
+        "distance_m": 9837.805555555562,
+        "fuel_cost_usd": 0.6200537067639093,
+        "fuel_volume_gal": 0.15201120538463087,
+        "average_mpg": 40.21367340379419,
+        "start_location": {
+            "name": "16-76 E Street, Cayucos, CA 93430, USA",
+            "display_name": "E St, Cayucos, CA",
+            "lat": 35.4483228,
+            "lon": -120.9025251,
+            "accuracy_m": 10
+        },
+        "end_location": {
+            "name": "1700 Embarcadero, Morro Bay, CA 93442, USA",
+            "display_name": "Embarcadero, Morro Bay, CA",
+            "lat": 35.3770902,
+            "lon": -120.862022,
+            "accuracy_m": 27.0310001373291
+        },
+        "path": "aojwEzw|`V|@j@rCuHxCeIn@iB\\q@t@gBpBkFtCeHbHeQ`BwDrAcCvCmDrAsAlBiBbA}@|@m@DIBGDOt@e@tCaBjBy@fFaB`P}E|Bq@nBs@zBiAlA{@zEaErGwFvE_EfBsA`Ak@~E_C|TuKjAg@pG}BdDiAfCaAdH_DzReJjDaBrCiAzBs@tA]fBa@zGoAbDo@hAYxAi@t@_@x@g@fAy@fOuM`GmFnAuAvBiCpDqEfCuCrBkBzBgBlA{@jBiAxAw@hBy@dAc@~By@zLgDnKuCro@iQfL_DfCo@PBF?HAhG}@nD]h@IBX@n@KjD[fHBfBx@vKHf@Rj@\\f@d@^b@Rb@Jb@B",
+        "hard_accels": 0,
+        "hard_brakes": 0,
+        "duration_over_80_s": 0,
+        "duration_over_75_s": 0,
+        "duration_over_70_s": 0
+    },
+    {
+        "uri": "https://api.automatic.com/v1/trips/535037d4e4b00bff2e2a883b",
+        "id": "535037d4e4b00bff2e2a883b",
+        "user": {
+            "id": "e1028edc1f8bd41386c7"
+        },
+        "vehicle": {
+            "uri": "https://api.automatic.com/v1/vehicles/519965e4e4b0c01e0964fde5",
+            "id": "519965e4e4b0c01e0964fde5",
+            "year": 2006,
+            "make": "Scion",
+            "model": "xA",
+            "display_name": "Scion",
+            "color": "#404347"
+        },
+        "start_time": 1397764323400,
+        "start_time_zone": "America/Los_Angeles",
+        "end_time": 1397766074858,
+        "end_time_zone": "America/Los_Angeles",
+        "distance_m": 27123.222222222164,
+        "fuel_cost_usd": 1.7076874260424617,
+        "fuel_volume_gal": 0.4186534508562054,
+        "average_mpg": 40.256658329394796,
+        "start_location": {
+            "name": "923 Suffolk Street, Cambria, CA 93428, USA",
+            "display_name": "Suffolk St, Cambria, CA",
+            "lat": 35.567891,
+            "lon": -121.096074,
+            "accuracy_m": 15
+        },
+        "end_location": {
+            "name": "16-76 E Street, Cayucos, CA 93430, USA",
+            "display_name": "E St, Cayucos, CA",
+            "lat": 35.4482929,
+            "lon": -120.902462,
+            "accuracy_m": 10
+        },
+        "path": "yxaxE|qbbVR}AFQ\\o@Jl@Fl@IbAO~AEj@GT]h@Q^CRBXLj@@`@Qb@QTEN?RBTb@pA_@LILQf@Q|@a@x@Kn@JrAHb@B`@TZBNMZ]bA]dBk@lBo@lAk@hAY`A|@l@~@j@Ml@Sh@e@hAYpAS~Cs@~MO~BYfB_@jAk@pAsAhBaBtA{AbAw@d@wAj@_Bb@iAT_@Dy@DcE`@kAPu@TcA^wB`AQLPMvBaAbA_@t@UjAQbEa@x@E^EhAU~Ac@vAk@v@e@zAcA`BuArAiBj@qA^kAXgBN_Cr@_NR_DXqAd@iARi@Lm@_Ak@~@_Dx@uBfAaCpAyBvGaJrAgBp@w@hDsEfDeDnBwApBoAJKhIeEvAw@n@[hE}BvEaCnAo@nAw@~AqA~AgB`AyAp@oAv@kBh@cBp@_DViBTmCD{DEsBSyCG_Ba@oGw@{Ki@iGOyCCQ?wAFuAHyAReB^_Cv@uCz@{Bn@sAn@eAfAwA|BkC`EgEnE_FxFsGhDiEZc@nD_ErIwJvDgEjEeFl@y@bAaBvAyC|EwKlCeG~@cBfA}AzF{HrOsSl@q@jAgAhA_AbCcBdBeAjAs@pCoAfGsD`CmBbE{DjCkC|@aAvEsEF?NMtDsDbCyBv@m@`Ao@lAq@~B_ABEVOhEeBpAo@bAs@hB_Bz@aAj@w@h@{@`AgBtIsPbDkGvAaCdAsAbCeCx]s[zDsDtA{ArAaB~A{BpAqB`B{CtB}DTYdFmJpKsSTi@hGsLzEgJvAcCpByCfB{BhEaFpNaPdCgDdA}ArFgIjEoG~BcDrAuA~@u@jAu@vAs@|@_@nFsBjAo@nA{@lGwFdJiI|C{BnAw@dCoAbDaB|Aq@|DqB~DgBbAi@tB{AxBoBtAyAp@y@jAcBrAuB|CuEtAmBr@w@jB}AzA_ApE_ClAs@f@a@bB{AnA_Bz@wAf@gAf@qAt@oCX{A\\sCh@iFXqBv@cDp@oBpAiChK}QvCiFvCsEhD_FlFwHdBcCt@mAlCiFrp@esA~EaKv@mBd@{Al@kBn@cClMig@xFaUd@mC^iC\\gDPkC^yIjCkm@hAoWTaFJoCB{ADQ@Q?_AMgHMmHS}EgAkSh@ONKXe@D[?[Ec@]mASq@QgAMiDAqAHuBNgAhA}FZ{BHsBEuBOqASeAwAuFS_AKeBCk@DqARaCJ{@JSv@gBzAaE`A{BnC}G}@k@",
+        "hard_accels": 0,
+        "hard_brakes": 0,
+        "duration_over_80_s": 0,
+        "duration_over_75_s": 0,
+        "duration_over_70_s": 0
+    },
+    {
+        "uri": "https://api.automatic.com/v1/trips/53502b83e4b00bff2e2a4adc",
+        "id": "53502b83e4b00bff2e2a4adc",
+        "user": {
+            "id": "e1028edc1f8bd41386c7"
+        },
+        "vehicle": {
+            "uri": "https://api.automatic.com/v1/vehicles/519965e4e4b0c01e0964fde5",
+            "id": "519965e4e4b0c01e0964fde5",
+            "year": 2006,
+            "make": "Scion",
+            "model": "xA",
+            "display_name": "Scion",
+            "color": "#404347"
+        },
+        "start_time": 1397762598383,
+        "start_time_zone": "America/Los_Angeles",
+        "end_time": 1397762887288,
+        "end_time_zone": "America/Los_Angeles",
+        "distance_m": 2168.583333333333,
+        "fuel_cost_usd": 0.21487343990066765,
+        "fuel_volume_gal": 0.052677970066356376,
+        "average_mpg": 25.579862124564745,
+        "start_location": {
+            "name": "4300-4364 Wall Street, Cambria, CA 93428, USA",
+            "display_name": "Wall St, Cambria, CA",
+            "lat": 35.5646214,
+            "lon": -121.0820828,
+            "accuracy_m": 20
+        },
+        "end_location": {
+            "name": "923 Suffolk Street, Cambria, CA 93428, USA",
+            "display_name": "Suffolk St, Cambria, CA",
+            "lat": 35.5677699,
+            "lon": -121.0960512,
+            "accuracy_m": 15
+        },
+        "path": "{eaxEbz_bVvAYh@lCb@xCjAzJb@vE|@nHRfBFfALjD@dBCvBOvCKpAe@jDwAtFGd@Qf@_@fAoAfCoBfDqBlDkCbEo@hAk@~@]WMEu@LeC\\c@qACUAIFYPULYB]E]I[CYHc@h@y@FUDk@XmC?UGm@Km@]n@GPS|A",
+        "hard_accels": 0,
+        "hard_brakes": 0,
+        "duration_over_80_s": 0,
+        "duration_over_75_s": 0,
+        "duration_over_70_s": 0
+    },
+    {
+        "uri": "https://api.automatic.com/v1/trips/53502030e4b0fc4376a7e8df",
+        "id": "53502030e4b0fc4376a7e8df",
+        "user": {
+            "id": "e1028edc1f8bd41386c7"
+        },
+        "vehicle": {
+            "uri": "https://api.automatic.com/v1/vehicles/519965e4e4b0c01e0964fde5",
+            "id": "519965e4e4b0c01e0964fde5",
+            "year": 2006,
+            "make": "Scion",
+            "model": "xA",
+            "display_name": "Scion",
+            "color": "#404347"
+        },
+        "start_time": 1397759677030,
+        "start_time_zone": "America/Los_Angeles",
+        "end_time": 1397759988149,
+        "end_time_zone": "America/Los_Angeles",
+        "distance_m": 2197.5277777777783,
+        "fuel_cost_usd": 0.20733571886833135,
+        "fuel_volume_gal": 0.05083003649628129,
+        "average_mpg": 26.863652859118748,
+        "start_location": {
+            "name": "952 Suffolk Street, Cambria, CA 93428, USA",
+            "display_name": "Suffolk St, Cambria, CA",
+            "lat": 35.567511,
+            "lon": -121.096153,
+            "accuracy_m": 15
+        },
+        "end_location": {
+            "name": "2255 Main Street, Cambria, CA 93428, USA",
+            "display_name": "Main St, Cambria, CA",
+            "lat": 35.5644079,
+            "lon": -121.0823488,
+            "accuracy_m": 36.8129997253418
+        },
+        "path": "wxaxEtqbbVPuAFQ\\o@Jl@Fl@IbAO~AEj@GT]h@Q^CRBXLj@@`@Qb@QTEN?RBTb@pAdC]t@MLD\\Vj@_An@iAjCcEfD_Gx@uAn@mA~@aC\\y@Vy@ZkAVgAAUXgBJw@ZsDJ{C@kCAu@U{EqAwKc@wEu@uGe@iDSuAi@mCq@L",
+        "hard_accels": 0,
+        "hard_brakes": 0,
+        "duration_over_80_s": 0,
+        "duration_over_75_s": 0,
+        "duration_over_70_s": 0
+    },
+    {
+        "uri": "https://api.automatic.com/v1/trips/534f792be4b09960268ba13e",
+        "id": "534f792be4b09960268ba13e",
+        "user": {
+            "id": "e1028edc1f8bd41386c7"
+        },
+        "vehicle": {
+            "uri": "https://api.automatic.com/v1/vehicles/519965e4e4b0c01e0964fde5",
+            "id": "519965e4e4b0c01e0964fde5",
+            "year": 2006,
+            "make": "Scion",
+            "model": "xA",
+            "display_name": "Scion",
+            "color": "#404347"
+        },
+        "start_time": 1397710605758,
+        "start_time_zone": "America/Los_Angeles",
+        "end_time": 1397717251894,
+        "end_time_zone": "America/Los_Angeles",
+        "distance_m": 167767.888888889,
+        "fuel_cost_usd": 10.137625969895776,
+        "fuel_volume_gal": 2.4853213949241915,
+        "average_mpg": 41.94472930178485,
+        "start_location": {
+            "name": "2201 Monroe Street, Santa Clara, CA 95050, USA",
+            "display_name": "Monroe St, Santa Clara, CA",
+            "lat": 36.5137033,
+            "lon": -121.4364897,
+            "accuracy_m": 15
+        },
+        "end_location": {
+            "name": "2201 Monroe Street, Santa Clara, CA 95050, USA",
+            "display_name": "Monroe St, Santa Clara, CA",
+            "lat": 35.5676698,
+            "lon": -121.0961543,
+            "accuracy_m": 15
+        },
+        "path": "{rz}ElbedV~DtGhCeC~b@{RfwAyl@nL_ItMaOxk@kz@tw@awAju@}yAhXwa@f^ut@pkAonBj_@av@|GkVnDiFrRuIrO{KbZki@r_@s^~JaGnQkFho@cOrl@{[|iAou@~vBmkCzl@im@l_A_|@`nA}jAr_A_iA|f@y_@zUaEtYgH~NyLpu@efAbOuWdWweArKq[`~@i{@hy@gh@hUqMfXeFj_A}MtVoHna@{B~hBeLfc@gUhe@wRnm@oc@vg@u[~YmT`HaNbAyKyAuOkFaKcW{UuFiSxGcgApGonA~Lum@lu@oiD~Owa@nf@aj@lMcJ`u@}ZjjAyaAhrEkrCtc@kXhOoF|K]hK~Ajt@|[`L~BbUsAdL}FzHsIvq@afA|y@cqAv]si@f\\{^po@os@~Vm\\hjCykDt{AipBpQcOngA{u@dnB}iAjc@_HjNqEto@sa@bb@_l@j[yY|fA_l@xPqG~kBeb@jM{Fnk@gn@bl@{fAjImJ`Z{RfOqHx\\{EboAZ~RcFrWkL~TqN~PoYxh@qsApTcu@jGsKtOeL`GsH`D}JVeW{Ai]bS{lBpG_h@rEsLbRmUnOiQdMyJjVoD|eAdJtLDhJiBln@_[reAal@zNkJlI}Jfi@m_A`e@_^~[aVvH_N|a@y}@vR{\\hSkSjMkKxVcPlJsB`SJl}@vHtd@aBbL\\xQhE`LdBfNk@nQwBvPuGzq@sUhXwHpPCdc@nGhZtDv^VjqAf@x`AmB~Uq@|QrAvl@hIbQmG`HaLvFaRpEiGv^yQt_@sPbTm@v[fKtL~A~[m@`c@wA`JpA|NxHj[nRnZ`Fha@rAtb@jO~Wd@~E\\vCX`BXv@xAIlF^bExC`K|X|gApJn[fQxVls@bgBbn@~hAhLrQnS~MnKbL`Tlb@jJlTpAnJuBro@r@`UtOxu@bD``@jC|J~QhYpS~T`I~LbCvTaBr\\pGzg@b@nZ}Ap_@aAnj@lP~v@X~PwB|d@~BtShIfSzB`MSxO{D|YbBjW_@rU}DjMsGvP_B|LaBrP{EhMcWzj@wDb[uQfz@uB`XlCv]jAxOeBtM{KhW{A`Mk@zT_EbPkCfPcCx^`G`t@zIpQvKhJlGpJhCtL|Cxh@pD|`@fMr\\t@xTkGhhAnB|r@}Btf@tMtg@f@n[gAva@nCzP|p@jjA`IfOjEfI_D`D}F~FeLbL_WdPmJvHwYl`@aJzR_QjWav@v}@}CrNInJrDxg@cAnPuEhLgO~KkVfMuEhCmDqCcJlOmCn@eC\\g@gB?SVe@NeAMyAvAoHS{Ay@`D",
+        "hard_accels": 0,
+        "hard_brakes": 0,
+        "duration_over_80_s": 0,
+        "duration_over_75_s": 0,
+        "duration_over_70_s": 0
+    },
+    {
+        "uri": "https://api.automatic.com/v1/trips/534f5dfde4b0907cb8ba5faf",
+        "id": "534f5dfde4b0907cb8ba5faf",
+        "user": {
+            "id": "e1028edc1f8bd41386c7"
+        },
+        "vehicle": {
+            "uri": "https://api.automatic.com/v1/vehicles/519965e4e4b0c01e0964fde5",
+            "id": "519965e4e4b0c01e0964fde5",
+            "year": 2006,
+            "make": "Scion",
+            "model": "xA",
+            "display_name": "Scion",
+            "color": "#404347"
+        },
+        "start_time": 1397707088622,
+        "start_time_zone": "America/Los_Angeles",
+        "end_time": 1397710313112,
+        "end_time_zone": "America/Los_Angeles",
+        "distance_m": 70260.02777777775,
+        "fuel_cost_usd": 4.302685162880545,
+        "fuel_volume_gal": 1.0548382355676746,
+        "average_mpg": 41.3879168907933,
+        "start_location": {
+            "name": "6380 East Grant Road, Tucson, AZ 85715, USA",
+            "display_name": "E Grant Rd, Tucson, AZ",
+            "lat": 37.0240423,
+            "lon": -121.5639593,
+            "accuracy_m": 10
+        },
+        "end_location": {
+            "name": "6380 East Grant Road, Tucson, AZ 85715, USA",
+            "display_name": "E Grant Rd, Tucson, AZ",
+            "lat": 36.5137853,
+            "lon": -121.4364777,
+            "accuracy_m": 96
+        },
+        "path": "ag~`Fh~}dVvAq@fCrIfC|JvIiFnM}HBCHYrDaBlj@oVnFaChOyGhIoDrEuAzFgAjGk@pDK|FHlE\\l|@|J~N`BtBJdD?~BMhC]`Dw@``@wNxNgExJuBfw@qOdFaAhBSxDItEV`R`Brc@xDzJr@dGHxq@s@bMO`EQ~Ce@|Cy@bC_AbDkBfDgCvMeKpBoAnD{A|Bm@bFo@bDElIRzUh@lFL~Ed@bDr@zD~A`CtAxEvDjElFzJlP~CpD~BpBzEnCnF`BdBXpFX~u@q@nY[zCBxDh@rC|@tExBnK`Fxf@zUvEzCtAnAlC|CjBrC~BtElEhJtC|E~BnCfC|BjBpAbDbBlCbA`G|AhGdBpEtBf^nU`BtAnB~BlBpDr@lB|@rDh@bEb@vSRvEn@tFvGbg@pAjKT~DFtFO~EqChl@}@tPYnBo@tByCzF{AzCu@pBiDzJo@lDQbBMhDBlCT~CVjBp@pCp@nBtAjCvGfIfElFbBfDp@nB~FzThDhJhCbFjAlBxDbFnDnDhCvBnGzDhDpAvCn@xCXzC@tD_@xEuAdJgDz[uL~VeJnBq@|Ba@hFQhKKtDQlDu@xLyFfDw@tCOvAB|BXfBf@|BbAbJpEfEtAhBZzBb@~Bl@fClB|A~BxM~[pFtMlBlDrApBlCrDrD~DlSvQzH`JpKvMrDlGzCtGfBjFzBxIjHdb@zAhF`BrDlD~EdC~B|ExCzDvA~FzAxGbAvg@nGfb@jF`Gn@rEX`LJx\\_AdL[pJc@lEi@fNoCbaAuSrImBlFyAjK}CjZkHrWoKbTyHpIyBfBUzGQpG@hFZtYjFvg@|Iv^nG`OrCxWjJbYdK~D~@nBTdCJfDExAM~Cg@lA_@hb@kOrC}AnB}AfBgBvBmCt[}e@vCaGtWkn@fEkJdCgDrCmCfDqBfDoApF{@xVaClHcAfEyA`EqCrCeDdB}C|@_Cr@kC|I{d@fBmHvBoFnBqD|D}ElDwC`CsApNaHt|@wb@`JwE|AgAhEcE`H_KzhBcpCpkAqgBnuAkuBrDoFvGmInZw[noAerAzs@uu@nJkMrBgCrg@ei@jCcCdF}DtEsD|LcMnQeRlQmRzIgK~}@}jAx`AqnAbPuSx]wd@hBeDlBuEzAsFx@aF^}D`BcYpE_x@j@wE|@qEfByFb@cAvFsLpC_GjCkEdCwChEoDlBiAlA[bCs@~GuAkAqB}BqD",
+        "hard_accels": 0,
+        "hard_brakes": 1,
+        "duration_over_80_s": 0,
+        "duration_over_75_s": 0,
+        "duration_over_70_s": 0
+    },
+    {
+        "uri": "https://api.automatic.com/v1/trips/534f4a87e4b079619ea43148",
+        "id": "534f4a87e4b079619ea43148",
+        "user": {
+            "id": "e1028edc1f8bd41386c7"
+        },
+        "vehicle": {
+            "uri": "https://api.automatic.com/v1/vehicles/519965e4e4b0c01e0964fde5",
+            "id": "519965e4e4b0c01e0964fde5",
+            "year": 2006,
+            "make": "Scion",
+            "model": "xA",
+            "display_name": "Scion",
+            "color": "#404347"
+        },
+        "start_time": 1397699713783,
+        "start_time_zone": "America/Los_Angeles",
+        "end_time": 1397705333986,
+        "end_time_zone": "America/Los_Angeles",
+        "distance_m": 133214.1944444444,
+        "fuel_cost_usd": 7.75211225145474,
+        "fuel_volume_gal": 1.900493319797681,
+        "average_mpg": 43.554724430019256,
+        "start_location": {
+            "name": "1440-1452 Sutter Street, San Francisco, CA 94109, USA",
+            "display_name": "Sutter St, SF, CA",
+            "lat": 37.7872755,
+            "lon": -122.4242309,
+            "accuracy_m": 16.871000289916992
+        },
+        "end_location": {
+            "name": "641 Leavesley Road, Gilroy, CA 95020, USA",
+            "display_name": "Leavesley Rd, Gilroy, CA",
+            "lat": 37.0240423,
+            "lon": -121.5639593,
+            "accuracy_m": 10
+        },
+        "path": "kiseFl~ejVTfDvIeApKmAfV{ChVuCrJiAh@fHrDOhC]lAc@bEgCbBiC|@gDb@yLdAiMf@ca@|@oKj@}CRuDdAcFhCgDnFw@xMq@tGbAlFpC|Bn@nCD`Do@fCeB`EyFzDqD`Bk@~Hi@lK]xHn@vHdBhFjAtT|EhErBtIxGnEnBdEx@hFRlFYnFkAjBu@bEmBjRqJvOkGxHaChNiE`\\iJz[wGpDiBvKeIpF_CfI{Afp@wIb~AoTnWqDz[eE~FHjEj@fHtBvMnG~NtKn[rZvG`JbGnKtKjQnD`DdDpBlMnF~FbBtGj@hkAmE`Hy@|MaE~KsE~IuBnOiAtQgAfLsBdw@wQ~GmBnDaBbH{EdEcEbLsQ~KaStc@sw@f[oj@ru@mrA~BmFjDiMrBuQpBs{BfAiKvBuGvAeC|KmMjj@gn@no@ms@de@oh@tRkSjx@ct@jq@wm@v_Ayz@~HcIve@ak@~x@s`AbsA}}A~OuSvDyItCkL`Kgi@hEmRbGeR~Nic@hGoXfCiRjGa`AlFaz@|C_XdFqV`CaIbd@w`AbzA_zC`{@ieBvJeOfL{Lzu@ux@huAmyAxOwSjNcT|a@go@lIaObJcXfRan@~ByJzJmt@bFa^lE}V\\{Bne@ynDpL_}@tHkh@|XcxAlp@ylDjJqf@fIwg@zMskAxO}jArDyYxA{QtAyOhI{`@~CeInPkUhHkLjB{FpByJjDay@pFkeAzBqPrBiJdEoMpGmMlLaPzTiWjOiOzLgKpNoMfy@cw@jXmXfaAg~@pzAkwA~k@wj@xIcI~GwDhImBvTw@tf@iAjH{@xG{BfP_J`KuFjHiCvn@mN~ZcHfLyD`JmF`JmIpHwKb[aq@|o@gxAtNeZpWcj@xp@ewA~LsVlRmXxi@ku@x[q[|UyV|JcQxXil@dQw^|LiUp[yg@~c@ws@rI_MjL_LlLuJdL}JxJiKr[w`@fPqRpJwI`Z{UtG{GzF}HxQqWvWcWlwA}tAhQoPzJ_Hxd@sUpoAwn@bOkJvHqHhNaRd[_c@nYg`@pEqEpIoG~s@y\\tqAol@~R_JxYgL|oAcb@bfB_l@bcDuwAp[mN|JsEtBe@rBo@rC{@vCDtFvBzALEmAuAgGe@sEL_An@g@r@Hf@v@CjAk@l@cD|@{G|BexAdo@sz@j_@o}@x`@}`@jNgdAr\\wN|C_DUgGwDu@?YLp@nC~@zClC|KlAlEb@c@pCkMpAwAdBw@~qAuc@nNwErVwJ~bAec@jSoGfEmAmBkHo@mC[iA[R_D`Bu@_Ce@uA|@a@\\Q",
+        "hard_accels": 1,
+        "hard_brakes": 0,
+        "duration_over_80_s": 0,
+        "duration_over_75_s": 0,
+        "duration_over_70_s": 5
+    },
+    {
+        "uri": "https://api.automatic.com/v1/trips/534f30f9e4b08477c6f0dd94",
+        "id": "534f30f9e4b08477c6f0dd94",
+        "user": {
+            "id": "e1028edc1f8bd41386c7"
+        },
+        "vehicle": {
+            "uri": "https://api.automatic.com/v1/vehicles/519965e4e4b0c01e0964fde5",
+            "id": "519965e4e4b0c01e0964fde5",
+            "year": 2006,
+            "make": "Scion",
+            "model": "xA",
+            "display_name": "Scion",
+            "color": "#404347"
+        },
+        "start_time": 1397697136159,
+        "start_time_zone": "America/Los_Angeles",
+        "end_time": 1397698748664,
+        "end_time_zone": "America/Los_Angeles",
+        "distance_m": 4689.861111111102,
+        "fuel_cost_usd": 0.6742009193113138,
+        "fuel_volume_gal": 0.1652858345945854,
+        "average_mpg": 17.630939742576572,
+        "start_location": {
+            "name": "49-99 Folsom Street, San Francisco, CA 94105, USA",
+            "display_name": "Folsom St, SF, CA",
+            "lat": 37.7901394,
+            "lon": -122.3909038,
+            "accuracy_m": 5
+        },
+        "end_location": {
+            "name": "1440-1452 Sutter Street, San Francisco, CA 94109, USA",
+            "display_name": "Sutter St, SF, CA",
+            "lat": 37.7872338,
+            "lon": -122.4242446,
+            "accuracy_m": 16.871000289916992
+        },
+        "path": "m{seFfn_jVoBkCIKnCyDvAmBd@e@TMr@WrA[p@KbAObAGlA@d@BC~@D`@LZbAtA`AvAN^iA~AKNkBhCwBrCmD~EgCuDiNhRfAzAxJ~M~HrK`FbHjB~BFVdF`HzBzCLDvC`EbBzBb@l@v@dAm@x@cAtAOPcCdDeAnAIDaEd@T|CbApO\\pF\\tE{BRgEb@mFn@}Df@j@hIrArSd@tH`AzN",
+        "hard_accels": 0,
+        "hard_brakes": 0,
+        "duration_over_80_s": 0,
+        "duration_over_75_s": 0,
+        "duration_over_70_s": 0
+    },
+    {
+        "uri": "https://api.automatic.com/v1/trips/534ea30de4b0083d79ce7782",
+        "id": "534ea30de4b0083d79ce7782",
+        "user": {
+            "id": "e1028edc1f8bd41386c7"
+        },
+        "vehicle": {
+            "uri": "https://api.automatic.com/v1/vehicles/519965e4e4b0c01e0964fde5",
+            "id": "519965e4e4b0c01e0964fde5",
+            "year": 2006,
+            "make": "Scion",
+            "model": "xA",
+            "display_name": "Scion",
+            "color": "#404347"
+        },
+        "start_time": 1397660981480,
+        "start_time_zone": "America/Los_Angeles",
+        "end_time": 1397662420090,
+        "end_time_zone": "America/Los_Angeles",
+        "distance_m": 6159.1111111111,
+        "fuel_cost_usd": 0.6007530874136477,
+        "fuel_volume_gal": 0.14727950169493695,
+        "average_mpg": 25.98524689579989,
+        "start_location": {
+            "name": "1200-1214 Polk Street, San Francisco, CA 94109, USA",
+            "display_name": "Polk St, SF, CA",
+            "lat": 37.7879663,
+            "lon": -122.4201569,
+            "accuracy_m": 21.21299934387207
+        },
+        "end_location": {
+            "name": "49-99 Folsom Street, San Francisco, CA 94105, USA",
+            "display_name": "Folsom St, SF, CA",
+            "lat": 37.7901712,
+            "lon": -122.3908622,
+            "accuracy_m": 5
+        },
+        "path": "wmseFbeejVb@GXtEHlAZtEPtCuARaBRkLrAcCX_JhA_JbAwDh@}Db@sJfA{Dj@aHz@sALqJhA_Ef@GiASwCUqDiAgQkAkPk@eJmDkj@cA_Pg@cHIe@bAcCv@gBj@}@bDcF~CsEj@s@tBmBtD}C~H}GpD_D`CoBbDsCtGkFrAmArCqBtAw@l@WZSj@g@f@m@Va@\\w@h@gAn@eAz@}@bC_DbAiAZSf@W|Bo@h@Sf@WhAiAf@m@z@fA|@nA",
+        "hard_accels": 0,
+        "hard_brakes": 0,
+        "duration_over_80_s": 0,
+        "duration_over_75_s": 0,
+        "duration_over_70_s": 0
+    },
+    {
+        "uri": "https://api.automatic.com/v1/trips/534de0f9e4b0d7cef94a57e4",
+        "id": "534de0f9e4b0d7cef94a57e4",
+        "user": {
+            "id": "e1028edc1f8bd41386c7"
+        },
+        "vehicle": {
+            "uri": "https://api.automatic.com/v1/vehicles/519965e4e4b0c01e0964fde5",
+            "id": "519965e4e4b0c01e0964fde5",
+            "year": 2006,
+            "make": "Scion",
+            "model": "xA",
+            "display_name": "Scion",
+            "color": "#404347"
+        },
+        "start_time": 1397612649774,
+        "start_time_zone": "America/Los_Angeles",
+        "end_time": 1397612753980,
+        "end_time_zone": "America/Los_Angeles",
+        "distance_m": 371.9166666666665,
+        "fuel_cost_usd": 0.048951352959950345,
+        "fuel_volume_gal": 0.012000822005381306,
+        "average_mpg": 19.256872777212642,
+        "start_location": {
+            "name": "1330-1338 Polk Street, San Francisco, CA 94109, USA",
+            "display_name": "Polk St, SF, CA",
+            "lat": 37.7892364,
+            "lon": -122.4204093,
+            "accuracy_m": 10
+        },
+        "end_location": {
+            "name": "1200-1214 Polk Street, San Francisco, CA 94109, USA",
+            "display_name": "Polk St, SF, CA",
+            "lat": 37.7879249,
+            "lon": -122.4201782,
+            "accuracy_m": 21.21299934387207
+        },
+        "path": "uuseFtfejV|Fq@",
+        "hard_accels": 0,
+        "hard_brakes": 0,
+        "duration_over_80_s": 0,
+        "duration_over_75_s": 0,
+        "duration_over_70_s": 0
+    },
+    {
+        "uri": "https://api.automatic.com/v1/trips/534dde60e4b0d7cef94a4ca9",
+        "id": "534dde60e4b0d7cef94a4ca9",
+        "user": {
+            "id": "e1028edc1f8bd41386c7"
+        },
+        "vehicle": {
+            "uri": "https://api.automatic.com/v1/vehicles/519965e4e4b0c01e0964fde5",
+            "id": "519965e4e4b0c01e0964fde5",
+            "year": 2006,
+            "make": "Scion",
+            "model": "xA",
+            "display_name": "Scion",
+            "color": "#404347"
+        },
+        "start_time": 1397610885050,
+        "start_time_zone": "America/Los_Angeles",
+        "end_time": 1397612116921,
+        "end_time_zone": "America/Los_Angeles",
+        "distance_m": 4396.666666666672,
+        "fuel_cost_usd": 0.560340449940607,
+        "fuel_volume_gal": 0.13737201518524322,
+        "average_mpg": 19.88732570351263,
+        "start_location": {
+            "name": "120 San Francisco Bicycle Route 30, San Francisco, CA 94105, USA",
+            "display_name": "San Francisco Bicycle Route 30, SF, CA",
+            "lat": 37.7910939,
+            "lon": -122.3930046,
+            "accuracy_m": 21.21299934387207
+        },
+        "end_location": {
+            "name": "1330-1338 Polk Street, San Francisco, CA 94109, USA",
+            "display_name": "Polk St, SF, CA",
+            "lat": 37.7892935,
+            "lon": -122.4204286,
+            "accuracy_m": 10
+        },
+        "path": "_ateFpz_jVu@eAxB}CxBwCiA}A{@gAMOKOIMYVe@^a@VkC`AaAl@c@ZuBlCoB|BaEpE}EjE_@^kC~BkC|BiCvB{EdESRJTJTd@fAJ`@BTvAnT|AlVhA|Q\\vEDn@Ch@?^PnAZvBZdFp@~Jd@zHf@tH~@pN@XOBsD^l@jIxCa@zAOrH}@fOeBtEo@tFq@",
+        "hard_accels": 2,
+        "hard_brakes": 1,
+        "duration_over_80_s": 0,
+        "duration_over_75_s": 0,
+        "duration_over_70_s": 0
+    },
+    {
+        "uri": "https://api.automatic.com/v1/trips/534dde60e4b0d7cef94a4ca4",
+        "id": "534dde60e4b0d7cef94a4ca4",
+        "user": {
+            "id": "e1028edc1f8bd41386c7"
+        },
+        "vehicle": {
+            "uri": "https://api.automatic.com/v1/vehicles/519965e4e4b0c01e0964fde5",
+            "id": "519965e4e4b0c01e0964fde5",
+            "year": 2006,
+            "make": "Scion",
+            "model": "xA",
+            "display_name": "Scion",
+            "color": "#404347"
+        },
+        "start_time": 1397601987700,
+        "start_time_zone": "America/Los_Angeles",
+        "end_time": 1397602029900,
+        "end_time_zone": "America/Los_Angeles",
+        "distance_m": 46.83333333333335,
+        "fuel_cost_usd": 0.020876752231676118,
+        "fuel_volume_gal": 0.00511810547479189,
+        "average_mpg": 5.685870350486495,
+        "start_location": {
+            "name": "Unknown",
+            "display_name": "Unknown",
+            "lat": 37.7903793,
+            "lon": -122.3905905,
+            "accuracy_m": 16.738000869750977
+        },
+        "end_location": {
+            "name": "Unknown",
+            "display_name": "San Francisco Bicycle Route 30, SF, CA",
+            "lat": 37.7909672,
+            "lon": -122.3929414,
+            "accuracy_m": 21.21299934387207
+        },
+        "path": "}|seFhl_jVmBgCmA`Ae@T}Aj@m@Vc@Xa@XX`@vG|I",
+        "hard_accels": 0,
+        "hard_brakes": 0,
+        "duration_over_80_s": 0,
+        "duration_over_75_s": 0,
+        "duration_over_70_s": 0
+    },
+    {
+        "uri": "https://api.automatic.com/v1/trips/534d7818e4b0828ab17d0ff8",
+        "id": "534d7818e4b0828ab17d0ff8",
+        "user": {
+            "id": "e1028edc1f8bd41386c7"
+        },
+        "vehicle": {
+            "uri": "https://api.automatic.com/v1/vehicles/519965e4e4b0c01e0964fde5",
+            "id": "519965e4e4b0c01e0964fde5",
+            "year": 2006,
+            "make": "Scion",
+            "model": "xA",
+            "display_name": "Scion",
+            "color": "#404347"
+        },
+        "start_time": 1397585084211,
+        "start_time_zone": "America/Los_Angeles",
+        "end_time": 1397585816335,
+        "end_time_zone": "America/Los_Angeles",
+        "distance_m": 3416.888888888891,
+        "fuel_cost_usd": 0.33117185825915085,
+        "fuel_volume_gal": 0.08118947248324365,
+        "average_mpg": 26.150635762162125,
+        "start_location": {
+            "name": "1801-1843 Bush Street, San Francisco, CA 94109, USA",
+            "display_name": "Bush St, SF, CA",
+            "lat": 37.7878287,
+            "lon": -122.4271385,
+            "accuracy_m": 31.91699981689453
+        },
+        "end_location": {
+            "name": "201-255 Folsom Street, San Francisco, CA 94105, USA",
+            "display_name": "Folsom St, SF, CA",
+            "lat": 37.7892697,
+            "lon": -122.3921071,
+            "accuracy_m": 21.902999877929688
+        },
+        "path": "_mseFrpfjVcC__@mBiZ{Eou@aAgOwA_Um@wIc@kHn@eALUxC}DzFaIjFcH~AuBkCmDm@}@{AoBqAqB[a@",
+        "hard_accels": 0,
+        "hard_brakes": 0,
+        "duration_over_80_s": 0,
+        "duration_over_75_s": 0,
+        "duration_over_70_s": 0
+    },
+    {
+        "uri": "https://api.automatic.com/v1/trips/534ca775e4b0c38023987e72",
+        "id": "534ca775e4b0c38023987e72",
+        "user": {
+            "id": "e1028edc1f8bd41386c7"
+        },
+        "vehicle": {
+            "uri": "https://api.automatic.com/v1/vehicles/519965e4e4b0c01e0964fde5",
+            "id": "519965e4e4b0c01e0964fde5",
+            "year": 2006,
+            "make": "Scion",
+            "model": "xA",
+            "display_name": "Scion",
+            "color": "#404347"
+        },
+        "start_time": 1397530853350,
+        "start_time_zone": "America/Los_Angeles",
+        "end_time": 1397532519940,
+        "end_time_zone": "America/Los_Angeles",
+        "distance_m": 6943.166666666649,
+        "fuel_cost_usd": 0.8027362348462207,
+        "fuel_volume_gal": 0.1967973118034373,
+        "average_mpg": 21.922472975028803,
+        "start_location": {
+            "name": "662 Davis Street, San Francisco, CA 94111, USA",
+            "display_name": "Davis St, SF, CA",
+            "lat": 37.7900932,
+            "lon": -122.4223221,
+            "accuracy_m": 22.759000778198242
+        },
+        "end_location": {
+            "name": "1801-1843 Bush Street, San Francisco, CA 94109, USA",
+            "display_name": "Bush St, SF, CA",
+            "lat": 37.7879119,
+            "lon": -122.4271988,
+            "accuracy_m": 5
+        },
+        "path": "a{seFxrejV|HeAxDc@bApOfBnW}DZc@yG",
+        "hard_accels": 1,
+        "hard_brakes": 0,
+        "duration_over_80_s": 0,
+        "duration_over_75_s": 0,
+        "duration_over_70_s": 0
+    },
+    {
+        "uri": "https://api.automatic.com/v1/trips/534c8ed9e4b08608be05dad2",
+        "id": "534c8ed9e4b08608be05dad2",
+        "user": {
+            "id": "e1028edc1f8bd41386c7"
+        },
+        "vehicle": {
+            "uri": "https://api.automatic.com/v1/vehicles/519965e4e4b0c01e0964fde5",
+            "id": "519965e4e4b0c01e0964fde5",
+            "year": 2006,
+            "make": "Scion",
+            "model": "xA",
+            "display_name": "Scion",
+            "color": "#404347"
+        },
+        "start_time": 1397525643731,
+        "start_time_zone": "America/Los_Angeles",
+        "end_time": 1397526129167,
+        "end_time_zone": "America/Los_Angeles",
+        "distance_m": 1768.0833333333317,
+        "fuel_cost_usd": 0.24600213860310408,
+        "fuel_volume_gal": 0.06030942353594118,
+        "average_mpg": 18.216656442646375,
+        "start_location": {
+            "name": "301-345 Spear Street, San Francisco, CA 94105, USA",
+            "display_name": "Spear St, SF, CA",
+            "lat": 37.789623,
+            "lon": -122.3903608,
+            "accuracy_m": 21.343000411987305
+        },
+        "end_location": {
+            "name": "662 Davis Street, San Francisco, CA 94111, USA",
+            "display_name": "Davis St, SF, CA",
+            "lat": 37.7985462,
+            "lon": -122.3985813,
+            "accuracy_m": 10
+        },
+        "path": "axseFxj_jVrC{DsC}DIMsA~AkDnEmA`Ae@T}Aj@m@Vc@Xk@b@e@f@wDvEoCxCyA~AqBfByCpCuBfBkD|CcEhDaCvBn@tAXx@BR@NBt@pAO",
+        "hard_accels": 0,
+        "hard_brakes": 0,
+        "duration_over_80_s": 0,
+        "duration_over_75_s": 0,
+        "duration_over_70_s": 0
+    },
+    {
+        "uri": "https://api.automatic.com/v1/trips/534c15f9e4b08608be03ca3e",
+        "id": "534c15f9e4b08608be03ca3e",
+        "user": {
+            "id": "e1028edc1f8bd41386c7"
+        },
+        "vehicle": {
+            "uri": "https://api.automatic.com/v1/vehicles/519965e4e4b0c01e0964fde5",
+            "id": "519965e4e4b0c01e0964fde5",
+            "year": 2006,
+            "make": "Scion",
+            "model": "xA",
+            "display_name": "Scion",
+            "color": "#404347"
+        },
+        "start_time": 1397494142477,
+        "start_time_zone": "America/Los_Angeles",
+        "end_time": 1397495164709,
+        "end_time_zone": "America/Los_Angeles",
+        "distance_m": 3433.388888888893,
+        "fuel_cost_usd": 0.430876552315927,
+        "fuel_volume_gal": 0.10563288853050429,
+        "average_mpg": 21.051116220131547,
+        "start_location": {
+            "name": "1355 Sutter Street, San Francisco, CA 94109, USA",
+            "display_name": "Sutter St, SF, CA",
+            "lat": 37.787131,
+            "lon": -122.4229043,
+            "accuracy_m": 14.621999740600586
+        },
+        "end_location": {
+            "name": "301-345 Spear Street, San Francisco, CA 94105, USA",
+            "display_name": "Spear St, SF, CA",
+            "lat": 37.7896315,
+            "lon": -122.3902895,
+            "accuracy_m": 21.343000411987305
+        },
+        "path": "qgseF|uejVJzA{APkC^k@Fi@_Ik@sIaBaWmBiZyBw]o@oK]}Eq@eK[mEUgEMiB|@uAbQuU|CcEyDkF{AoBqAqBqBqCmAaB~A{B",
+        "hard_accels": 0,
+        "hard_brakes": 0,
+        "duration_over_80_s": 0,
+        "duration_over_75_s": 0,
+        "duration_over_70_s": 0
+    },
+    {
+        "uri": "https://api.automatic.com/v1/trips/5349fb9ce4b0c6986ccc3159",
+        "id": "5349fb9ce4b0c6986ccc3159",
+        "user": {
+            "id": "e1028edc1f8bd41386c7"
+        },
+        "vehicle": {
+            "uri": "https://api.automatic.com/v1/vehicles/519965e4e4b0c01e0964fde5",
+            "id": "519965e4e4b0c01e0964fde5",
+            "year": 2006,
+            "make": "Scion",
+            "model": "xA",
+            "display_name": "Scion",
+            "color": "#404347"
+        },
+        "start_time": 1397356894065,
+        "start_time_zone": "America/Los_Angeles",
+        "end_time": 1397357401170,
+        "end_time_zone": "America/Los_Angeles",
+        "distance_m": 1488.0277777777765,
+        "fuel_cost_usd": 0.2354304286390874,
+        "fuel_volume_gal": 0.05771768292206114,
+        "average_mpg": 16.01965892512701,
+        "start_location": {
+            "name": "2632-2650 Franklin Street, San Francisco, CA 94123, USA",
+            "display_name": "Franklin St, SF, CA",
+            "lat": 37.7989555,
+            "lon": -122.4257528,
+            "accuracy_m": 5
+        },
+        "end_location": {
+            "name": "1311 Sutter Street, San Francisco, CA 94109, USA",
+            "display_name": "Sutter St, SF, CA",
+            "lat": 37.7874443,
+            "lon": -122.4221536,
+            "accuracy_m": 33.737998962402344
+        },
+        "path": "mrueF`hfjVaANg@{HrJkA`N_BnLwAnDg@|Fq@hBOzDk@nBWdDa@|AQHrA",
+        "hard_accels": 0,
+        "hard_brakes": 0,
+        "duration_over_80_s": 0,
+        "duration_over_75_s": 0,
+        "duration_over_70_s": 0
+    },
+    {
+        "uri": "https://api.automatic.com/v1/trips/5349e5eee4b06a399d1a07c1",
+        "id": "5349e5eee4b06a399d1a07c1",
+        "user": {
+            "id": "e1028edc1f8bd41386c7"
+        },
+        "vehicle": {
+            "uri": "https://api.automatic.com/v1/vehicles/519965e4e4b0c01e0964fde5",
+            "id": "519965e4e4b0c01e0964fde5",
+            "year": 2006,
+            "make": "Scion",
+            "model": "xA",
+            "display_name": "Scion",
+            "color": "#404347"
+        },
+        "start_time": 1397351351500,
+        "start_time_zone": "America/Los_Angeles",
+        "end_time": 1397351903781,
+        "end_time_zone": "America/Los_Angeles",
+        "distance_m": 1761.8888888888875,
+        "fuel_cost_usd": 0.23694752216425075,
+        "fuel_volume_gal": 0.058089610729161745,
+        "average_mpg": 20.248372916730034,
+        "start_location": {
+            "name": "48 Franklin West Street, Golden Gate National Recreation Area, San Francisco, CA 94109, USA",
+            "display_name": "Franklin W St, SF, CA",
+            "lat": 37.8051461,
+            "lon": -122.427662,
+            "accuracy_m": 10
+        },
+        "end_location": {
+            "name": "2632-2650 Franklin Street, San Francisco, CA 94123, USA",
+            "display_name": "Franklin St, SF, CA",
+            "lat": 37.7989614,
+            "lon": -122.4257119,
+            "accuracy_m": 5
+        },
+        "path": "gyveFzsfjVGuAAYfDc@^OLCb@E_@kGEq@zDc@hH}@zAU~Fm@|Gy@h@tHyBZ",
+        "hard_accels": 0,
+        "hard_brakes": 0,
+        "duration_over_80_s": 0,
+        "duration_over_75_s": 0,
+        "duration_over_70_s": 0
+    },
+    {
+        "uri": "https://api.automatic.com/v1/trips/5349db5de4b0c6986ccbc0d7",
+        "id": "5349db5de4b0c6986ccbc0d7",
+        "user": {
+            "id": "e1028edc1f8bd41386c7"
+        },
+        "vehicle": {
+            "uri": "https://api.automatic.com/v1/vehicles/519965e4e4b0c01e0964fde5",
+            "id": "519965e4e4b0c01e0964fde5",
+            "year": 2006,
+            "make": "Scion",
+            "model": "xA",
+            "display_name": "Scion",
+            "color": "#404347"
+        },
+        "start_time": 1397343574028,
+        "start_time_zone": "America/Los_Angeles",
+        "end_time": 1397349101907,
+        "end_time_zone": "America/Los_Angeles",
+        "distance_m": 76214.19444444409,
+        "fuel_cost_usd": 5.064223417944325,
+        "fuel_volume_gal": 1.2415355278117983,
+        "average_mpg": 38.144139902962976,
+        "start_location": {
+            "name": "Cabrillo Highway, Pescadero, CA 94060, USA",
+            "display_name": "CA-1, Pescadero, CA",
+            "lat": 37.2642306,
+            "lon": -122.4125224,
+            "accuracy_m": 5
+        },
+        "end_location": {
+            "name": "48 Franklin West Street, Golden Gate National Recreation Area, San Francisco, CA 94109, USA",
+            "display_name": "Franklin W St, SF, CA",
+            "lat": 37.8052293,
+            "lon": -122.4276749,
+            "accuracy_m": 10
+        },
+        "path": "mdmbFjucjVV[Em@uDc@wGsBcLyF}HkBcd@aHwSJgKeAgJuDaOaJ{F}AiGO_G|@oT~F{HR}Ce@cE}AiJqD_F[kj@Gas@sEeVcCoQ{EwQ{I}TgNsCiCmA}Cc@kEf@uIMgC{A{DyB}AuCUiDtAgG|Ean@tLcKaAgFH_F~BuJbHiKpBcGzBeFzB}MRmCq@}GaE{FaBaFZsDbBsHdKqL~LuIxIkEtCoG~AqV\\aFg@wJ_DwC[wMf@gc@zAmPtBcLbCcIrEwx@p_AgJbH_GxBcVbFmcBx_@yQ|Cc\\r@wUXkTjAeaAfHsLz@mKdDsh@jVkJvDsEf@iJYcYkCoIeAg@a@QeBZaLeEyTsCcPcCoHmA_BwCkBuI{I}EoCeCu@sCoBqJ}PuCiEsAwQqHaYa@oGuCmJyDsG}@uBeBoDgEaEgPkRsAkFkBiCqEgKuL}YiJgXcAoMyAyRXuEfC{EfK{MvFwFpBiAhHqC|D}@dAaAl@wBKgCi@qAcBkAcB@_I`DuB@{Bs@wFcDkCg@mEv@_FrAqDgA}@eAaD}FoAsC@eDrBmF@wC_@mGe@i@aDq@U}@LwB]uCoCqGwAu@_COkCbAgACa@_BQ{HXqC_@eA}@SyD`CwJbDcFTyIu@yCeAaBsB}AuGJaGAsCe@oAiIiJuEuCoDkCkAmDYsCRkEdIgN`CsAzEcAjEuDlBqEd@gEIyNs@_Lb@uAdAGn@r@NzAuBfGgTn`@_m@ht@{NdLwTnKaPxMyI~Dwk@jRah@zWiFbEuYjZeXvXoLbJuUbNsH~E}PvPoPnPkE|FgCvGgCrKsBvF_DpF_d@hb@wRjHmLnEqH`FaL`I{IlIsJzNsF|HeHdH}h@jh@y_@lf@}IxHyEtBgHrA_LOqOyDuLwGgEmC{EcByDm@aFCcKpBgh@jYyKpJmBbCyE|GsU|ZqDjC}FpCcRtHoDjC}GlFiN`NuLzVmF~FkItEqUvLyCdCcRxVmb@|j@gIpD_Jd@_\\\\}IbByLnFmPdMqJxGoC`A{Gr@oc@_A_Ic@qEcAqFkAmIY}VHiMfCcDn@oGLiO\\iSCgG]sPs@sEFuLJoEb@wPxDcFrA}M`MsAh@yD?qo@yAgiDpJcz@xC}CRsAj@qErBuGf@_HtCkBt@cCYeAkBW_Jc@gKf@wNs@{BqB]iVr@AyAuJZDvBFxDGyDA[uJXA}AGgCMeHWwPo@g`@{@ed@mBqZ_BoYiDmm@_AwFoAwQcGw~@DuBt@mB`AuAPuByr@rImdA`MuA@kFnAWv@[`@TlBVlAj@IZy@NuB",
+        "hard_accels": 0,
+        "hard_brakes": 0,
+        "duration_over_80_s": 0,
+        "duration_over_75_s": 0,
+        "duration_over_70_s": 0
+    },
+    {
+        "uri": "https://api.automatic.com/v1/trips/5349daf5e4b06a399d19e018",
+        "id": "5349daf5e4b06a399d19e018",
+        "user": {
+            "id": "e1028edc1f8bd41386c7"
+        },
+        "vehicle": {
+            "uri": "https://api.automatic.com/v1/vehicles/519965e4e4b0c01e0964fde5",
+            "id": "519965e4e4b0c01e0964fde5",
+            "year": 2006,
+            "make": "Scion",
+            "model": "xA",
+            "display_name": "Scion",
+            "color": "#404347"
+        },
+        "start_time": 1397342028336,
+        "start_time_zone": "America/Los_Angeles",
+        "end_time": 1397342346436,
+        "end_time_zone": "America/Los_Angeles",
+        "distance_m": 3752.7222222222226,
+        "fuel_cost_usd": 0.2875790202943144,
+        "fuel_volume_gal": 0.07050233397752254,
+        "average_mpg": 33.074557249426555,
+        "start_location": {
+            "name": "290-350 Stage Road, Pescadero, CA 94060, USA",
+            "display_name": "Stage Rd, Pescadero, CA",
+            "lat": 37.2535247,
+            "lon": -122.3831234,
+            "accuracy_m": 5
+        },
+        "end_location": {
+            "name": "Cabrillo Highway, Pescadero, CA 94060, USA",
+            "display_name": "CA-1, Pescadero, CA",
+            "lat": 37.2642306,
+            "lon": -122.4125224,
+            "accuracy_m": 5
+        },
+        "path": "oakbFr}}iV|BE|Fg@FbAVdE\\nFt@hL~@xNjBvZtAxUJjB?vAGtAK|@S|@]lAYr@Wb@m@v@a@`@oEtDm@j@[`@c@v@_@x@cCtK[tAc@jAc@x@a@h@w@x@s@d@wD`BuLbF{B~@w@f@eAbA[`@y@tAYr@a@xAKh@Q`BOjEIvAiBU{De@_BUgDo@aFo@{AQCRId@MLE@",
+        "hard_accels": 0,
+        "hard_brakes": 1,
+        "duration_over_80_s": 0,
+        "duration_over_75_s": 0,
+        "duration_over_70_s": 0
+    },
+    {
+        "uri": "https://api.automatic.com/v1/trips/5349bcc1e4b06a399d196024",
+        "id": "5349bcc1e4b06a399d196024",
+        "user": {
+            "id": "e1028edc1f8bd41386c7"
+        },
+        "vehicle": {
+            "uri": "https://api.automatic.com/v1/vehicles/519965e4e4b0c01e0964fde5",
+            "id": "519965e4e4b0c01e0964fde5",
+            "year": 2006,
+            "make": "Scion",
+            "model": "xA",
+            "display_name": "Scion",
+            "color": "#404347"
+        },
+        "start_time": 1397341132685,
+        "start_time_zone": "America/Los_Angeles",
+        "end_time": 1397341359626,
+        "end_time_zone": "America/Los_Angeles",
+        "distance_m": 1353.5555555555543,
+        "fuel_cost_usd": 0.11594447939893933,
+        "fuel_volume_gal": 0.02842473140449604,
+        "average_mpg": 29.58903700254449,
+        "start_location": {
+            "name": "205 North Street, Pescadero, CA 94060, USA",
+            "display_name": "North St, Pescadero, CA",
+            "lat": 37.255754,
+            "lon": -122.371086,
+            "accuracy_m": 26.857999801635742
+        },
+        "end_location": {
+            "name": "290-350 Stage Road, Pescadero, CA 94060, USA",
+            "display_name": "Stage Rd, Pescadero, CA",
+            "lat": 37.2534674,
+            "lon": -122.3831327,
+            "accuracy_m": 5
+        },
+        "path": "utkbFvo{iVqCpMIbAPnAlCrMlDlS`CbMAz@EhAK|AKvAlACbGG",
+        "hard_accels": 0,
+        "hard_brakes": 0,
+        "duration_over_80_s": 0,
+        "duration_over_75_s": 0,
+        "duration_over_70_s": 0
+    },
+    {
+        "uri": "https://api.automatic.com/v1/trips/53499ab2e4b06a399d18b64e",
+        "id": "53499ab2e4b06a399d18b64e",
+        "user": {
+            "id": "e1028edc1f8bd41386c7"
+        },
+        "vehicle": {
+            "uri": "https://api.automatic.com/v1/vehicles/519965e4e4b0c01e0964fde5",
+            "id": "519965e4e4b0c01e0964fde5",
+            "year": 2006,
+            "make": "Scion",
+            "model": "xA",
+            "display_name": "Scion",
+            "color": "#404347"
+        },
+        "start_time": 1397328029274,
+        "start_time_zone": "America/Los_Angeles",
+        "end_time": 1397332607678,
+        "end_time_zone": "America/Los_Angeles",
+        "distance_m": 81613.86111111108,
+        "fuel_cost_usd": 5.487172351734289,
+        "fuel_volume_gal": 1.3452248962329711,
+        "average_mpg": 37.698159113552926,
+        "start_location": {
+            "name": "1409 Sutter Street, San Francisco, CA 94109, USA",
+            "display_name": "Sutter St, SF, CA",
+            "lat": 37.7872156,
+            "lon": -122.4238542,
+            "accuracy_m": 14.317000389099121
+        },
+        "end_location": {
+            "name": "205 North Street, Pescadero, CA 94060, USA",
+            "display_name": "North St, Pescadero, CA",
+            "lat": 37.2558634,
+            "lon": -122.3712238,
+            "accuracy_m": 26.857999801635742
+        },
+        "path": "uiseFd|ejV^nFvIeApKmAfV{ChVuCrJiAh@fHrDOhC]lAc@bEgC`DqHb@yLdAiMf@ca@|BcVdAcFhCgDnFw@xMq@tGbAlFpClGt@hHuC|JkL`LuAlK]xHn@vHdBhFjAtT|E~OlKtKhDvMEzIaCnX_Nzh@wQ`\\iJz[wGpDiBhSeMfI{Afp@wInsCg`@~FHrN`DvMnG~NtKn[rZvG`JbGnKtKjQnD`DrR`J~FbBtGj@hkAmE`Hy@|MaErKoCrS_Cnd@eEnp@sPlS}FhG}C|@iDm@{IeDcUs@eGmA{IOkCxB}Iq@mDkB_BuCeAk@N{@VkC`GF|DrCjDnDzDrAnI`Gv^OlDyBlDwIhEoZjH}ZjHcNtCkUfBwGhAwC|CuCpLb@tOEn]f@rQjEnPlKb[|FfSv@fH~@dMfCjFtBx@pDYhCcCxCuFbMiKr]sRnKaBbL`AfJvEvKjG`MvDhMt@`LaBfJ{EpV}ZzMqP|[q[xWuWbRiWvOeMf_@wQrPiInNqMlUuVlFqN~EwPpDkFpSqSrQyPx[gRdNgKfk@gh@fTeQjUgNhNiIrKiEf^sKpF_BdH{DvAgCjDmAdLoCtC\\hGeCnBoBrMkFrQgPbHwGbAUd@v@rAnAdBl@`FzDhHfITxFFlG~AxF`BhBvDdAvJn@xH_BdHwCxBiAx@\\GbFbAlK~EiApE`BpClHDdCPtCfDr@|@tIMhCqBjFJfDhCdFhDrFzDz@dH{BtEBnKnFbFg@bHeC|BrAl@zCY|B_BbB_J|ByIpF_SfW_AvFlD|b@hJfXtL|YpEfKjBhCrAjFfPjRfE`EdBnDvFhKtClJ`@nGpH`Yr@hL^lDtChEpJ|PxGdD|EnCtIzIdFjEbCnH`CjPxDtSShLOjEvBNbThBzDZtPf@bHi@td@aSh]mM|fAsHpMcAtZeAjh@kAvcBk_@vf@eLzGiD`a@uc@`\\q_@nEiDlKqD~QsClSs@|`@eBxJnBzGdBhSBnHa@zJoErOyOjNeQtCaC`EkAlGTzJpFhHnAhLu@bG}CzJsBbHcCtIaHxEmAzKdAfGWre@gJtDoApGmFbDk@jCl@|BdCx@jD]tNpCpIx_@|U|RvHxRlD`i@vDfRlAhTNn[BhGdAhKrEdHz@pOeCrMqDlGc@hFd@lHvCxOlJbKhC~PH|KTtN|BfTjDtH~BjPlHvFhAvQbClG~@RkB`@mH`CmGxCmCxXgMdCmEdCaL|A{DzHeH|B}Ef@iHqDsm@uBo\\y@mMWeEGcA}Ff@aKLmABJwAJ}ADiAmHmc@_DcPzCuO",
+        "hard_accels": 0,
+        "hard_brakes": 0,
+        "duration_over_80_s": 0,
+        "duration_over_75_s": 0,
+        "duration_over_70_s": 6
+    },
+    {
+        "uri": "https://api.automatic.com/v1/trips/53496429e4b0a4a2d6642d91",
+        "id": "53496429e4b0a4a2d6642d91",
+        "user": {
+            "id": "e1028edc1f8bd41386c7"
+        },
+        "vehicle": {
+            "uri": "https://api.automatic.com/v1/vehicles/519965e4e4b0c01e0964fde5",
+            "id": "519965e4e4b0c01e0964fde5",
+            "year": 2006,
+            "make": "Scion",
+            "model": "xA",
+            "display_name": "Scion",
+            "color": "#404347"
+        },
+        "start_time": 1397318391704,
+        "start_time_zone": "America/Los_Angeles",
+        "end_time": 1397318674625,
+        "end_time_zone": "America/Los_Angeles",
+        "distance_m": 588,
+        "fuel_cost_usd": 0.15821121021252804,
+        "fuel_volume_gal": 0.038786763964826686,
+        "average_mpg": 9.419869658806297,
+        "start_location": {
+            "name": "1337 Sutter Street, San Francisco, CA 94109, USA",
+            "display_name": "Sutter St, SF, CA",
+            "lat": 37.7873717,
+            "lon": -122.4225118,
+            "accuracy_m": 5
+        },
+        "end_location": {
+            "name": "1409 Sutter Street, San Francisco, CA 94109, USA",
+            "display_name": "Sutter St, SF, CA",
+            "lat": 37.7872633,
+            "lon": -122.4239028,
+            "accuracy_m": 14.317000389099121
+        },
+        "path": "wjseFxsejV`@jG",
+        "hard_accels": 0,
+        "hard_brakes": 1,
+        "duration_over_80_s": 0,
+        "duration_over_75_s": 0,
+        "duration_over_70_s": 0
+    },
+    {
+        "uri": "https://api.automatic.com/v1/trips/53488f04e4b094f413da6861",
+        "id": "53488f04e4b094f413da6861",
+        "user": {
+            "id": "e1028edc1f8bd41386c7"
+        },
+        "vehicle": {
+            "uri": "https://api.automatic.com/v1/vehicles/519965e4e4b0c01e0964fde5",
+            "id": "519965e4e4b0c01e0964fde5",
+            "year": 2006,
+            "make": "Scion",
+            "model": "xA",
+            "display_name": "Scion",
+            "color": "#404347"
+        },
+        "start_time": 1397263162447,
+        "start_time_zone": "America/Los_Angeles",
+        "end_time": 1397264126920,
+        "end_time_zone": "America/Los_Angeles",
+        "distance_m": 3419.0555555555584,
+        "fuel_cost_usd": 0.46672473432357764,
+        "fuel_volume_gal": 0.114421361687565,
+        "average_mpg": 18.56736011132546,
+        "start_location": {
+            "name": "900 Sansome Street, San Francisco, CA 94111, USA",
+            "display_name": "Sansome St, SF, CA",
+            "lat": 37.798787,
+            "lon": -122.402024,
+            "accuracy_m": 10
+        },
+        "end_location": {
+            "name": "1337 Sutter Street, San Francisco, CA 94109, USA",
+            "display_name": "Sutter St, SF, CA",
+            "lat": 37.7874631,
+            "lon": -122.4224158,
+            "accuracy_m": 5
+        },
+        "path": "equeFluajV_CXDn@NtBJxAHdAjDa@N?TbDb@rHbAjPXvDChAl@fEx@jMnAvRZdFv@xLH|CF|@NjBH^f@vHf@zHh@dIxDa@lDc@dIcAbKoAbCSz@MtDg@sAgSxDc@PhC",
+        "hard_accels": 0,
+        "hard_brakes": 0,
+        "duration_over_80_s": 0,
+        "duration_over_75_s": 0,
+        "duration_over_70_s": 0
+    },
+    {
+        "uri": "https://api.automatic.com/v1/trips/53488918e4b094f413da4cdb",
+        "id": "53488918e4b094f413da4cdb",
+        "user": {
+            "id": "e1028edc1f8bd41386c7"
+        },
+        "vehicle": {
+            "uri": "https://api.automatic.com/v1/vehicles/519965e4e4b0c01e0964fde5",
+            "id": "519965e4e4b0c01e0964fde5",
+            "year": 2006,
+            "make": "Scion",
+            "model": "xA",
+            "display_name": "Scion",
+            "color": "#404347"
+        },
+        "start_time": 1397261795541,
+        "start_time_zone": "America/Los_Angeles",
+        "end_time": 1397262599781,
+        "end_time_zone": "America/Los_Angeles",
+        "distance_m": 2171.611111111112,
+        "fuel_cost_usd": 0.3447054419680184,
+        "fuel_volume_gal": 0.08450734051679784,
+        "average_mpg": 15.967566568004026,
+        "start_location": {
+            "name": "120 San Francisco Bicycle Route 30, San Francisco, CA 94105, USA",
+            "display_name": "San Francisco Bicycle Route 30, SF, CA",
+            "lat": 37.7909805,
+            "lon": -122.3929212,
+            "accuracy_m": 25.636999130249023
+        },
+        "end_location": {
+            "name": "900 Sansome Street, San Francisco, CA 94111, USA",
+            "display_name": "Sansome St, SF, CA",
+            "lat": 37.7988547,
+            "lon": -122.4020757,
+            "accuracy_m": 10
+        },
+        "path": "u`teFzz_jV_AoArFuHoCoDYc@mA`Ae@T}Aj@m@Vc@Xk@b@e@f@wDvEoCxCyA~AqBfByCpCuBfBkD|CcEhDaCvBn@tAXx@BRvAvTFlA{@J",
+        "hard_accels": 1,
+        "hard_brakes": 0,
+        "duration_over_80_s": 0,
+        "duration_over_75_s": 0,
+        "duration_over_70_s": 0
+    },
+    {
+        "uri": "https://api.automatic.com/v1/trips/53488918e4b094f413da4cd6",
+        "id": "53488918e4b094f413da4cd6",
+        "user": {
+            "id": "e1028edc1f8bd41386c7"
+        },
+        "vehicle": {
+            "id": "509b4d40e4b046f7ed86769b"
+        },
+        "start_time": 1397257468544,
+        "start_time_zone": "America/Los_Angeles",
+        "end_time": 1397257506327,
+        "end_time_zone": "America/Los_Angeles",
+        "distance_m": 711.9722222222218,
+        "fuel_cost_usd": 0.225469419398715,
+        "fuel_volume_gal": 0.05527566055374235,
+        "average_mpg": 8.003505053222455,
+        "start_location": {
+            "name": "120 San Francisco Bicycle Route 30, San Francisco, CA 94105, USA",
+            "display_name": "San Francisco Bicycle Route 30, SF, CA",
+            "lat": 37.7910939,
+            "lon": -122.3930046,
+            "accuracy_m": 20
+        },
+        "end_location": {
+            "name": "120 San Francisco Bicycle Route 30, San Francisco, CA 94105, USA",
+            "display_name": "San Francisco Bicycle Route 30, SF, CA",
+            "lat": 37.7909592,
+            "lon": -122.39289,
+            "accuracy_m": 25.636999130249023
+        },
+        "path": "{`teFtz_jVDD",
+        "hard_accels": 0,
+        "hard_brakes": 0,
+        "duration_over_80_s": 0,
+        "duration_over_75_s": 0,
+        "duration_over_70_s": 0
+    },
+    {
+        "uri": "https://api.automatic.com/v1/trips/53488918e4b094f413da4cd1",
+        "id": "53488918e4b094f413da4cd1",
+        "user": {
+            "id": "e1028edc1f8bd41386c7"
+        },
+        "vehicle": {
+            "uri": "https://api.automatic.com/v1/vehicles/519965e4e4b0c01e0964fde5",
+            "id": "519965e4e4b0c01e0964fde5",
+            "year": 2006,
+            "make": "Scion",
+            "model": "xA",
+            "display_name": "Scion",
+            "color": "#404347"
+        },
+        "start_time": 1397255202500,
+        "start_time_zone": "America/Los_Angeles",
+        "end_time": 1397255283900,
+        "end_time_zone": "America/Los_Angeles",
+        "distance_m": 99.05555555555551,
+        "fuel_cost_usd": 0.03839460095364087,
+        "fuel_volume_gal": 0.00941274845639639,
+        "average_mpg": 6.539032561893312,
+        "start_location": {
+            "name": "Unknown",
+            "display_name": "Unknown",
+            "lat": 37.7892688,
+            "lon": -122.3923318,
+            "accuracy_m": 40.5
+        },
+        "end_location": {
+            "name": "Unknown",
+            "display_name": "San Francisco Bicycle Route 30, SF, CA",
+            "lat": 37.7909678,
+            "lon": -122.3929598,
+            "accuracy_m": 20
+        },
+        "path": "euseFdv_jVq@_AsFrHoAcB",
+        "hard_accels": 0,
+        "hard_brakes": 0,
+        "duration_over_80_s": 0,
+        "duration_over_75_s": 0,
+        "duration_over_70_s": 0
+    },
+    {
+        "uri": "https://api.automatic.com/v1/trips/53483444e4b065efe9baa698",
+        "id": "53483444e4b065efe9baa698",
+        "user": {
+            "id": "e1028edc1f8bd41386c7"
+        },
+        "vehicle": {
+            "uri": "https://api.automatic.com/v1/vehicles/519965e4e4b0c01e0964fde5",
+            "id": "519965e4e4b0c01e0964fde5",
+            "year": 2006,
+            "make": "Scion",
+            "model": "xA",
+            "display_name": "Scion",
+            "color": "#404347"
+        },
+        "start_time": 1397239766826,
+        "start_time_zone": "America/Los_Angeles",
+        "end_time": 1397240808928,
+        "end_time_zone": "America/Los_Angeles",
+        "distance_m": 3927.000000000003,
+        "fuel_cost_usd": 0.49829345453687146,
+        "fuel_volume_gal": 0.12216069000658776,
+        "average_mpg": 19.97471258376507,
+        "start_location": {
+            "name": "1337-1355 Sutter Street, San Francisco, CA 94109, USA",
+            "display_name": "Sutter St, SF, CA",
+            "lat": 37.7874457,
+            "lon": -122.4227011,
+            "accuracy_m": 22.52199935913086
+        },
+        "end_location": {
+            "name": "200 Folsom Street, San Francisco, CA 94105, USA",
+            "display_name": "Folsom St, SF, CA",
+            "lat": 37.7892688,
+            "lon": -122.3923318,
+            "accuracy_m": 40.5
+        },
+        "path": "sjseFztejVbBxVBh@yDd@sAqS_Cy]qAuSyDim@oAcSsAcSm@}J?Mt@gAxAqBtFyHtGyIp@}@nAaBsAeB}@oAcCeDqAqB",
+        "hard_accels": 0,
+        "hard_brakes": 0,
+        "duration_over_80_s": 0,
+        "duration_over_75_s": 0,
+        "duration_over_70_s": 0
+    },
+    {
+        "uri": "https://api.automatic.com/v1/trips/53475cbee4b034b51f9dbea1",
+        "id": "53475cbee4b034b51f9dbea1",
+        "user": {
+            "id": "e1028edc1f8bd41386c7"
+        },
+        "vehicle": {
+            "uri": "https://api.automatic.com/v1/vehicles/519965e4e4b0c01e0964fde5",
+            "id": "519965e4e4b0c01e0964fde5",
+            "year": 2006,
+            "make": "Scion",
+            "model": "xA",
+            "display_name": "Scion",
+            "color": "#404347"
+        },
+        "start_time": 1397184751852,
+        "start_time_zone": "America/Los_Angeles",
+        "end_time": 1397185706721,
+        "end_time_zone": "America/Los_Angeles",
+        "distance_m": 4806.194444444439,
+        "fuel_cost_usd": 0.5176652975400611,
+        "fuel_volume_gal": 0.12690985475363106,
+        "average_mpg": 23.53190599631859,
+        "start_location": {
+            "name": "276-298 Spear Street, San Francisco, CA 94105, USA",
+            "display_name": "Spear St, SF, CA",
+            "lat": 37.7902349,
+            "lon": -122.391188,
+            "accuracy_m": 27.57699966430664
+        },
+        "end_location": {
+            "name": "1337-1355 Sutter Street, San Francisco, CA 94109, USA",
+            "display_name": "Sutter St, SF, CA",
+            "lat": 37.7874025,
+            "lon": -122.4227309,
+            "accuracy_m": 22.52199935913086
+        },
+        "path": "_|seFzo_jV\\e@iA}A{@gAY_@IMYVe@^a@VkA`@_A^_@R}@n@}BrCwDjEyBbCkBbBqCfCwG|FiCvB{EdESRJTJTd@fAHTBTFhAnBdZhCva@\\vEDn@Ch@?^PnAZvBIv@?FD~@`Ei@HpA`@rFh@jIf@bIu@LaCXI@H`Af@fI`@fGsD^l@jIrAnSh@hI|Dg@fJeAdIcAbKoAbCSz@MtDg@`BSvAQLfBZ`FyDd@sAqSi@_IzAQ|AQTjD",
+        "hard_accels": 0,
+        "hard_brakes": 0,
+        "duration_over_80_s": 0,
+        "duration_over_75_s": 0,
+        "duration_over_70_s": 0
+    },
+    {
+        "uri": "https://api.automatic.com/v1/trips/53475cbee4b034b51f9dbe9c",
+        "id": "53475cbee4b034b51f9dbe9c",
+        "user": {
+            "id": "e1028edc1f8bd41386c7"
+        },
+        "vehicle": {
+            "uri": "https://api.automatic.com/v1/vehicles/519965e4e4b0c01e0964fde5",
+            "id": "519965e4e4b0c01e0964fde5",
+            "year": 2006,
+            "make": "Scion",
+            "model": "xA",
+            "display_name": "Scion",
+            "color": "#404347"
+        },
+        "start_time": 1397180981700,
+        "start_time_zone": "America/Los_Angeles",
+        "end_time": 1397181488900,
+        "end_time_zone": "America/Los_Angeles",
+        "distance_m": 1550.8333333333328,
+        "fuel_cost_usd": 0.23168984955951258,
+        "fuel_volume_gal": 0.05680064956104746,
+        "average_mpg": 16.96535452924777,
+        "start_location": {
+            "name": "Unknown",
+            "display_name": "Unknown",
+            "lat": 37.7901552,
+            "lon": -122.3911268,
+            "accuracy_m": 40.5
+        },
+        "end_location": {
+            "name": "Unknown",
+            "display_name": "Spear St, SF, CA",
+            "lat": 37.7901552,
+            "lon": -122.3911268,
+            "accuracy_m": 27.57699966430664
+        },
+        "path": "s{seFjo_jVPUiA}A{@gAY_@IMYVe@^a@VkA`@_A^_@Ra@XUNLPX^rEfGtEoG",
+        "hard_accels": 0,
+        "hard_brakes": 0,
+        "duration_over_80_s": 0,
+        "duration_over_75_s": 0,
+        "duration_over_70_s": 0
+    },
+    {
+        "uri": "https://api.automatic.com/v1/trips/5342e853e4b06fb875355503",
+        "id": "5342e853e4b06fb875355503",
+        "user": {
+            "id": "e1028edc1f8bd41386c7"
+        },
+        "vehicle": {
+            "uri": "https://api.automatic.com/v1/vehicles/519965e4e4b0c01e0964fde5",
+            "id": "519965e4e4b0c01e0964fde5",
+            "year": 2006,
+            "make": "Scion",
+            "model": "xA",
+            "display_name": "Scion",
+            "color": "#404347"
+        },
+        "start_time": 1396892842619,
+        "start_time_zone": "America/Los_Angeles",
+        "end_time": 1396893693032,
+        "end_time_zone": "America/Los_Angeles",
+        "distance_m": 3797.388888888887,
+        "fuel_cost_usd": 0.4221699312772615,
+        "fuel_volume_gal": 0.1034983896242367,
+        "average_mpg": 22.798307005978156,
+        "start_location": {
+            "name": "1350 Sutter Street, San Francisco, CA 94109, USA",
+            "display_name": "Sutter St, SF, CA",
+            "lat": 37.787692,
+            "lon": -122.422693,
+            "accuracy_m": 17.79599952697754
+        },
+        "end_location": {
+            "name": "276-298 Spear Street, San Francisco, CA 94105, USA",
+            "display_name": "Spear St, SF, CA",
+            "lat": 37.7901552,
+            "lon": -122.3911268,
+            "accuracy_m": 40.5
+        },
+        "path": "ujseFptejVRxCuARaBR_Cy]qAuS{Bq]{A_Vq@{K[qEw@qLm@}J?Mt@gAxAqBtFyHxFuH|CcEyDkF{AoBqAqBu@cAsFrHsAgBu@eAxB}CzAqB",
+        "hard_accels": 0,
+        "hard_brakes": 1,
+        "duration_over_80_s": 0,
+        "duration_over_75_s": 0,
+        "duration_over_70_s": 0
+    },
+    {
+        "uri": "https://api.automatic.com/v1/trips/5342e853e4b06fb8753554fe",
+        "id": "5342e853e4b06fb8753554fe",
+        "user": {
+            "id": "e1028edc1f8bd41386c7"
+        },
+        "vehicle": {
+            "id": "509b4d40e4b046f7ed86769b"
+        },
+        "start_time": 1396805181719,
+        "start_time_zone": "America/Los_Angeles",
+        "end_time": 1396805298900,
+        "end_time_zone": "America/Los_Angeles",
+        "distance_m": 1089.9166666666656,
+        "fuel_cost_usd": 0.38065407012875546,
+        "fuel_volume_gal": 0.09332043886461278,
+        "average_mpg": 7.257175671757564,
+        "start_location": {
+            "name": "1350 Sutter Street, San Francisco, CA 94109, USA",
+            "display_name": "Sutter St, SF, CA",
+            "lat": 37.7877415,
+            "lon": -122.4226307,
+            "accuracy_m": 20
+        },
+        "end_location": {
+            "name": "1350 Sutter Street, San Francisco, CA 94109, USA",
+            "display_name": "Sutter St, SF, CA",
+            "lat": 37.7877416,
+            "lon": -122.4226115,
+            "accuracy_m": 17.79599952697754
+        },
+        "path": "qmseFvtejV@L",
+        "hard_accels": 0,
+        "hard_brakes": 0,
+        "duration_over_80_s": 0,
+        "duration_over_75_s": 0,
+        "duration_over_70_s": 0
+    },
+    {
+        "uri": "https://api.automatic.com/v1/trips/5342e853e4b06fb8753554fd",
+        "id": "5342e853e4b06fb8753554fd",
+        "user": {
+            "id": "e1028edc1f8bd41386c7"
+        },
+        "vehicle": {
+            "id": "509b4d40e4b046f7ed86769b"
+        },
+        "start_time": 1396804696181,
+        "start_time_zone": "America/Los_Angeles",
+        "end_time": 1396804707000,
+        "end_time_zone": "America/Los_Angeles",
+        "distance_m": 107.25000000000001,
+        "fuel_cost_usd": 0.03745868847399733,
+        "fuel_volume_gal": 0.009183301905858626,
+        "average_mpg": 7.256873513538608,
+        "start_location": {
+            "name": "1470 Sutter Street, San Francisco, CA 94109, USA",
+            "display_name": "Sutter St, SF, CA",
+            "lat": 37.7872388,
+            "lon": -122.4245021,
+            "accuracy_m": 8
+        },
+        "end_location": {
+            "name": "1350 Sutter Street, San Francisco, CA 94109, USA",
+            "display_name": "Sutter St, SF, CA",
+            "lat": 37.7877415,
+            "lon": -122.4226307,
+            "accuracy_m": 20
+        },
+        "path": "eiseF``fjVx@|LyDd@i@iIsAgSxDc@R`D",
+        "hard_accels": 0,
+        "hard_brakes": 0,
+        "duration_over_80_s": 0,
+        "duration_over_75_s": 0,
+        "duration_over_70_s": 0
+    },
+    {
+        "uri": "https://api.automatic.com/v1/trips/53402c7ce4b055be62f61650",
+        "id": "53402c7ce4b055be62f61650",
+        "user": {
+            "id": "e1028edc1f8bd41386c7"
+        },
+        "vehicle": {
+            "uri": "https://api.automatic.com/v1/vehicles/519965e4e4b0c01e0964fde5",
+            "id": "519965e4e4b0c01e0964fde5",
+            "year": 2006,
+            "make": "Scion",
+            "model": "xA",
+            "display_name": "Scion",
+            "color": "#404347"
+        },
+        "start_time": 1396713793213,
+        "start_time_zone": "America/Los_Angeles",
+        "end_time": 1396714598922,
+        "end_time_zone": "America/Los_Angeles",
+        "distance_m": 2507.416666666665,
+        "fuel_cost_usd": 0.37015328663969793,
+        "fuel_volume_gal": 0.09074608645248786,
+        "average_mpg": 17.169186512722757,
+        "start_location": {
+            "name": "1400 Franklin Street, San Francisco, CA 94109, USA",
+            "display_name": "Franklin St, SF, CA",
+            "lat": 37.7875515,
+            "lon": -122.423332,
+            "accuracy_m": 15
+        },
+        "end_location": {
+            "name": "1470 Sutter Street, San Francisco, CA 94109, USA",
+            "display_name": "Sutter St, SF, CA",
+            "lat": 37.7871914,
+            "lon": -122.4244506,
+            "accuracy_m": 8
+        },
+        "path": "akseFryejVqFp@}ARVhDR~CxASnBWdDa@xDg@a@oGGw@_BR{APZtE",
+        "hard_accels": 1,
+        "hard_brakes": 0,
+        "duration_over_80_s": 0,
+        "duration_over_75_s": 0,
+        "duration_over_70_s": 0
+    },
+    {
+        "uri": "https://api.automatic.com/v1/trips/533f9d74e4b0083f2036df44",
+        "id": "533f9d74e4b0083f2036df44",
+        "user": {
+            "id": "e1028edc1f8bd41386c7"
+        },
+        "vehicle": {
+            "uri": "https://api.automatic.com/v1/vehicles/519965e4e4b0c01e0964fde5",
+            "id": "519965e4e4b0c01e0964fde5",
+            "year": 2006,
+            "make": "Scion",
+            "model": "xA",
+            "display_name": "Scion",
+            "color": "#404347"
+        },
+        "start_time": 1396677565205,
+        "start_time_zone": "America/Los_Angeles",
+        "end_time": 1396677978407,
+        "end_time_zone": "America/Los_Angeles",
+        "distance_m": 2298.055555555557,
+        "fuel_cost_usd": 0.23701092013069505,
+        "fuel_volume_gal": 0.058105153255870325,
+        "average_mpg": 24.575195836677718,
+        "start_location": {
+            "name": "717-723 Vallejo Street, San Francisco, CA 94133, USA",
+            "display_name": "Vallejo St, SF, CA",
+            "lat": 37.7985175,
+            "lon": -122.4093499,
+            "accuracy_m": 30
+        },
+        "end_location": {
+            "name": "1400 Franklin Street, San Francisco, CA 94109, USA",
+            "display_name": "Franklin St, SF, CA",
+            "lat": 37.7875044,
+            "lon": -122.4233659,
+            "accuracy_m": 15
+        },
+        "path": "youeFlacjVLpBLrBhBShAMTIxAOjEk@rEe@bEk@jDi@dCWt@M?BT~C|@nN~Bp^~AnV^fFvG_AvGw@f@zH_@F",
+        "hard_accels": 0,
+        "hard_brakes": 0,
+        "duration_over_80_s": 0,
+        "duration_over_75_s": 0,
+        "duration_over_70_s": 0
+    },
+    {
+        "uri": "https://api.automatic.com/v1/trips/533f91f2e4b055be62f4f35b",
+        "id": "533f91f2e4b055be62f4f35b",
+        "user": {
+            "id": "e1028edc1f8bd41386c7"
+        },
+        "vehicle": {
+            "uri": "https://api.automatic.com/v1/vehicles/519965e4e4b0c01e0964fde5",
+            "id": "519965e4e4b0c01e0964fde5",
+            "year": 2006,
+            "make": "Scion",
+            "model": "xA",
+            "display_name": "Scion",
+            "color": "#404347"
+        },
+        "start_time": 1396674144719,
+        "start_time_zone": "America/Los_Angeles",
+        "end_time": 1396674949410,
+        "end_time_zone": "America/Los_Angeles",
+        "distance_m": 3266.972222222227,
+        "fuel_cost_usd": 0.4505822252361773,
+        "fuel_volume_gal": 0.11046389439474806,
+        "average_mpg": 18.37706732911449,
+        "start_location": {
+            "name": "24 The Embarcadero, San Francisco, CA 94133, USA",
+            "display_name": "The Embarcadero, SF, CA",
+            "lat": 37.7939744,
+            "lon": -122.3929347,
+            "accuracy_m": 31.5
+        },
+        "end_location": {
+            "name": "717-723 Vallejo Street, San Francisco, CA 94133, USA",
+            "display_name": "Vallejo St, SF, CA",
+            "lat": 37.7984332,
+            "lon": -122.4093489,
+            "accuracy_m": 30
+        },
+        "path": "osteFtz_jVx@{@|AvBiB`CkClDCH@NtCvDvBtCfCrDYB~@tMXjFwDb@M@_JfAuKnA_Gt@oFn@LlBXfEBNjDa@N?TbDb@rHP|Cf@|HwARcBRJdB",
+        "hard_accels": 0,
+        "hard_brakes": 0,
+        "duration_over_80_s": 0,
+        "duration_over_75_s": 0,
+        "duration_over_70_s": 0
+    },
+    {
+        "uri": "https://api.automatic.com/v1/trips/533f91f2e4b055be62f4f356",
+        "id": "533f91f2e4b055be62f4f356",
+        "user": {
+            "id": "e1028edc1f8bd41386c7"
+        },
+        "vehicle": {
+            "uri": "https://api.automatic.com/v1/vehicles/519965e4e4b0c01e0964fde5",
+            "id": "519965e4e4b0c01e0964fde5",
+            "year": 2006,
+            "make": "Scion",
+            "model": "xA",
+            "display_name": "Scion",
+            "color": "#404347"
+        },
+        "start_time": 1396654483600,
+        "start_time_zone": "America/Los_Angeles",
+        "end_time": 1396654554900,
+        "end_time_zone": "America/Los_Angeles",
+        "distance_m": 90.55555555555554,
+        "fuel_cost_usd": 0.040021452208211766,
+        "fuel_volume_gal": 0.009811584262861429,
+        "average_mpg": 5.734916198218495,
+        "start_location": {
+            "name": "Unknown",
+            "display_name": "Unknown",
+            "lat": 37.7866889,
+            "lon": -122.4012894,
+            "accuracy_m": 30
+        },
+        "end_location": {
+            "name": "Unknown",
+            "display_name": "The Embarcadero, SF, CA",
+            "lat": 37.7868362,
+            "lon": -122.4013078,
+            "accuracy_m": 30
+        },
+        "path": "svteFd{_jVHN}@dAkBbBqBfBON?F?BABGFGN@NFFF@d@O^KH?DBl@WZSj@g@f@m@Va@\\w@h@gAp@gA",
+        "hard_accels": 0,
+        "hard_brakes": 0,
+        "duration_over_80_s": 0,
+        "duration_over_75_s": 0,
+        "duration_over_70_s": 0
+    },
+    {
+        "uri": "https://api.automatic.com/v1/trips/533f91f2e4b055be62f4f351",
+        "id": "533f91f2e4b055be62f4f351",
+        "user": {
+            "id": "e1028edc1f8bd41386c7"
+        },
+        "vehicle": {
+            "uri": "https://api.automatic.com/v1/vehicles/519965e4e4b0c01e0964fde5",
+            "id": "519965e4e4b0c01e0964fde5",
+            "year": 2006,
+            "make": "Scion",
+            "model": "xA",
+            "display_name": "Scion",
+            "color": "#404347"
+        },
+        "start_time": 1396629705800,
+        "start_time_zone": "America/Los_Angeles",
+        "end_time": 1396629778900,
+        "end_time_zone": "America/Los_Angeles",
+        "distance_m": 101.66666666666667,
+        "fuel_cost_usd": 0.030269458138462838,
+        "fuel_volume_gal": 0.00742080366228557,
+        "average_mpg": 8.377000941620619,
+        "start_location": {
+            "name": "Unknown",
+            "display_name": "Unknown",
+            "lat": 37.7902187,
+            "lon": -122.3898627,
+            "accuracy_m": 42
+        },
+        "end_location": {
+            "name": "Unknown",
+            "display_name": "Unknown",
+            "lat": 37.7908825,
+            "lon": -122.3927456,
+            "accuracy_m": 41
+        },
+        "path": "wxseFtk_jVhDwEsC}DIMsA~AkDnEmA`Ae@T}Aj@m@Vc@Xk@b@e@f@wDvEoCxCIO",
+        "hard_accels": 0,
+        "hard_brakes": 0,
+        "duration_over_80_s": 0,
+        "duration_over_75_s": 0,
+        "duration_over_70_s": 0
+    },
+    {
+        "uri": "https://api.automatic.com/v1/trips/533edebce4b0b18fd15e2077",
+        "id": "533edebce4b0b18fd15e2077",
+        "user": {
+            "id": "e1028edc1f8bd41386c7"
+        },
+        "vehicle": {
+            "uri": "https://api.automatic.com/v1/vehicles/519965e4e4b0c01e0964fde5",
+            "id": "519965e4e4b0c01e0964fde5",
+            "year": 2006,
+            "make": "Scion",
+            "model": "xA",
+            "display_name": "Scion",
+            "color": "#404347"
+        },
+        "start_time": 1396627785129,
+        "start_time_zone": "America/Los_Angeles",
+        "end_time": 1396629087291,
+        "end_time_zone": "America/Los_Angeles",
+        "distance_m": 4510.305555555554,
+        "fuel_cost_usd": 0.5080958698018094,
+        "fuel_volume_gal": 0.12456383177293685,
+        "average_mpg": 22.49909865906294,
+        "start_location": {
+            "name": "1501-1599 U.S. 101, San Francisco, CA 94109, USA",
+            "display_name": "US-101, SF, CA",
+            "lat": 37.7895442,
+            "lon": -122.4222608,
+            "accuracy_m": 11
+        },
+        "end_location": {
+            "name": "350 The Embarcadero, San Francisco, CA 94105, USA",
+            "display_name": "The Embarcadero, SF, CA",
+            "lat": 37.7900374,
+            "lon": -122.3901148,
+            "accuracy_m": 42
+        },
+        "path": "uwseF~qejVVCj@|HgHv@_R~BoD\\wDh@m@yIa@yG?a@QoCEaBEuAc@gHmDaj@MyAc@oEQ_AYwDcAkPmBoZwAwTCSYy@Wi@~@w@jAeAtGkFrAmArCqBtAw@l@WZSj@g@f@m@Va@\\w@h@gAn@eAz@}@bC_DbAiAZSf@W|Bo@h@Sf@WhAiArBqC",
+        "hard_accels": 0,
+        "hard_brakes": 0,
+        "duration_over_80_s": 0,
+        "duration_over_75_s": 0,
+        "duration_over_70_s": 0
+    },
+    {
+        "uri": "https://api.automatic.com/v1/trips/533edebce4b0b18fd15e2072",
+        "id": "533edebce4b0b18fd15e2072",
+        "user": {
+            "id": "e1028edc1f8bd41386c7"
+        },
+        "vehicle": {
+            "uri": "https://api.automatic.com/v1/vehicles/519965e4e4b0c01e0964fde5",
+            "id": "519965e4e4b0c01e0964fde5",
+            "year": 2006,
+            "make": "Scion",
+            "model": "xA",
+            "display_name": "Scion",
+            "color": "#404347"
+        },
+        "start_time": 1396627255702,
+        "start_time_zone": "America/Los_Angeles",
+        "end_time": 1396627577609,
+        "end_time_zone": "America/Los_Angeles",
+        "distance_m": 174.75000000000003,
+        "fuel_cost_usd": 0.07137442121694773,
+        "fuel_volume_gal": 0.017498019420678534,
+        "average_mpg": 6.205537508728142,
+        "start_location": {
+            "name": "106-198 Austin Street, San Francisco, CA 94109, USA",
+            "display_name": "Austin St, SF, CA",
+            "lat": 37.788995,
+            "lon": -122.4218588,
+            "accuracy_m": 7
+        },
+        "end_location": {
+            "name": "1501-1599 U.S. 101, San Francisco, CA 94109, USA",
+            "display_name": "US-101, SF, CA",
+            "lat": 37.7895517,
+            "lon": -122.4222668,
+            "accuracy_m": 11
+        },
+        "path": "ctseFroejVi@_H{APaD`@Q@G@JrB^fFbDg@",
+        "hard_accels": 0,
+        "hard_brakes": 0,
+        "duration_over_80_s": 0,
+        "duration_over_75_s": 0,
+        "duration_over_70_s": 0
+    },
+    {
+        "uri": "https://api.automatic.com/v1/trips/533ed742e4b0b18fd15e0142",
+        "id": "533ed742e4b0b18fd15e0142",
+        "user": {
+            "id": "e1028edc1f8bd41386c7"
+        },
+        "vehicle": {
+            "uri": "https://api.automatic.com/v1/vehicles/519965e4e4b0c01e0964fde5",
+            "id": "519965e4e4b0c01e0964fde5",
+            "year": 2006,
+            "make": "Scion",
+            "model": "xA",
+            "display_name": "Scion",
+            "color": "#404347"
+        },
+        "start_time": 1396626889644,
+        "start_time_zone": "America/Los_Angeles",
+        "end_time": 1396627255630,
+        "end_time_zone": "America/Los_Angeles",
+        "distance_m": 354.02777777777766,
+        "fuel_cost_usd": 0.15681942673041624,
+        "fuel_volume_gal": 0.03844555693317388,
+        "average_mpg": 5.721926794955417,
+        "start_location": {
+            "name": "138 Fern Street, San Francisco, CA 94109, USA",
+            "display_name": "Fern St, SF, CA",
+            "lat": 37.7878661,
+            "lon": -122.4229062,
+            "accuracy_m": 30
+        },
+        "end_location": {
+            "name": "106-198 Austin Street, San Francisco, CA 94109, USA",
+            "display_name": "Austin St, SF, CA",
+            "lat": 37.7890236,
+            "lon": -122.4218655,
+            "accuracy_m": 7
+        },
+        "path": "imseFdvejVPxBu@Jk@Fi@_IC[wARCW",
+        "hard_accels": 0,
+        "hard_brakes": 0,
+        "duration_over_80_s": 0,
+        "duration_over_75_s": 0,
+        "duration_over_70_s": 0
+    },
+    {
+        "uri": "https://api.automatic.com/v1/trips/533ed742e4b0b18fd15e013d",
+        "id": "533ed742e4b0b18fd15e013d",
+        "user": {
+            "id": "e1028edc1f8bd41386c7"
+        },
+        "vehicle": {
+            "id": "509b4d40e4b046f7ed86769b"
+        },
+        "start_time": 1396592649003,
+        "start_time_zone": "America/Los_Angeles",
+        "end_time": 1396592659900,
+        "end_time_zone": "America/Los_Angeles",
+        "distance_m": 148.75,
+        "fuel_cost_usd": 0.09314032992801428,
+        "fuel_volume_gal": 0.022834108832560502,
+        "average_mpg": 4.163499136727703,
+        "start_location": {
+            "name": "1350 Sutter Street, San Francisco, CA 94109, USA",
+            "display_name": "Sutter St, SF, CA",
+            "lat": 37.787692,
+            "lon": -122.422693,
+            "accuracy_m": 20
+        },
+        "end_location": {
+            "name": "138 Fern Street, San Francisco, CA 94109, USA",
+            "display_name": "Fern St, SF, CA",
+            "lat": 37.7877803,
+            "lon": -122.4229588,
+            "accuracy_m": 30
+        },
+        "path": "omseFduejVD^",
+        "hard_accels": 0,
+        "hard_brakes": 0,
+        "duration_over_80_s": 0,
+        "duration_over_75_s": 0,
+        "duration_over_70_s": 0
+    },
+    {
+        "uri": "https://api.automatic.com/v1/trips/533e154ce4b09ae774892bb3",
+        "id": "533e154ce4b09ae774892bb3",
+        "user": {
+            "id": "e1028edc1f8bd41386c7"
+        },
+        "vehicle": {
+            "uri": "https://api.automatic.com/v1/vehicles/519965e4e4b0c01e0964fde5",
+            "id": "519965e4e4b0c01e0964fde5",
+            "year": 2006,
+            "make": "Scion",
+            "model": "xA",
+            "display_name": "Scion",
+            "color": "#404347"
+        },
+        "start_time": 1396570410325,
+        "start_time_zone": "America/Los_Angeles",
+        "end_time": 1396572576125,
+        "end_time_zone": "America/Los_Angeles",
+        "distance_m": 11264.138888888916,
+        "fuel_cost_usd": 1.184432706226383,
+        "fuel_volume_gal": 0.290373303806419,
+        "average_mpg": 24.1041835429263,
+        "start_location": {
+            "name": "1880 Bush Street, San Francisco, CA 94109, USA",
+            "display_name": "SF, CA",
+            "lat": 37.7877707,
+            "lon": -122.4282017,
+            "accuracy_m": 681
+        },
+        "end_location": {
+            "name": "951 Taraval Street, San Francisco, CA 94116, USA",
+            "display_name": "Taraval St, SF, CA",
+            "lat": 37.7428911,
+            "lon": -122.4766455,
+            "accuracy_m": 3.9000000953674316
+        },
+        "path": "elseFdwfjV}Cqe@mBiZ{Eou@aAgOwA_Um@wIc@kHn@eALUxC}DzFaIjFcHxFsHpAcBb@Wx@c@NMT[Ne@Hk@Oe@Qq@CQAKOYQ]Wg@k@{@oAuAo@u@kJ_KkCqCcDiD}DmE{DmEyDmEoKgLoByBuEwFgHwH}AcBqKuLyLcNaM{MeMiNeBiBgCwBcAWYCM@GLCH@TPpAPnA?RCRE\\Q`A_@|A]xAMn@Gb@CNAp@]`Bo@jAcA~@WNq@Rc@Li@Fc@?a@EgCg@}A[qAQaAOQMC?@MLq@Nc@PQpAYn@O`@Y`@a@Rc@L}@RgBJo@V{@XcAf@y@Dc@AkBH}@?u@Kq@Yk@QS[GYMSUMYSy@Gg@?e@t@}EJTdCrCXJf@FjAn@z@~@fB|BzA|AlGbGr\\l^hKjLtGnHdH`IxFjGlHtItIjJlCrCpB|BzH~IlJ`KnCvChH~HxB|Bt@hAx@dBH@NLZh@pB`ENVNNVLV@VIPQNc@BY?UI]OWm@o@iBuBc@_@_@Mc@Ck@FOD]P[JaARYJUPo@r@fC`DX^rFpHpDzEfGvI`HlJz@lAn@?N@b@Hb@Tn@b@bAdA`BlBjA|APJHBJNrAjBnApBlArBdAxB~@hBhA|BdAhBx@hA`@b@HRDHjAdAj@d@rA|@t@n@b@p@N\\Dd@DbANzA|HpKzGfJn@x@`Ax@t@b@`@LC~CCjCGtFGfB[zEk@nHGnC?|AARD`@?@J|@TjCFTRvGNtGqDRKBKLINATl@v@dCjDdBzBxBxC`C`DlB~BtAjBvDxFl@|@jAjA`EvFrAdB~DnF`AvAf@dAXVP\\\\|@l@~APp@^`Dn@jGZlBFn@z@bCFj@DfE?xEB^Jj@d@~@~@|AvChF\\XTHd@H^?^EXIXQTQLUv@wBv@uAn@{@|@{@bBgAf@g@LSJ[Jo@HiAJc@NWb@Y^G^F`@Nd@\\pAz@`AX~@\\rBvAb@TZHhBZhHhAzGdA|B`@LB\\RzBzAj@TX@ZAl@Il@I`@BXJ\\\\PXL^z@hKFv@V`BbAtG`@vCP|CRxARnAXjARf@GVCLAn@AbHGn@Wx@u@|AO^wAbJm@vG?lBEp@CJKLaA~@XVT^T\\jGtIhGnIf@r@\\h@A@CDAFAL@NFRHHJDD?B?L|CTfGZtIPtGRtLZnSPfK",
+        "hard_accels": 3,
+        "hard_brakes": 1,
+        "duration_over_80_s": 0,
+        "duration_over_75_s": 0,
+        "duration_over_70_s": 0
+    },
+    {
+        "uri": "https://api.automatic.com/v1/trips/533d7fe3e4b0fdb839f17030",
+        "id": "533d7fe3e4b0fdb839f17030",
+        "user": {
+            "id": "e1028edc1f8bd41386c7"
+        },
+        "vehicle": {
+            "uri": "https://api.automatic.com/v1/vehicles/519965e4e4b0c01e0964fde5",
+            "id": "519965e4e4b0c01e0964fde5",
+            "year": 2006,
+            "make": "Scion",
+            "model": "xA",
+            "display_name": "Scion",
+            "color": "#404347"
+        },
+        "start_time": 1396537750894,
+        "start_time_zone": "America/Los_Angeles",
+        "end_time": 1396538909254,
+        "end_time_zone": "America/Los_Angeles",
+        "distance_m": 5188.499999999999,
+        "fuel_cost_usd": 0.5655269979517393,
+        "fuel_volume_gal": 0.138643539581206,
+        "average_mpg": 23.253766029502305,
+        "start_location": {
+            "name": "1400 Franklin Street, San Francisco, CA 94109, USA",
+            "display_name": "Franklin St, SF, CA",
+            "lat": 37.7875515,
+            "lon": -122.423332,
+            "accuracy_m": 12.520999908447266
+        },
+        "end_location": {
+            "name": "299 Spear Street, San Francisco, CA 94105, USA",
+            "display_name": "Spear St, SF, CA",
+            "lat": 37.7901175,
+            "lon": -122.3910648,
+            "accuracy_m": 5
+        },
+        "path": "akseFryejVqFp@}ARVhDR~CxASnBWdDa@h@hIyDd@i@iIi@gIyAP_Hx@uD`@_JhA_JbAwDh@g@{Hg@wH?a@MoBEo@A_@IcDaC}^uA{SWaDWuBKe@Eo@]wEm@}JeAuP_@sFiBkYIm@Uo@Wi@~@w@jAeAzCcCxBgBrAmArCqBtAw@l@WZSj@g@f@m@Va@\\w@b@_AVc@z@iA|AiBbAsAbAiAbAk@|Bo@h@Sf@Wd@c@jAsAdCdD",
+        "hard_accels": 2,
+        "hard_brakes": 0,
+        "duration_over_80_s": 0,
+        "duration_over_75_s": 0,
+        "duration_over_70_s": 0
+    },
+    {
+        "uri": "https://api.automatic.com/v1/trips/533ceddfe4b0b8e46b24fa38",
+        "id": "533ceddfe4b0b8e46b24fa38",
+        "user": {
+            "id": "e1028edc1f8bd41386c7"
+        },
+        "vehicle": {
+            "uri": "https://api.automatic.com/v1/vehicles/519965e4e4b0c01e0964fde5",
+            "id": "519965e4e4b0c01e0964fde5",
+            "year": 2006,
+            "make": "Scion",
+            "model": "xA",
+            "display_name": "Scion",
+            "color": "#404347"
+        },
+        "start_time": 1396500219348,
+        "start_time_zone": "America/New_York",
+        "end_time": 1396501961718,
+        "end_time_zone": "America/New_York",
+        "distance_m": 10212.833333333347,
+        "fuel_cost_usd": 1.029309670394982,
+        "fuel_volume_gal": 0.2523436308886938,
+        "average_mpg": 25.148090332637185,
+        "start_location": {
+            "name": "39 Keyes Avenue, Golden Gate National Recreation Area, San Francisco, CA 94129, USA",
+            "display_name": "Keyes Ave, SF, CA",
+            "lat": 37.7985327,
+            "lon": -122.4578353,
+            "accuracy_m": 26.516000747680664
+        },
+        "end_location": {
+            "name": "1400 Franklin Street, San Francisco, CA 94109, USA",
+            "display_name": "Franklin St, SF, CA",
+            "lat": 37.7875137,
+            "lon": -122.4232791,
+            "accuracy_m": 12.520999908447266
+        },
+        "path": "youeFnpljViAu@i@vAhGhEm@xAbA\\\\FN@^ClB]X?J?NDb@b@xCrD~AlBRVPLj@Zd@P\\@l@SXMVEbBAz@GRMLKZa@NYPm@Fy@B}AD]v@}BTe@NSHEPCfCPX?^Ch@Mt@Y`@CNBRNL^d@`BJNpL]rDK|DQdHSvMa@jL_@fNa@fOe@nAGK{@gAkPQyBd@GrIgAbEi@pAI|ASvDg@fGu@fHy@RlBR~C`@C|AS}ARa@BS_DSmBkD`@i@HoFn@mGv@SBc@gHIQAm@g@kHqA}RuAeTeDuh@}Bq]sAoS{APyDf@iD\\eAGm@DyDh@{AN_BHmGv@eBRuM~AmGp@sC`@i@Lk@_Jq@wJqBuZ{El@",
+        "hard_accels": 0,
+        "hard_brakes": 0,
+        "duration_over_80_s": 0,
+        "duration_over_75_s": 0,
+        "duration_over_70_s": 0
+    },
+    {
+        "uri": "https://api.automatic.com/v1/trips/533ceddde4b0fdb839f039c1",
+        "id": "533ceddde4b0fdb839f039c1",
+        "user": {
+            "id": "e1028edc1f8bd41386c7"
+        },
+        "vehicle": {
+            "uri": "https://api.automatic.com/v1/vehicles/519965e4e4b0c01e0964fde5",
+            "id": "519965e4e4b0c01e0964fde5",
+            "year": 2006,
+            "make": "Scion",
+            "model": "xA",
+            "display_name": "Scion",
+            "color": "#404347"
+        },
+        "start_time": 1396495356677,
+        "start_time_zone": "America/New_York",
+        "end_time": 1396495651307,
+        "end_time_zone": "America/New_York",
+        "distance_m": 1231.8333333333335,
+        "fuel_cost_usd": 0.15050063066230637,
+        "fuel_volume_gal": 0.03689645272427222,
+        "average_mpg": 20.74523945949659,
+        "start_location": {
+            "name": "2769 Lombard Street, San Francisco, CA 94123, USA",
+            "display_name": "Lombard St, SF, CA",
+            "lat": 37.7982489,
+            "lon": -122.4470272,
+            "accuracy_m": 30
+        },
+        "end_location": {
+            "name": "39 Keyes Avenue, Golden Gate National Recreation Area, San Francisco, CA 94129, USA",
+            "display_name": "Keyes Ave, SF, CA",
+            "lat": 37.798094,
+            "lon": -122.4580229,
+            "accuracy_m": 49.10900115966797
+        },
+        "path": "}mueFlnjjVq@DLxABLFNNRLHdAv@DFP\\Nb@FTJ`@QJEDGFGJc@xAeBrGS`@KLUP_@Pq@ZUVSd@Gf@Fr@FTVd@HNj@hBj@nBv@~C`@xAVh@Jn@Af@W|@_AhC[z@vBxAc@nAKRCBKCa@U",
+        "hard_accels": 0,
+        "hard_brakes": 0,
+        "duration_over_80_s": 0,
+        "duration_over_75_s": 0,
+        "duration_over_70_s": 0
+    },
+    {
+        "uri": "https://api.automatic.com/v1/trips/533ceddae4b0b8e46b24fa0a",
+        "id": "533ceddae4b0b8e46b24fa0a",
+        "user": {
+            "id": "e1028edc1f8bd41386c7"
+        },
+        "vehicle": {
+            "uri": "https://api.automatic.com/v1/vehicles/519965e4e4b0c01e0964fde5",
+            "id": "519965e4e4b0c01e0964fde5",
+            "year": 2006,
+            "make": "Scion",
+            "model": "xA",
+            "display_name": "Scion",
+            "color": "#404347"
+        },
+        "start_time": 1396488881291,
+        "start_time_zone": "America/New_York",
+        "end_time": 1396490089120,
+        "end_time_zone": "America/New_York",
+        "distance_m": 5446.8055555555475,
+        "fuel_cost_usd": 0.5805490470415464,
+        "fuel_volume_gal": 0.14232631699964365,
+        "average_mpg": 23.779776876745558,
+        "start_location": {
+            "name": "251-299 Vallejo Street, San Francisco, CA 94133, USA",
+            "display_name": "Vallejo St, SF, CA",
+            "lat": 37.7994157,
+            "lon": -122.4021696,
+            "accuracy_m": 18.983999252319336
+        },
+        "end_location": {
+            "name": "2769 Lombard Street, San Francisco, CA 94123, USA",
+            "display_name": "Lombard St, SF, CA",
+            "lat": 37.7983996,
+            "lon": -122.4472944,
+            "accuracy_m": 30
+        },
+        "path": "muueFptajVFt@yDb@uGt@yGz@yJhAmAHKBCBsAnBiArBuA`DFr@PtAxDxl@hBrYjA`Qn@bJrAzSrBh[VvCNfBj@jIjAnQ@f@EZMb@xH_Av@SRMPO`AMfBSf@hIrAdSpAtS?r@Il@CHTLBBFJBLTtD\\jGp@E",
+        "hard_accels": 0,
+        "hard_brakes": 0,
+        "duration_over_80_s": 0,
+        "duration_over_75_s": 0,
+        "duration_over_70_s": 0
+    },
+    {
+        "uri": "https://api.automatic.com/v1/trips/533cbbb2e4b088d8ef6da491",
+        "id": "533cbbb2e4b088d8ef6da491",
+        "user": {
+            "id": "e1028edc1f8bd41386c7"
+        },
+        "vehicle": {
+            "uri": "https://api.automatic.com/v1/vehicles/519965e4e4b0c01e0964fde5",
+            "id": "519965e4e4b0c01e0964fde5",
+            "year": 2006,
+            "make": "Scion",
+            "model": "xA",
+            "display_name": "Scion",
+            "color": "#404347"
+        },
+        "start_time": 1396487616998,
+        "start_time_zone": "America/Los_Angeles",
+        "end_time": 1396488384311,
+        "end_time_zone": "America/Los_Angeles",
+        "distance_m": 2169.416666666665,
+        "fuel_cost_usd": 0.34600351533097806,
+        "fuel_volume_gal": 0.08482557375115912,
+        "average_mpg": 15.891587418915492,
+        "start_location": {
+            "name": "375-399 Spear Street, San Francisco, CA 94105, USA",
+            "display_name": "Spear St, SF, CA",
+            "lat": 37.7890534,
+            "lon": -122.3896907,
+            "accuracy_m": 30.413000106811523
+        },
+        "end_location": {
+            "name": "251-299 Vallejo Street, San Francisco, CA 94133, USA",
+            "display_name": "Vallejo St, SF, CA",
+            "lat": 37.7994018,
+            "lon": -122.4021156,
+            "accuracy_m": 18.983999252319336
+        },
+        "path": "stseFnf_jVd@q@qAiBw@eAS[iDfEoB~Be@^a@VkA`@_A^_@R}@n@}BrCwDjEyBbCkBbBqCfCwG|FiCvB{EdESRJTJTd@fAHTBTFhA^hFsANkBRJ`B^~FH~@",
+        "hard_accels": 0,
+        "hard_brakes": 0,
+        "duration_over_80_s": 0,
+        "duration_over_75_s": 0,
+        "duration_over_70_s": 0
+    },
+    {
+        "uri": "https://api.automatic.com/v1/trips/533cbbb0e4b088d8ef6da46e",
+        "id": "533cbbb0e4b088d8ef6da46e",
+        "user": {
+            "id": "e1028edc1f8bd41386c7"
+        },
+        "vehicle": {
+            "id": "509b4d40e4b046f7ed86769b"
+        },
+        "start_time": 1396119272093,
+        "start_time_zone": "America/Los_Angeles",
+        "end_time": 1396120557334,
+        "end_time_zone": "America/Los_Angeles",
+        "distance_m": 15450.861111110971,
+        "fuel_cost_usd": 3.764223648338177,
+        "fuel_volume_gal": 0.9228300192052408,
+        "average_mpg": 10.461501131083912,
+        "start_location": {
+            "name": "1350 Sutter Street, San Francisco, CA 94109, USA",
+            "display_name": "Sutter St, SF, CA",
+            "lat": 37.787692,
+            "lon": -122.422693,
+            "accuracy_m": 11.54699993133545
+        },
+        "end_location": {
+            "name": "1350 Sutter Street, San Francisco, CA 94109, USA",
+            "display_name": "Sutter St, SF, CA",
+            "lat": 37.7877224,
+            "lon": -122.422603,
+            "accuracy_m": 11.631999969482422
+        },
+        "path": "omseFduejV",
+        "hard_accels": 0,
+        "hard_brakes": 0,
+        "duration_over_80_s": 0,
+        "duration_over_75_s": 0,
+        "duration_over_70_s": 0
+    },
+    {
+        "uri": "https://api.automatic.com/v1/trips/5337188ae4b0c1133fd367b8",
+        "id": "5337188ae4b0c1133fd367b8",
+        "user": {
+            "id": "e1028edc1f8bd41386c7"
+        },
+        "vehicle": {
+            "id": "509b4d40e4b046f7ed86769b"
+        },
+        "start_time": 1396118285886,
+        "start_time_zone": "America/Los_Angeles",
+        "end_time": 1396119272075,
+        "end_time_zone": "America/Los_Angeles",
+        "distance_m": 9779.16666666659,
+        "fuel_cost_usd": 2.377063958225994,
+        "fuel_volume_gal": 0.5827565477386599,
+        "average_mpg": 10.42712145620791,
+        "start_location": {
+            "name": "1337 Sutter Street, San Francisco, CA 94109, USA",
+            "display_name": "Sutter St, SF, CA",
+            "lat": 37.7873717,
+            "lon": -122.4225118,
+            "accuracy_m": 10
+        },
+        "end_location": {
+            "name": "1350 Sutter Street, San Francisco, CA 94109, USA",
+            "display_name": "Sutter St, SF, CA",
+            "lat": 37.787723,
+            "lon": -122.4226182,
+            "accuracy_m": 11.54699993133545
+        },
+        "path": "wjseFxsejV@V",
+        "hard_accels": 0,
+        "hard_brakes": 0,
+        "duration_over_80_s": 0,
+        "duration_over_75_s": 0,
+        "duration_over_70_s": 0
+    },
+    {
+        "uri": "https://api.automatic.com/v1/trips/53363a21e4b0a9dc9ac954d3",
+        "id": "53363a21e4b0a9dc9ac954d3",
+        "user": {
+            "id": "e1028edc1f8bd41386c7"
+        },
+        "vehicle": {
+            "uri": "https://api.automatic.com/v1/vehicles/519965e4e4b0c01e0964fde5",
+            "id": "519965e4e4b0c01e0964fde5",
+            "year": 2006,
+            "make": "Scion",
+            "model": "xA",
+            "display_name": "Scion",
+            "color": "#404347"
+        },
+        "start_time": 1396061667614,
+        "start_time_zone": "America/Los_Angeles",
+        "end_time": 1396062734041,
+        "end_time_zone": "America/Los_Angeles",
+        "distance_m": 4790.638888888884,
+        "fuel_cost_usd": 0.5353532311188782,
+        "fuel_volume_gal": 0.13124619542017119,
+        "average_mpg": 22.680771723992578,
+        "start_location": {
+            "name": "120 San Francisco Bicycle Route 30, San Francisco, CA 94105, USA",
+            "display_name": "San Francisco Bicycle Route 30, SF, CA",
+            "lat": 37.7910939,
+            "lon": -122.3930046,
+            "accuracy_m": 25.291000366210938
+        },
+        "end_location": {
+            "name": "1337 Sutter Street, San Francisco, CA 94109, USA",
+            "display_name": "Sutter St, SF, CA",
+            "lat": 37.7874898,
+            "lon": -122.4225918,
+            "accuracy_m": 10
+        },
+        "path": "_ateFpz_jVu@eAxB}CxBwCiA}A{@gAMOKOIMYVe@^a@VkC`AaAl@c@ZuBlCoB|BaEpE}EjE_@^kC~BkC|BiCvB{EdESRJTJTd@fAJ`@BTvAnTlBnZbAjPXvDChAl@fEx@jMnAvRpAdSH`DX~D{@L{BXh@xH@Z|De@xDc@rLyAdGy@zD]vG_A|ASxDc@PhC",
+        "hard_accels": 0,
+        "hard_brakes": 0,
+        "duration_over_80_s": 0,
+        "duration_over_75_s": 0,
+        "duration_over_70_s": 0
+    },
+    {
+        "uri": "https://api.automatic.com/v1/trips/53363a21e4b0a9dc9ac954ce",
+        "id": "53363a21e4b0a9dc9ac954ce",
+        "user": {
+            "id": "e1028edc1f8bd41386c7"
+        },
+        "vehicle": {
+            "id": "509b4d40e4b046f7ed86769b"
+        },
+        "start_time": 1396036763929,
+        "start_time_zone": "America/Los_Angeles",
+        "end_time": 1396036945965,
+        "end_time_zone": "America/Los_Angeles",
+        "distance_m": 2614.4444444444352,
+        "fuel_cost_usd": 1.1245580817666059,
+        "fuel_volume_gal": 0.27569455301951606,
+        "average_mpg": 5.892537388534165,
+        "start_location": {
+            "name": "120 San Francisco Bicycle Route 30, San Francisco, CA 94105, USA",
+            "display_name": "San Francisco Bicycle Route 30, SF, CA",
+            "lat": 37.7910939,
+            "lon": -122.3930046,
+            "accuracy_m": 27.204999923706055
+        },
+        "end_location": {
+            "name": "120 San Francisco Bicycle Route 30, San Francisco, CA 94105, USA",
+            "display_name": "San Francisco Bicycle Route 30, SF, CA",
+            "lat": 37.7910184,
+            "lon": -122.392916,
+            "accuracy_m": 25.291000366210938
+        },
+        "path": "{`teFtz_jV",
+        "hard_accels": 0,
+        "hard_brakes": 0,
+        "duration_over_80_s": 0,
+        "duration_over_75_s": 0,
+        "duration_over_70_s": 0
+    }
+]

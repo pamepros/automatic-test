@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+<style name="AutomaticScrollStyle" parent="android:Theme">
+    <item name="android:scrollbarAlwaysDrawVerticalTrack">true</item>
+    <item name="android:scrollbars">vertical</item>
+    <item name="android:fadeScrollbars">false</item>
+    <item name="android:scrollbarThumbVertical">@drawable/car</item>
+    <item name="android:scrollbarStyle">insideOverlay</item>
+</style>
+</resources>
