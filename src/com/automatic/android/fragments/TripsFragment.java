@@ -47,18 +47,17 @@ public class TripsFragment extends SherlockFragment{
 		list = (ListView) view.findViewById(R.id.tripsList);
 		list.setVisibility(view.GONE);
 		list.setAdapter(_adapter);
+
+        // set bar to left side -only on kitkat >
 		if(Build.VERSION.SDK_INT >= Build.VERSION_CODES.KITKAT) {
 			list.setVerticalScrollbarPosition(View.SCROLLBAR_POSITION_LEFT);
 		}
-		//Dialog d = new Dialog(MainActivity.this);
 
 		BaseApplication.getAPIController().getAllTrips(new TripsCallback() {
 
 			@Override
 			public void onSuccess(ArrayList<Trip> trips) {
 				showData(trips);
-				Log.i("Trips", trips.toString());
-				//ev = trips;
 			}
 
 			@Override
@@ -73,13 +72,15 @@ public class TripsFragment extends SherlockFragment{
 	}
 	
 	private void showData(ArrayList<Trip> trips) {
-		loading.setVisibility(view.GONE);
-		list.setVisibility(view.VISIBLE);
+
 		_adapter.clear();
 		_adapter.sortByDate(trips);
 		_adapter.addAll(trips);
 		_adapter.notifyDataSetChanged();
-		
+
+        //remove preloader and show list
+        loading.setVisibility(view.GONE);
+        list.setVisibility(view.VISIBLE);
 	}
 	
 	private class SearchTextWatcher implements TextWatcher{

@@ -44,22 +44,21 @@ public class ApiController {
 
 				@Override
 				public void onError(String message) {
-					callback.onError(message);
+                    callback.onError(message);
 				}
 
 				@Override
 				public void onSuccess(JSONArray result) {
+                    // api returns array
 					Log.i("response array",result.toString());
 					try {
-						// parse json from trip
-						Log.i("response",result.toString());
+						// parse json result from trips into an array of trips objects
 						ArrayList<Trip> trips = TripsParser.parse(result);
-						//Trip event = TripParser.parse(result);
 						callback.onSuccess(trips);
 						
 					} catch (Exception e) {
 						e.printStackTrace();
-						callback.onError("error parsing");
+						callback.onError("error parsing trip");
 					}
 				}
 
@@ -71,6 +70,7 @@ public class ApiController {
 	}
 	
 	private boolean isConnected() {
+        //checks internet connection
 		return Utils.isConnected(BaseApplication.getInstance().getApplicationContext());
 	}
 
