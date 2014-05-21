@@ -24,7 +24,7 @@ import com.urucas.utils.Utils;
 
 public class ApiController {
 
-	private static String BASE_URL = "http://cleeck.urucas.com.ar/automatic/response.json";
+	private static String BASE_URL = "https://api.automatic.com/v1";
 	
 	public void getAllTrips(final TripsCallback callback) {
 	
@@ -33,8 +33,8 @@ public class ApiController {
 			return;
 		}
 		
-		//String url = BASE_URL + "/trips";
-		String url = "http://cleeck.urucas.com.ar/automatic/response.json";
+		String url = BASE_URL + "/trips";
+
 		try {
 			new JSONRequestTask(new JSONRequestTaskHandler() {
 
