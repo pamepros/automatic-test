@@ -63,7 +63,7 @@ public class ApiController {
 					}
 				}
 
-			}).addHeader("Authorization", "token 8eb376dbda0243633269fd8c3e6dd820aa684646").execute(BASE_URL);
+			}).addHeader("Authorization", "token 8eb376dbda0243633269fd8c3e6dd820aa684646").execute(url);
 			
 		} catch (Exception e) {
 			callback.onError("error calling api");

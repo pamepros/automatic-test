@@ -38,8 +38,7 @@ public class TripsAdapter extends ArrayAdapter<Trip> {
 		public ImageView mapImage;
 		
 	}
-	
-	@SuppressWarnings("deprecation")
+
 	@Override
 	public View getView(int position, View convertView, ViewGroup parent) {
 	
@@ -78,11 +77,13 @@ public class TripsAdapter extends ArrayAdapter<Trip> {
 		holder.dateFrom.setText(start);
 		holder.dateTo.setText(end);
 		
-		//map
+		//google maps static map to use in list
 		String url = "http://maps.googleapis.com/maps/api/staticmap?size=350x250&path=weight:5%7Ccolor:0x2fc0df%7Cenc:"+trip.getPath();
 		try {
 			BaseApplication.getImageLoader().displayImage(url, holder.mapImage);
-		}catch(Exception e){}
+		}catch(Exception e){
+            Log.i("Map Error","Can't load map image");
+        }
 		
 		return rowView;
 	}

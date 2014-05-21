@@ -15,9 +15,10 @@ public class MainActivity extends SherlockFragmentActivity {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
 
+        //add action bar sherlock action bar instead of google's getActionBar()
 		ActionBar actionBar = getSupportActionBar();
 
-		// Show Actionbar Icon
+		// Show Actionbar Back button
 		actionBar.setDisplayShowHomeEnabled(true);
 	    actionBar.setDisplayHomeAsUpEnabled(true);
 	    
@@ -28,7 +29,8 @@ public class MainActivity extends SherlockFragmentActivity {
 				.addToBackStack(null)
 				.commitAllowingStateLoss();
 	    }else{
-	    	tripsFragment = (TripsFragment) getSupportFragmentManager().findFragmentById(R.id.trips_fragment);
+	    	tripsFragment = (TripsFragment) getSupportFragmentManager()
+                                    .findFragmentById(R.id.trips_fragment);
 	    }
 	}
 
